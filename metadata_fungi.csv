@@ -1,0 +1,926 @@
+﻿Sample,Location,Floor,Type,Indoor_Outdoor,Air_out,Material,Temperature,Humidness,RNA,Notes,DNA_RNA,Date,Group,Month,Season
+230922_1A,SAb1 (By the Elevator),b1,Corridor,Indoor,no,plastic,22,0.92,No,Drop,DNA,230922,Underground,9,Autumn
+230922_2A,SAb1 ,b1,Outdoor,Outdoor,yes,metal,22,0.92,No,Drop,DNA,230922,Outdoor,9,Autumn
+230922_3A,SAb1 ,b1,Outdoor,Outdoor,no,plastic,22,0.92,No,Drop,DNA,230922,Outdoor,9,Autumn
+230922_4A,SAb1 SA007,b1,Office,Indoor,yes,plastic,22,0.92,No,Drop,DNA,230922,Underground,9,Autumn
+230922_5A,SBb1 SB022 (in front of toilet door),b1,Corridor,Indoor,no,plastic,22,0.92,No,Drop,DNA,230922,Underground,9,Autumn
+230922_6A,SBb1 SB026,b1,Toilet (Male),Indoor,yes,plastic,22,0.92,No,Drop,DNA,230922,Underground,9,Autumn
+230922_7A,SBb1 SB022,b1,Toilet (Female),Indoor,yes,plastic,22,0.92,No,Drop,DNA,230922,Underground,9,Autumn
+230922_8A,SBb1 SB034 right side ,b1,Corridor,Indoor,no,metal,22,0.92,No,Drop,DNA,230922,Underground,9,Autumn
+230922_9A,SBb1 SB038 left side,b1,Corridor,Indoor,yes,plastic,22,0.92,No,Drop,DNA,230922,Underground,9,Autumn
+230922_10A,SBb1 SB024 left side,b1,Corridor,Indoor,no,metal,22,0.92,No,Drop,DNA,230922,Underground,9,Autumn
+230922_11A,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,22,0.92,No,Drop,DNA,230922,Underground,9,Autumn
+230922_12A,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,22,0.92,No,Drop,DNA,230922,Underground,9,Autumn
+230922_13A,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,22,0.92,No,Drop,DNA,230922,Underground,9,Autumn
+230922_14A,SC Elevator,Elevator,Elevator,Indoor,no,metal,22,0.92,No,Drop,DNA,230922,Elevator,9,Autumn
+230922_15A,SDb1 Parking lot,b1,Parking lot,Indoor,no,metal,22,0.92,No,Drop,DNA,230922,Underground,9,Autumn
+230922_16A,SDb1 Parking lot,b1,Parking lot,Indoor,no,metal,22,0.92,No,Drop,DNA,230922,Underground,9,Autumn
+230922_17A,SDb1 Parking lot,b1,Parking lot,Indoor,no,metal,22,0.92,No,Drop,DNA,230922,Underground,9,Autumn
+230922_18A,SDb1,b1,Corridor,Indoor,no,metal,22,0.92,No,Drop,DNA,230922,Underground,9,Autumn
+230922_19A,SB273,2,Common room,Indoor,no,metal,22,0.92,No,Drop,DNA,230922,Aboveground,9,Autumn
+230922_20A,SC169,2,Classroom,Indoor,no,metal,22,0.92,No,Drop,DNA,230922,Aboveground,9,Autumn
+230922_21A,SA Elevator,Elevator,Elevator,Indoor,no,metal,22,0.92,No,Drop,DNA,230922,Elevator,9,Autumn
+230922_22A,SA421,4,Office,Indoor,yes,metal,22,0.92,No,Drop,DNA,230922,Aboveground,9,Autumn
+230928_1B,SAb1 SA084 left side ,b1,Corridor,Indoor,no,metal,24.8,0.682,No,,DNA,230928,Underground,9,Autumn
+230928_2B,SAb1 SA074,b1,Toilet (Male),Indoor,no,metal,24.9,0.698,No,,DNA,230928,Underground,9,Autumn
+230928_3B,SAb1 SA080,b1,Toilet (Female),Indoor,no,metal,25.1,0.706,No,,DNA,230928,Underground,9,Autumn
+230928_4B,SAb1 Canteen,b1,Canteen,Indoor,no,metal,23.7,0.709,No,,DNA,230928,Underground,9,Autumn
+230928_5B,SAb1 SA089 (front),b1,Corridor,Indoor,no,metal,23.9,0.719,No,,DNA,230928,Underground,9,Autumn
+230928_6B,SAb1,b1,Corridor,Indoor,no,metal,24.4,0.718,No,,DNA,230928,Underground,9,Autumn
+230928_7B,SBb1 (in front of Elevator),b1,Corridor,Indoor,no,metal,24.6,0.719,No,,DNA,230928,Underground,9,Autumn
+230928_8B,SBb1,b1,Outdoor,Outdoor,no,metal,25.2,0.73,No,,DNA,230928,Outdoor,9,Autumn
+230928_9B,SB Elevator,Elevator,Elevator,Indoor,no,metal,25.4,0.718,No,,DNA,230928,Elevator,9,Autumn
+230928_10B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,26.1,0.714,No,,DNA,230928,Underground,9,Autumn
+230928_11B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,26.3,0.713,No,,DNA,230928,Underground,9,Autumn
+230928_12B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,26.4,0.718,No,,DNA,230928,Underground,9,Autumn
+230928_13B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,26,0.718,No,,DNA,230928,Underground,9,Autumn
+230928_14B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,26.9,0.718,No,,DNA,230928,Underground,9,Autumn
+230928_15B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,26.5,0.712,No,,DNA,230928,Underground,9,Autumn
+230928_16B,SD Elevator,Elevator,Elevator,Indoor,no,metal,27,0.712,No,,DNA,230928,Elevator,9,Autumn
+230928_17B,SD254,2,Classroom,Indoor,yes,metal,24.9,0.664,No,,DNA,230928,Aboveground,9,Autumn
+230928_18B,SD234,2,Corridor,Indoor,no,plastic,25,0.671,No,Very black,DNA,230928,Aboveground,9,Autumn
+230928_19B,SC221,2,Common room,Indoor,yes,metal,26.7,0.693,No,,DNA,230928,Aboveground,9,Autumn
+230928_20B,SB123,2,Classroom,Indoor,no,metal,26.3,0.675,No,,DNA,230928,Aboveground,9,Autumn
+230928_21B,SA521,5,Common room,Indoor,no,metal,26.6,0.657,No,,DNA,230928,Aboveground,9,Autumn
+230928_22B,SA434,4,Laboratory,Indoor,yes,metal,25.7,0.63,No,,DNA,230928,Aboveground,9,Autumn
+231012_1A,SAb1 (By the Elevator),b1,Corridor,Indoor,no,plastic,24.6,0.526,No,,DNA,231012,Underground,10,Autumn
+231012_2A,SAb1 ,b1,Outdoor,Outdoor,yes,metal,24.2,0.533,No,,DNA,231012,Outdoor,10,Autumn
+231012_3A,SAb1 ,b1,Outdoor,Outdoor,no,plastic,24.1,0.537,No,,DNA,231012,Outdoor,10,Autumn
+231012_4A,SAb1 SA007,b1,Office,Indoor,no,plastic,24.7,0.543,No,,DNA,231012,Underground,10,Autumn
+231012_5A,SBb1 SB022 (in front of toilet door),b1,Corridor,Indoor,no,plastic,24.7,0.549,No,,DNA,231012,Underground,10,Autumn
+231012_6A,SBb1 SB026,b1,Toilet (Male),Indoor,yes,plastic,25,0.549,No,,DNA,231012,Underground,10,Autumn
+231012_7A,SBb1 SB022,b1,Toilet (Female),Indoor,yes,plastic,25.4,0.547,No,,DNA,231012,Underground,10,Autumn
+231012_8A,SBb1 SB034 right side ,b1,Corridor,Indoor,no,metal,25.2,0.545,No,,DNA,231012,Underground,10,Autumn
+231012_9A,SBb1 SB038 left side,b1,Corridor,Indoor,no,plastic,25.4,0.546,No,,DNA,231012,Underground,10,Autumn
+231012_10A,SBb1 SB024 left side,b1,Corridor,Indoor,no,metal,25.1,0.545,No,,DNA,231012,Underground,10,Autumn
+231012_11A,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,24.7,0.545,No,,DNA,231012,Underground,10,Autumn
+231012_12A,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,24.9,0.541,No,,DNA,231012,Underground,10,Autumn
+231012_13A,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,24.9,0.542,No,,DNA,231012,Underground,10,Autumn
+231012_14A,SC Elevator,Elevator,Elevator,Indoor,no,metal,24.6,0.54,No,,DNA,231012,Elevator,10,Autumn
+231012_15A,SDb1 Parking lot,b1,Parking lot,Indoor,no,metal,24.6,0.544,No,,DNA,231012,Underground,10,Autumn
+231012_16A,SDb1 Parking lot,b1,Parking lot,Indoor,no,metal,24.8,0.545,No,,DNA,231012,Underground,10,Autumn
+231012_17A,SDb1 Parking lot,b1,Parking lot,Indoor,no,metal,25,0.543,No,,DNA,231012,Underground,10,Autumn
+231012_18A,SDb1,b1,Corridor,Indoor,no,metal,24.9,0.544,No,,DNA,231012,Underground,10,Autumn
+231012_19A,SB273,2,Common room,Indoor,no,metal,24.8,0.551,No,,DNA,231012,Aboveground,10,Autumn
+231012_20A,SA169,2,Classroom,Indoor,no,metal,24.7,0.55,No,,DNA,231012,Aboveground,10,Autumn
+231012_21A,SA Elevator,Elevator,Elevator,Indoor,no,metal,25.1,0.555,No,,DNA,231012,Elevator,10,Autumn
+231012_22A,SA421,4,Office,Indoor,no,metal,25.2,0.551,No,,DNA,231012,Aboveground,10,Autumn
+231030_1B,SAb1 SA084 left side ,b1,Corridor,Indoor,no,metal,23.3,0.512,No,,DNA,231030,Underground,10,Autumn
+231030_2B,SAb1 SA074,b1,Toilet (Male),Indoor,no,metal,23.5,0.518,No,,DNA,231030,Underground,10,Autumn
+231030_3B,SAb1 SA080,b1,Toilet (Female),Indoor,no,metal,23.6,0.516,No,,DNA,231030,Underground,10,Autumn
+231030_4B,SAb1 Canteen,b1,Canteen,Indoor,no,metal,24.1,0.539,No,,DNA,231030,Underground,10,Autumn
+231030_5B,SAb1 SA089 (front),b1,Corridor,Indoor,no,metal,23.9,0.53,No,,DNA,231030,Underground,10,Autumn
+231030_6B,SAb1,b1,Corridor,Indoor,no,metal,23.6,0.521,No,,DNA,231030,Underground,10,Autumn
+231030_7B,SBb1 (in front of Elevator),b1,Corridor,Indoor,no,metal,24.4,0.515,No,,DNA,231030,Underground,10,Autumn
+231030_8B,SBb1,b1,Outdoor,Outdoor,no,metal,25.4,0.44,No,,DNA,231030,Outdoor,10,Autumn
+231030_9B,SB Elevator,Elevator,Elevator,Indoor,no,metal,25.4,0.446,No,,DNA,231030,Elevator,10,Autumn
+231030_10B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,24.8,0.446,No,,DNA,231030,Underground,10,Autumn
+231030_11B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,24.3,0.448,No,,DNA,231030,Underground,10,Autumn
+231030_12B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,24.2,0.448,No,,DNA,231030,Underground,10,Autumn
+231030_13B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,23.9,0.447,No,,DNA,231030,Underground,10,Autumn
+231030_14B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,23.8,0.451,No,,DNA,231030,Underground,10,Autumn
+231030_15B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,23.9,0.457,No,,DNA,231030,Underground,10,Autumn
+231030_16B,SD Elevator,Elevator,Elevator,Indoor,no,metal,23.8,0.469,No,,DNA,231030,Elevator,10,Autumn
+231030_17B,SD254,2,Classroom,Indoor,yes,metal,24.6,0.501,No,,DNA,231030,Aboveground,10,Autumn
+231030_18B,SD234,2,Corridor,Indoor,no,plastic,25.5,0.493,No,Very black,DNA,231030,Aboveground,10,Autumn
+231030_19B,SC221,2,Common room,Indoor,yes,metal,25.1,0.466,No,Opened window,DNA,231030,Aboveground,10,Autumn
+231030_20B,SB123,2,Classroom,Indoor,no,metal,24.3,0.488,No,,DNA,231030,Aboveground,10,Autumn
+231030_21B,SA521,5,Common room,Indoor,no,metal,25.8,0.447,No,,DNA,231030,Aboveground,10,Autumn
+231030_22B,SA434,4,Laboratory,Indoor,yes,metal,24.5,0.469,No,,DNA,231030,Aboveground,10,Autumn
+231109_1A,SAb1 (By the Elevator),b1,Corridor,Indoor,no,plastic,22.6,0.596,No,,DNA,231109,Underground,11,Autumn
+231109_2A,SAb1 ,b1,Outdoor,Outdoor,yes,metal,21.3,0.61,No,,DNA,231109,Outdoor,11,Autumn
+231109_3A,SAb1 ,b1,Outdoor,Outdoor,no,plastic,21.2,0.618,No,,DNA,231109,Outdoor,11,Autumn
+231109_4A,SAb1 SA007,b1,Office,Indoor,no,plastic,21.4,0.627,No,,DNA,231109,Underground,11,Autumn
+231109_5A,SBb1 SB022 (in front of toilet door),b1,Corridor,Indoor,no,plastic,21.8,0.637,No,,DNA,231109,Underground,11,Autumn
+231109_6A,SBb1 SB026,b1,Toilet (Male),Indoor,yes,plastic,22,0.643,No,,DNA,231109,Underground,11,Autumn
+231109_7A,SBb1 SB022,b1,Toilet (Female),Indoor,yes,plastic,22.3,0.647,No,,DNA,231109,Underground,11,Autumn
+231109_8A,SBb1 SB034 right side ,b1,Corridor,Indoor,no,metal,22.5,0.649,No,,DNA,231109,Underground,11,Autumn
+231109_9A,SBb1 SB038 left side,b1,Corridor,Indoor,no,plastic,22.5,0.652,No,,DNA,231109,Underground,11,Autumn
+231109_10A,SBb1 SB024 left side,b1,Corridor,Indoor,no,metal,22.8,0.652,No,,DNA,231109,Underground,11,Autumn
+231109_11A,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,22.8,0.657,No,,DNA,231109,Underground,11,Autumn
+231109_12A,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,23.1,0.67,No,,DNA,231109,Underground,11,Autumn
+231109_13A,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,23.1,0.67,No,,DNA,231109,Underground,11,Autumn
+231109_14A,SC Elevator,Elevator,Elevator,Indoor,no,metal,23.1,0.679,No,,DNA,231109,Elevator,11,Autumn
+231109_15A,SDb1 Parking lot,b1,Parking lot,Indoor,no,metal,22.7,0.685,No,,DNA,231109,Underground,11,Autumn
+231109_16A,SDb1 Parking lot,b1,Parking lot,Indoor,no,metal,22.7,0.684,No,,DNA,231109,Underground,11,Autumn
+231109_17A,SDb1 Parking lot,b1,Parking lot,Indoor,no,metal,22.8,0.688,No,,DNA,231109,Underground,11,Autumn
+231109_18A,SDb1,b1,Corridor,Indoor,no,metal,22.9,0.695,No,,DNA,231109,Underground,11,Autumn
+231109_19A,SB273,2,Common room,Indoor,yes,metal,24.2,0.67,No,Opened window,DNA,231109,Aboveground,11,Autumn
+231109_20A,SC169,2,Classroom,Indoor,no,metal,24.2,0.688,No,,DNA,231109,Aboveground,11,Autumn
+231109_21A,SA Elevator,Elevator,Elevator,Indoor,no,metal,23.9,0.681,No,,DNA,231109,Elevator,11,Autumn
+231109_22A,SA421,4,Office,Indoor,no,metal,24.3,0.666,No,,DNA,231109,Aboveground,11,Autumn
+231123_1B,SAb1 SA084 left side ,b1,Corridor,Indoor,no,metal,21.1,0.395,No,,DNA,231123,Underground,11,Autumn
+231123_2B,SAb1 SA074,b1,Toilet (Male),Indoor,yes,metal,20.6,0.398,No,,DNA,231123,Underground,11,Autumn
+231123_3B,SAb1 SA080,b1,Toilet (Female),Indoor,yes,metal,20.6,0.403,No,,DNA,231123,Underground,11,Autumn
+231123_4B,SAb1 Canteen,b1,Canteen,Indoor,no,metal,20.8,0.415,No,,DNA,231123,Underground,11,Autumn
+231123_5B,SAb1 SA089 (front),b1,Corridor,Indoor,no,metal,20.9,0.408,No,,DNA,231123,Underground,11,Autumn
+231123_6B,SAb1,b1,Corridor,Indoor,no,metal,21.4,0.409,No,,DNA,231123,Underground,11,Autumn
+231123_7B,SBb1 (in front of Elevator),b1,Corridor,Indoor,no,metal,21.2,0.406,No,,DNA,231123,Underground,11,Autumn
+231123_8B,SBb1,b1,Outdoor,Outdoor,no,metal,20.8,0.401,No,,DNA,231123,Outdoor,11,Autumn
+231123_9B,SB Elevator,Elevator,Elevator,Indoor,no,metal,20.7,0.409,No,,DNA,231123,Elevator,11,Autumn
+231123_10B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,20.4,0.405,No,,DNA,231123,Underground,11,Autumn
+231123_11B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,20.3,0.406,No,,DNA,231123,Underground,11,Autumn
+231123_12B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,20.6,0.41,No,,DNA,231123,Underground,11,Autumn
+231123_13B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,20.2,0.407,No,,DNA,231123,Underground,11,Autumn
+231123_14B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,20.1,0.41,No,,DNA,231123,Underground,11,Autumn
+231123_15B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,20,0.408,No,,DNA,231123,Underground,11,Autumn
+231123_16B,SD Elevator,Elevator,Elevator,Indoor,no,metal,20.5,0.426,No,,DNA,231123,Elevator,11,Autumn
+231123_17B,SD254,2,Classroom,Indoor,no,metal,20.9,0.426,No,,DNA,231123,Aboveground,11,Autumn
+231123_18B,SD234,2,Corridor,Indoor,no,plastic,21.3,0.425,No,Very black,DNA,231123,Aboveground,11,Autumn
+231123_19B,SC221,2,Common room,Indoor,no,metal,21.8,0.435,No,,DNA,231123,Aboveground,11,Autumn
+231123_20B,SB123,2,Classroom,Indoor,no,metal,22.9,0.429,No,,DNA,231123,Aboveground,11,Autumn
+231123_21B,SA521,5,Common room,Indoor,no,metal,22.7,0.422,No,,DNA,231123,Aboveground,11,Autumn
+231123_22B,SA434,4,Laboratory,Indoor,no,metal,22.5,0.422,No,,DNA,231123,Aboveground,11,Autumn
+231207_1A,SAb1 (By the Elevator),b1,Corridor,Indoor,no,plastic,22,0.298,No,,DNA,231207,Underground,12,Winter
+231207_2A,SAb1 ,b1,Outdoor,Outdoor,yes,metal,19.9,0.306,No,,DNA,231207,Outdoor,12,Winter
+231207_3A,SAb1 ,b1,Outdoor,Outdoor,no,plastic,19.9,0.308,No,,DNA,231207,Outdoor,12,Winter
+231207_4A,SAb1 SA007,b1,Office,Indoor,yes,plastic,20.2,0.321,No,,DNA,231207,Underground,12,Winter
+231207_5A,SBb1 SB022 (in front of toilet door),b1,Corridor,Indoor,no,plastic,20,0.321,No,,DNA,231207,Underground,12,Winter
+231207_6A,SBb1 SB026,b1,Toilet (Male),Indoor,yes,plastic,19.7,0.324,No,,DNA,231207,Underground,12,Winter
+231207_7A,SBb1 SB022,b1,Toilet (Female),Indoor,yes,plastic,19.7,0.327,No,,DNA,231207,Underground,12,Winter
+231207_8A,SBb1 SB034 right side ,b1,Corridor,Indoor,no,metal,19.5,0.33,No,,DNA,231207,Underground,12,Winter
+231207_9A,SBb1 SB038 left side,b1,Corridor,Indoor,no,plastic,18.9,0.338,No,,DNA,231207,Underground,12,Winter
+231207_10A,SBb1 SB024 left side,b1,Corridor,Indoor,no,metal,18.5,0.343,No,,DNA,231207,Underground,12,Winter
+231207_11A,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,18.6,0.342,No,,DNA,231207,Underground,12,Winter
+231207_12A,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,18.6,0.342,No,,DNA,231207,Underground,12,Winter
+231207_13A,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,18.1,0.343,No,,DNA,231207,Underground,12,Winter
+231207_14A,SC Elevator,Elevator,Elevator,Indoor,no,metal,18.3,0.346,No,,DNA,231207,Elevator,12,Winter
+231207_15A,SDb1 Parking lot,b1,Parking lot,Indoor,no,metal,17.7,0.347,No,,DNA,231207,Underground,12,Winter
+231207_16A,SDb1 Parking lot,b1,Parking lot,Indoor,no,metal,17.8,0.348,No,,DNA,231207,Underground,12,Winter
+231207_17A,SDb1 Parking lot,b1,Parking lot,Indoor,no,metal,17.9,0.347,No,,DNA,231207,Underground,12,Winter
+231207_18A,SDb1,b1,Corridor,Indoor,no,metal,18,0.352,No,,DNA,231207,Underground,12,Winter
+231207_19A,SB273,2,Common room,Indoor,no,metal,20.4,0.375,No,Opened window,DNA,231207,Aboveground,12,Winter
+231207_20A,SC169,2,Classroom,Indoor,no,metal,21.5,0.295,No,,DNA,231207,Aboveground,12,Winter
+231207_21A,SA Elevator,Elevator,Elevator,Indoor,no,metal,23.8,0.296,No,,DNA,231207,Elevator,12,Winter
+231207_22A,SA421,4,Office,Indoor,no,metal,21.5,0.364,No,,DNA,231207,Aboveground,12,Winter
+231222_1B,SAb1 SA084 left side ,b1,Corridor,Indoor,no,metal,5.4,0.129,Yes,,DNA,231222,Underground,12,Winter
+231222_2B,SAb1 SA074,b1,Toilet (Male),Indoor,no,metal,8.4,0.129,Yes,,DNA,231222,Underground,12,Winter
+231222_3B,SAb1 SA080,b1,Toilet (Female),Indoor,no,metal,8.3,0.127,Yes,,DNA,231222,Underground,12,Winter
+231222_4B,SAb1 Canteen,b1,Canteen,Indoor,no,metal,13.3,0.274,Yes,,DNA,231222,Underground,12,Winter
+231222_5B,SAb1 SA089 (front),b1,Corridor,Indoor,no,metal,8.1,0.126,Yes,,DNA,231222,Underground,12,Winter
+231222_6B,SAb1,b1,Corridor,Indoor,no,metal,8.3,0.124,Yes,,DNA,231222,Underground,12,Winter
+231222_7B,SBb1 (in front of Elevator),b1,Corridor,Indoor,no,metal,8.7,0.119,Yes,,DNA,231222,Underground,12,Winter
+231222_8B,SBb1,b1,Outdoor,Outdoor,no,metal,-2,0.121,Yes,,DNA,231222,Outdoor,12,Winter
+231222_9B,SB Elevator,Elevator,Elevator,Indoor,no,metal,7.5,0.231,No,,DNA,231222,Elevator,12,Winter
+231222_10B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,9.6,0.236,Yes,,DNA,231222,Underground,12,Winter
+231222_11B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,9.6,0.225,Yes,,DNA,231222,Underground,12,Winter
+231222_12B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,6.4,0.206,Yes,,DNA,231222,Underground,12,Winter
+231222_13B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,6.5,0.211,Yes,,DNA,231222,Underground,12,Winter
+231222_14B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,6.7,0.21,Yes,,DNA,231222,Underground,12,Winter
+231222_15B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,6.7,0.211,Yes,,DNA,231222,Underground,12,Winter
+231222_16B,SD Elevator,Elevator,Elevator,Indoor,no,metal,7.8,0.21,No,,DNA,231222,Elevator,12,Winter
+231222_17B,SD254,2,Classroom,Indoor,yes,metal,11.7,0.221,No,,DNA,231222,Aboveground,12,Winter
+231222_18B,SD234,2,Corridor,Indoor,no,plastic,12.7,0.218,No,Very black,DNA,231222,Aboveground,12,Winter
+231222_19B,SC221,2,Common room,Indoor,yes,metal,12.4,0.22,No,,DNA,231222,Aboveground,12,Winter
+231222_20B,SB123,2,Classroom,Indoor,no,metal,12.7,0.213,No,,DNA,231222,Aboveground,12,Winter
+231222_21B,SA521,5,Common room,Indoor,no,metal,17.8,0.2,No,,DNA,231222,Aboveground,12,Winter
+231222_22B,SA434,4,Laboratory,Indoor,yes,metal,17.6,0.202,No,,DNA,231222,Aboveground,12,Winter
+240229_1B,SAb1 SA084 left side ,b1,Corridor,Indoor,no,metal,12.5,0.366,Yes,,DNA,240229,Underground,2,Winter
+240229_2B,SAb1 SA074,b1,Toilet (Male),Indoor,yes,metal,13.3,0.386,Yes,,DNA,240229,Underground,2,Winter
+240229_3B,SAb1 SA080,b1,Toilet (Female),Indoor,yes,metal,13.3,0.388,Yes,,DNA,240229,Underground,2,Winter
+240229_4B,SAb1 Canteen,b1,Canteen,Indoor,no,metal,13.9,0.461,Yes,,DNA,240229,Underground,2,Winter
+240229_5B,SAb1 SA089 (front),b1,Corridor,Indoor,no,metal,11.7,0.457,Yes,,DNA,240229,Underground,2,Winter
+240229_6B,SAb1,b1,Corridor,Indoor,no,metal,11.2,0.466,Yes,,DNA,240229,Underground,2,Winter
+240229_7B,SBb1 (in front of Elevator),b1,Corridor,Indoor,no,metal,10.8,0.479,Yes,,DNA,240229,Underground,2,Winter
+240229_8B,SBb1,b1,Outdoor,Outdoor,no,metal,7.9,0.525,Yes,,DNA,240229,Outdoor,2,Winter
+240229_9B,SB Elevator,Elevator,Elevator,Indoor,no,metal,9.1,0.541,No,,DNA,240229,Elevator,2,Winter
+240229_10B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,10.2,0.546,Yes,,DNA,240229,Underground,2,Winter
+240229_11B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,11.3,0.548,Yes,,DNA,240229,Underground,2,Winter
+240229_12B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,9.8,0.559,Yes,,DNA,240229,Underground,2,Winter
+240229_13B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,9.2,0.571,Yes,,DNA,240229,Underground,2,Winter
+240229_14B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,9,0.58,Yes,,DNA,240229,Underground,2,Winter
+240229_15B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,9.1,0.587,Yes,,DNA,240229,Underground,2,Winter
+240229_16B,SD Elevator,Elevator,Elevator,Indoor,no,metal,9.7,0.596,No,,DNA,240229,Elevator,2,Winter
+240229_17B,SD254,2,Classroom,Indoor,no,metal,13,0.601,No,,DNA,240229,Aboveground,2,Winter
+240229_18B,SD234,2,Corridor,Indoor,no,plastic,13.5,0.592,No,Very black,DNA,240229,Aboveground,2,Winter
+240229_19B,SC221,2,Common room,Indoor,yes,metal,14.4,0.593,No,,DNA,240229,Aboveground,2,Winter
+240229_20B,SB123,2,Classroom,Indoor,no,metal,23.3,0.388,No,,DNA,240229,Aboveground,2,Winter
+240229_21B,SA521,5,Common room,Indoor,no,metal,19.7,0.519,No,,DNA,240229,Aboveground,2,Winter
+240229_22B,SA434,4,Laboratory,Indoor,yes,metal,21.8,0.401,No,,DNA,240229,Aboveground,2,Winter
+240314_1A,SAb1 (By the Elevator),b1,Corridor,Indoor,no,plastic,18.3,0.349,No,,DNA,240314,Underground,3,Spring
+240314_2A,SAb1 ,b1,Outdoor,Outdoor,no,metal,16.8,0.352,No,,DNA,240314,Outdoor,3,Spring
+240314_3A,SAb1 ,b1,Outdoor,Outdoor,no,plastic,15.4,0.355,No,,DNA,240314,Outdoor,3,Spring
+240314_4A,SAb1 SA007,b1,Office,Indoor,yes,plastic,16.2,0.367,No,,DNA,240314,Underground,3,Spring
+240314_5A,SBb1 SB022 (in front of toilet door),b1,Corridor,Indoor,no,plastic,17.7,0.362,No,,DNA,240314,Underground,3,Spring
+240314_6A,SBb1 SB026,b1,Toilet (Male),Indoor,yes,plastic,17.2,0.364,No,,DNA,240314,Underground,3,Spring
+240314_7A,SBb1 SB022,b1,Toilet (Female),Indoor,yes,plastic,16.6,0.367,No,,DNA,240314,Underground,3,Spring
+240314_8A,SBb1 SB034 right side ,b1,Corridor,Indoor,no,metal,15.9,0.373,No,,DNA,240314,Underground,3,Spring
+240314_9A,SBb1 SB038 left side,b1,Corridor,Indoor,yes,plastic,13.9,0.383,No,,DNA,240314,Underground,3,Spring
+240314_10A,SBb1 SB024 left side,b1,Corridor,Indoor,no,metal,14.3,0.389,No,,DNA,240314,Underground,3,Spring
+240314_11A,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,14,0.398,No,,DNA,240314,Underground,3,Spring
+240314_12A,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,14.2,0.4,No,,DNA,240314,Underground,3,Spring
+240314_13A,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,14.2,0.417,No,,DNA,240314,Underground,3,Spring
+240314_14A,SC Elevator,Elevator,Elevator,Indoor,no,metal,14,0.415,No,,DNA,240314,Elevator,3,Spring
+240314_15A,SDb1 Parking lot,b1,Parking lot,Indoor,no,metal,13.9,0.425,No,,DNA,240314,Underground,3,Spring
+240314_16A,SDb1 Parking lot,b1,Parking lot,Indoor,no,metal,13.9,0.435,No,,DNA,240314,Underground,3,Spring
+240314_17A,SDb1 Parking lot,b1,Parking lot,Indoor,no,metal,13.9,0.438,No,,DNA,240314,Underground,3,Spring
+240314_18A,SDb1,b1,Corridor,Indoor,no,metal,13.3,0.446,No,,DNA,240314,Underground,3,Spring
+240314_19A,SB273,2,Common room,Indoor,no,metal,18.7,0.429,No,Opened window,DNA,240314,Aboveground,3,Spring
+240314_20A,SC169,2,Classroom,Indoor,no,metal,19.4,0.389,No,,DNA,240314,Aboveground,3,Spring
+240314_21A,SA Elevator,Elevator,Elevator,Indoor,no,metal,18.6,0.427,No,,DNA,240314,Elevator,3,Spring
+240314_22A,SA421,4,Office,Indoor,no,metal,26.3,0.31,No,,DNA,240314,Aboveground,3,Spring
+240328_1B,SAb1 SA084 left side ,b1,Corridor,Indoor,no,metal,18,0.522,No,,DNA,240328,Underground,3,Spring
+240328_2B,SAb1 SA074,b1,Toilet (Male),Indoor,no,metal,17.3,0.535,No,,DNA,240328,Underground,3,Spring
+240328_3B,SAb1 SA080,b1,Toilet (Female),Indoor,no,metal,17.3,0.553,No,,DNA,240328,Underground,3,Spring
+240328_4B,SAb1 Canteen,b1,Canteen,Indoor,no,metal,17.7,0.565,No,,DNA,240328,Underground,3,Spring
+240328_5B,SAb1 SA089 (front),b1,Corridor,Indoor,no,metal,17.2,0.569,No,,DNA,240328,Underground,3,Spring
+240328_6B,SAb1,b1,Corridor,Indoor,no,metal,16.9,0.579,No,,DNA,240328,Underground,3,Spring
+240328_7B,SBb1 (in front of Elevator),b1,Corridor,Indoor,no,metal,16.6,0.592,No,,DNA,240328,Underground,3,Spring
+240328_8B,SBb1,b1,Outdoor,Outdoor,no,metal,16.6,0.595,No,,DNA,240328,Outdoor,3,Spring
+240328_9B,SB Elevator,Elevator,Elevator,Indoor,no,metal,16.9,0.601,No,,DNA,240328,Elevator,3,Spring
+240328_10B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,16.4,0.612,No,,DNA,240328,Underground,3,Spring
+240328_11B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,16.4,0.621,No,,DNA,240328,Underground,3,Spring
+240328_12B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,16.2,0.627,No,,DNA,240328,Underground,3,Spring
+240328_13B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,15.9,0.635,No,,DNA,240328,Underground,3,Spring
+240328_14B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,15.9,0.645,No,,DNA,240328,Underground,3,Spring
+240328_15B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,16.3,0.651,No,,DNA,240328,Underground,3,Spring
+240328_16B,SD Elevator,Elevator,Elevator,Indoor,no,metal,16.6,0.656,No,,DNA,240328,Elevator,3,Spring
+240328_17B,SD254,2,Classroom,Indoor,no,metal,17.3,0.657,No,,DNA,240328,Aboveground,3,Spring
+240328_18B,SD234,2,Corridor,Indoor,no,plastic,17.6,0.653,No,Very black,DNA,240328,Aboveground,3,Spring
+240328_19B,SC221,2,Common room,Indoor,no,metal,17.8,0.651,No,,DNA,240328,Aboveground,3,Spring
+240328_20B,SB123,2,Classroom,Indoor,no,metal,20.9,0.594,No,,DNA,240328,Aboveground,3,Spring
+240328_21B,SA521,5,Common room,Indoor,no,metal,19.3,0.633,No,,DNA,240328,Aboveground,3,Spring
+240328_22B,SA434,4,Laboratory,Indoor,no,metal,20.5,0.615,No,,DNA,240328,Aboveground,3,Spring
+240411_1A,SAb1 (By the Elevator),b1,Corridor,Indoor,no,plastic,21.2,0.5439,No,,DNA,240411,Underground,4,Spring
+240411_2A,SAb1 ,b1,Outdoor,Outdoor,yes,metal,21.1,0.552,No,,DNA,240411,Outdoor,4,Spring
+240411_3A,SAb1 ,b1,Outdoor,Outdoor,no,plastic,21.1,0.552,No,,DNA,240411,Outdoor,4,Spring
+240411_4A,SAb1 SA007,b1,Office,Indoor,no,plastic,21.2,0.558,No,,DNA,240411,Underground,4,Spring
+240411_5A,SBb1 SB022 (in front of toilet door),b1,Corridor,Indoor,no,plastic,21,0.561,No,,DNA,240411,Underground,4,Spring
+240411_6A,SBb1 SB026,b1,Toilet (Male),Indoor,yes,plastic,21.4,0.567,No,,DNA,240411,Underground,4,Spring
+240411_7A,SBb1 SB022,b1,Toilet (Female),Indoor,yes,plastic,21.1,0.565,No,,DNA,240411,Underground,4,Spring
+240411_8A,SBb1 SB034 right side ,b1,Corridor,Indoor,no,metal,20.9,0.568,No,,DNA,240411,Underground,4,Spring
+240411_9A,SBb1 SB038 left side,b1,Corridor,Indoor,no,plastic,20.6,0.57,No,,DNA,240411,Underground,4,Spring
+240411_10A,SBb1 SB024 left side,b1,Corridor,Indoor,no,metal,20.1,0.574,No,,DNA,240411,Underground,4,Spring
+240411_11A,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,19.2,0.584,No,,DNA,240411,Underground,4,Spring
+240411_12A,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,19.5,0.59,No,,DNA,240411,Underground,4,Spring
+240411_13A,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,19.2,0.597,No,,DNA,240411,Underground,4,Spring
+240411_14A,SC Elevator,Elevator,Elevator,Indoor,no,metal,19.4,0.6,No,,DNA,240411,Elevator,4,Spring
+240411_15A,SDb1 Parking lot,b1,Parking lot,Indoor,no,metal,19.2,0.609,No,,DNA,240411,Underground,4,Spring
+240411_16A,SDb1 Parking lot,b1,Parking lot,Indoor,no,metal,19.1,0.611,No,,DNA,240411,Underground,4,Spring
+240411_17A,SDb1 Parking lot,b1,Parking lot,Indoor,no,metal,19,0.615,No,,DNA,240411,Underground,4,Spring
+240411_18A,SDb1,b1,Corridor,Indoor,no,metal,18.7,0.616,No,,DNA,240411,Underground,4,Spring
+240411_19A,SB273,2,Common room,Indoor,no,metal,21.4,0.616,No,Opened window,DNA,240411,Aboveground,4,Spring
+240411_20A,SC169,2,Classroom,Indoor,no,metal,21.2,0.612,No,,DNA,240411,Aboveground,4,Spring
+240411_21A,SA Elevator,Elevator,Elevator,Indoor,no,metal,22.1,0.606,No,,DNA,240411,Elevator,4,Spring
+240411_22A,SA421,4,Office,Indoor,no,metal,21.3,0.62,No,,DNA,240411,Aboveground,4,Spring
+240424_1B,SAb1 SA084 left side ,b1,Corridor,Indoor,no,metal,21.8,0.335,No,,DNA,240424,Underground,4,Spring
+240424_2B,SAb1 SA074,b1,Toilet (Male),Indoor,no,metal,21.7,0.344,No,,DNA,240424,Underground,4,Spring
+240424_3B,SAb1 SA080,b1,Toilet (Female),Indoor,no,metal,21.4,0.35,No,,DNA,240424,Underground,4,Spring
+240424_4B,SAb1 Canteen,b1,Canteen,Indoor,no,metal,23.1,0.421,No,,DNA,240424,Underground,4,Spring
+240424_5B,SAb1 SA089 (front),b1,Corridor,Indoor,no,metal,21.7,0.41,No,,DNA,240424,Underground,4,Spring
+240424_6B,SAb1,b1,Corridor,Indoor,no,metal,21.6,0.408,No,,DNA,240424,Underground,4,Spring
+240424_7B,SBb1 (in front of Elevator),b1,Corridor,Indoor,no,metal,21.4,0.406,No,,DNA,240424,Underground,4,Spring
+240424_8B,SBb1,b1,Outdoor,Outdoor,no,metal,21.8,0.407,No,,DNA,240424,Outdoor,4,Spring
+240424_9B,SB Elevator,Elevator,Elevator,Indoor,no,metal,21.9,0.416,No,,DNA,240424,Elevator,4,Spring
+240424_10B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,21.2,0.405,No,,DNA,240424,Underground,4,Spring
+240424_11B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,21.1,0.405,No,,DNA,240424,Underground,4,Spring
+240424_12B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,20.8,0.407,No,,DNA,240424,Underground,4,Spring
+240424_13B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,20.8,0.41,No,,DNA,240424,Underground,4,Spring
+240424_14B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,20.4,0.417,No,,DNA,240424,Underground,4,Spring
+240424_15B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,20.4,0.421,No,,DNA,240424,Underground,4,Spring
+240424_16B,SD Elevator,Elevator,Elevator,Indoor,no,metal,20.8,0.438,No,,DNA,240424,Elevator,4,Spring
+240424_17B,SD254,2,Classroom,Indoor,no,metal,21,0.427,No,,DNA,240424,Aboveground,4,Spring
+240424_18B,SD234,2,Corridor,Indoor,no,plastic,22.6,0.423,No,Very black,DNA,240424,Aboveground,4,Spring
+240424_19B,SC221,2,Common room,Indoor,no,metal,20.3,0.4,No,,DNA,240424,Aboveground,4,Spring
+240424_20B,SB123,2,Classroom,Indoor,no,metal,25.5,0.351,No,,DNA,240424,Aboveground,4,Spring
+240424_21B,SA521,5,Common room,Indoor,no,metal,24.7,0.374,No,,DNA,240424,Aboveground,4,Spring
+240424_22B,SA434,4,Laboratory,Indoor,no,metal,26,0.277,No,,DNA,240424,Aboveground,4,Spring
+240508_1A,SAb1 (By the Elevator),b1,Corridor,Indoor,no,plastic,23.6,0.391,No,,DNA,240508,Underground,5,Spring
+240508_2A,SAb1 ,b1,Outdoor,Outdoor,yes,metal,24.1,0.385,No,,DNA,240508,Outdoor,5,Spring
+240508_3A,SAb1 ,b1,Outdoor,Outdoor,no,plastic,24,0.39,No,,DNA,240508,Outdoor,5,Spring
+240508_4A,SAb1 SA007,b1,Office,Indoor,no,plastic,23.8,0.386,No,,DNA,240508,Underground,5,Spring
+240508_5A,SBb1 SB022 (in front of toilet door),b1,Corridor,Indoor,no,plastic,24.7,0.393,No,,DNA,240508,Underground,5,Spring
+240508_6A,SBb1 SB026,b1,Toilet (Male),Indoor,yes,plastic,24.9,0.391,No,,DNA,240508,Underground,5,Spring
+240508_7A,SBb1 SB022,b1,Toilet (Female),Indoor,yes,plastic,24.3,0.393,No,,DNA,240508,Underground,5,Spring
+240508_8A,SBb1 SB034 right side ,b1,Corridor,Indoor,no,metal,24.8,0.391,No,,DNA,240508,Underground,5,Spring
+240508_9A,SBb1 SB038 left side,b1,Corridor,Indoor,no,plastic,24.7,0.391,No,,DNA,240508,Underground,5,Spring
+240508_10A,SBb1 SB024 left side,b1,Corridor,Indoor,no,metal,23.7,0.395,No,,DNA,240508,Underground,5,Spring
+240508_11A,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,22.8,0.399,No,,DNA,240508,Underground,5,Spring
+240508_12A,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,22.2,0.405,No,,DNA,240508,Underground,5,Spring
+240508_13A,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,21.7,0.412,No,,DNA,240508,Underground,5,Spring
+240508_14A,SC Elevator,Elevator,Elevator,Indoor,no,metal,23.4,0.421,No,,DNA,240508,Elevator,5,Spring
+240508_15A,SDb1 Parking lot,b1,Parking lot,Indoor,no,metal,22.6,0.419,No,,DNA,240508,Underground,5,Spring
+240508_16A,SDb1 Parking lot,b1,Parking lot,Indoor,no,metal,21.7,0.424,No,,DNA,240508,Underground,5,Spring
+240508_17A,SDb1 Parking lot,b1,Parking lot,Indoor,no,metal,21.4,0.417,No,,DNA,240508,Underground,5,Spring
+240508_18A,SDb1,b1,Corridor,Indoor,no,metal,21.1,0.436,No,,DNA,240508,Underground,5,Spring
+240508_19A,SB273,2,Common room,Indoor,no,metal,23.8,0.451,No,Opened window,DNA,240508,Aboveground,5,Spring
+240508_20A,SC169,2,Classroom,Indoor,no,metal,22.8,0.447,No,,DNA,240508,Aboveground,5,Spring
+240508_21A,SA Elevator,Elevator,Elevator,Indoor,no,metal,24.6,0.453,No,,DNA,240508,Elevator,5,Spring
+240508_22A,SA421,4,Office,Indoor,no,metal,27.4,0.441,No,,DNA,240508,Aboveground,5,Spring
+240523_1B,SAb1 SA084 left side ,b1,Corridor,Indoor,no,metal,23.8,0.619,No,,DNA,240523,Underground,5,Spring
+240523_2B,SAb1 SA074,b1,Toilet (Male),Indoor,no,metal,24,0.635,No,,DNA,240523,Underground,5,Spring
+240523_3B,SAb1 SA080,b1,Toilet (Female),Indoor,no,metal,23.9,0.641,No,,DNA,240523,Underground,5,Spring
+240523_4B,SAb1 Canteen,b1,Canteen,Indoor,no,metal,24,0.643,No,,DNA,240523,Underground,5,Spring
+240523_5B,SAb1 SA089 (front),b1,Corridor,Indoor,no,metal,23.4,0.639,No,,DNA,240523,Underground,5,Spring
+240523_6B,SAb1,b1,Corridor,Indoor,no,metal,24.1,0.631,No,,DNA,240523,Underground,5,Spring
+240523_7B,SBb1 (in front of Elevator),b1,Corridor,Indoor,no,metal,24.5,0.623,No,,DNA,240523,Underground,5,Spring
+240523_8B,SBb1,b1,Outdoor,Outdoor,no,metal,29.3,0.635,No,,DNA,240523,Outdoor,5,Spring
+240523_9B,SB Elevator,Elevator,Elevator,Indoor,no,metal,25.2,0.625,No,,DNA,240523,Elevator,5,Spring
+240523_10B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,24.1,0.629,No,,DNA,240523,Underground,5,Spring
+240523_11B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,23.9,0.631,No,,DNA,240523,Underground,5,Spring
+240523_12B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,23.6,0.636,No,,DNA,240523,Underground,5,Spring
+240523_13B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,24.7,0.64,No,,DNA,240523,Underground,5,Spring
+240523_14B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,23.8,0.646,No,,DNA,240523,Underground,5,Spring
+240523_15B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,23.8,0.651,No,,DNA,240523,Underground,5,Spring
+240523_16B,SD Elevator,Elevator,Elevator,Indoor,no,metal,24.2,0.651,No,,DNA,240523,Elevator,5,Spring
+240523_17B,SD254,2,Classroom,Indoor,yes,metal,24.9,0.64,No,,DNA,240523,Aboveground,5,Spring
+240523_18B,SD234,2,Corridor,Indoor,no,plastic,25.6,0.637,No,Very black,DNA,240523,Aboveground,5,Spring
+240523_19B,SC221,2,Common room,Indoor,no,metal,25.7,0.659,No,,DNA,240523,Aboveground,5,Spring
+240523_20B,SB123,2,Classroom,Indoor,no,metal,25.3,0.595,No,,DNA,240523,Aboveground,5,Spring
+240523_21B,SA521,5,Common room,Indoor,no,metal,25.9,0.611,No,,DNA,240523,Aboveground,5,Spring
+240523_22B,SA434,4,Laboratory,Indoor,yes,metal,24,0.596,No,,DNA,240523,Aboveground,5,Spring
+240608_1A,SAb1 (By the Elevator),b1,Corridor,Indoor,no,plastic,23.4,0.688,No,,DNA,240608,Underground,6,Summer
+240608_2A,SAb1 ,b1,Outdoor,Outdoor,yes,metal,23.8,0.685,No,,DNA,240608,Outdoor,6,Summer
+240608_3A,SAb1 ,b1,Outdoor,Outdoor,no,plastic,23.8,0.685,No,,DNA,240608,Outdoor,6,Summer
+240608_4A,SAb1 SA007,b1,Office,Indoor,no,plastic,23.5,0.663,No,,DNA,240608,Underground,6,Summer
+240608_5A,SBb1 SB022 (in front of toilet door),b1,Corridor,Indoor,no,plastic,23.5,0.672,No,,DNA,240608,Underground,6,Summer
+240608_6A,SBb1 SB026,b1,Toilet (Male),Indoor,yes,plastic,23.7,0.673,No,,DNA,240608,Underground,6,Summer
+240608_7A,SBb1 SB022,b1,Toilet (Female),Indoor,yes,plastic,23.9,0.669,No,,DNA,240608,Underground,6,Summer
+240608_8A,SBb1 SB034 right side ,b1,Corridor,Indoor,no,metal,23.9,0.668,No,,DNA,240608,Underground,6,Summer
+240608_9A,SBb1 SB038 left side,b1,Corridor,Indoor,yes,plastic,24,0.665,No,,DNA,240608,Underground,6,Summer
+240608_10A,SBb1 SB024 left side,b1,Corridor,Indoor,no,metal,24,0.663,No,,DNA,240608,Underground,6,Summer
+240608_11A,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,23.9,0.662,No,,DNA,240608,Underground,6,Summer
+240608_12A,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,23.8,0.661,No,,DNA,240608,Underground,6,Summer
+240608_13A,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,23.5,0.664,No,,DNA,240608,Underground,6,Summer
+240608_14A,SC Elevator,Elevator,Elevator,Indoor,no,metal,24.3,0.656,No,,DNA,240608,Elevator,6,Summer
+240608_15A,SDb1 Parking lot,b1,Parking lot,Indoor,no,metal,23.7,0.658,No,,DNA,240608,Underground,6,Summer
+240608_16A,SDb1 Parking lot,b1,Parking lot,Indoor,no,metal,23.7,0.661,No,,DNA,240608,Underground,6,Summer
+240608_17A,SDb1 Parking lot,b1,Parking lot,Indoor,no,metal,23.2,0.664,No,,DNA,240608,Underground,6,Summer
+240608_18A,SDb1,b1,Corridor,Indoor,no,metal,23.7,0.661,No,,DNA,240608,Underground,6,Summer
+240608_19A,SB273,2,Common room,Indoor,no,metal,24.6,0.649,No,Opened window,DNA,240608,Aboveground,6,Summer
+240608_20A,SC169,2,Classroom,Indoor,no,metal,24.5,0.638,No,,DNA,240608,Aboveground,6,Summer
+240608_21A,SA Elevator,Elevator,Elevator,Indoor,no,metal,25.3,0.64,No,,DNA,240608,Elevator,6,Summer
+240608_22A,SA421,4,Office,Indoor,no,metal,25.1,0.607,No,,DNA,240608,Aboveground,6,Summer
+240621_1B,SAb1 SA084 left side ,b1,Corridor,Indoor,no,metal,25,0.714,Yes,,DNA,240621,Underground,6,Summer
+240621_2B,SAb1 SA074,b1,Toilet (Male),Indoor,no,metal,25.2,0.724,Yes,,DNA,240621,Underground,6,Summer
+240621_3B,SAb1 SA080,b1,Toilet (Female),Indoor,no,metal,25.3,0.737,Yes,,DNA,240621,Underground,6,Summer
+240621_4B,SAb1 Canteen,b1,Canteen,Indoor,no,metal,25,0.737,Yes,,DNA,240621,Underground,6,Summer
+240621_5B,SAb1 SA089 (front),b1,Corridor,Indoor,no,metal,25.2,0.739,Yes,,DNA,240621,Underground,6,Summer
+240621_6B,SAb1,b1,Corridor,Indoor,no,metal,25.4,0.738,Yes,,DNA,240621,Underground,6,Summer
+240621_7B,SBb1 (in front of Elevator),b1,Corridor,Indoor,no,metal,24.5,0.734,Yes,,DNA,240621,Underground,6,Summer
+240621_8B,SBb1,b1,Outdoor,Outdoor,no,metal,25.4,0.745,Yes,,DNA,240621,Outdoor,6,Summer
+240621_9B,SB Elevator,Elevator,Elevator,Indoor,no,metal,25.6,0.727,No,,DNA,240621,Elevator,6,Summer
+240621_10B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,25.3,0.751,Yes,,DNA,240621,Underground,6,Summer
+240621_11B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,25.1,0.768,Yes,,DNA,240621,Underground,6,Summer
+240621_12B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,25.2,0.787,Yes,,DNA,240621,Underground,6,Summer
+240621_13B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,25,0.807,Yes,,DNA,240621,Underground,6,Summer
+240621_14B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,24.9,0.821,Yes,,DNA,240621,Underground,6,Summer
+240621_15B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,24.8,0.835,Yes,,DNA,240621,Underground,6,Summer
+240621_16B,SD Elevator,Elevator,Elevator,Indoor,no,metal,25,0.831,No,,DNA,240621,Elevator,6,Summer
+240621_17B,SD254,2,Classroom,Indoor,yes,metal,25,0.798,No,,DNA,240621,Aboveground,6,Summer
+240621_18B,SD234,2,Corridor,Indoor,yes,plastic,25.3,0.785,No,Very black,DNA,240621,Aboveground,6,Summer
+240621_19B,SC221,2,Common room,Indoor,no,metal,25.5,0.76,No,,DNA,240621,Aboveground,6,Summer
+240621_20B,SB123,2,Classroom,Indoor,no,metal,23.8,0.673,No,,DNA,240621,Aboveground,6,Summer
+240621_21B,SA521,5,Common room,Indoor,no,metal,25.5,0.721,No,,DNA,240621,Aboveground,6,Summer
+240621_22B,SA434,4,Laboratory,Indoor,yes,metal,25.2,0.706,No,,DNA,240621,Aboveground,6,Summer
+240704_1B,SAb1 SA084 left side ,b1,Corridor,Indoor,no,metal,25.8,0.734,Yes,,DNA,240704,Underground,7,Summer
+240704_2B,SAb1 SA074,b1,Toilet (Male),Indoor,no,metal,26.1,0.75,Yes,,DNA,240704,Underground,7,Summer
+240704_3B,SAb1 SA080,b1,Toilet (Female),Indoor,no,metal,26.3,0.752,Yes,,DNA,240704,Underground,7,Summer
+240704_4B,SAb1 Canteen,b1,Canteen,Indoor,no,metal,25.9,0.734,Yes,,DNA,240704,Underground,7,Summer
+240704_5B,SAb1 SA089 (front),b1,Corridor,Indoor,no,metal,26.1,0.738,Yes,,DNA,240704,Underground,7,Summer
+240704_6B,SAb1,b1,Corridor,Indoor,no,metal,26.2,0.728,Yes,,DNA,240704,Underground,7,Summer
+240704_7B,SBb1 (in front of Elevator),b1,Corridor,Indoor,no,metal,26.4,0.723,Yes,,DNA,240704,Underground,7,Summer
+240704_8B,SBb1,b1,Outdoor,Outdoor,no,metal,27.5,0.728,Yes,,DNA,240704,Outdoor,7,Summer
+240704_9B,SB Elevator,Elevator,Elevator,Indoor,no,metal,27.7,0.714,No,,DNA,240704,Elevator,7,Summer
+240704_10B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,27.1,0.717,Yes,,DNA,240704,Underground,7,Summer
+240704_11B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,26.5,0.716,Yes,,DNA,240704,Underground,7,Summer
+240704_12B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,26.5,0.752,Yes,,DNA,240704,Underground,7,Summer
+240704_13B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,25.8,0.751,Yes,,DNA,240704,Underground,7,Summer
+240704_14B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,27,0.77,Yes,,DNA,240704,Underground,7,Summer
+240704_15B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,27.1,0.785,Yes,,DNA,240704,Underground,7,Summer
+240704_16B,SD Elevator,Elevator,Elevator,Indoor,no,metal,27.1,0.789,No,,DNA,240704,Elevator,7,Summer
+240704_17B,SD254,2,Classroom,Indoor,yes,metal,26.6,0.748,No,,DNA,240704,Aboveground,7,Summer
+240704_18B,SD234,2,Corridor,Indoor,yes,plastic,27.2,0.743,No,Very black,DNA,240704,Aboveground,7,Summer
+240704_19B,SC221,2,Common room,Indoor,no,metal,27,0.73,No,,DNA,240704,Aboveground,7,Summer
+240704_20B,SB123,2,Classroom,Indoor,no,metal,NA,NA,No,Not a crowded place,DNA,240704,Aboveground,7,Summer
+240704_21B,SA521,5,Common room,Indoor,yes,metal,26.2,0.667,No,,DNA,240704,Aboveground,7,Summer
+240704_22B,SA434,4,Laboratory,Indoor,no,metal,25.4,0.647,No,,DNA,240704,Aboveground,7,Summer
+240718_1A,SAb1 (By the Elevator),b1,Corridor,Indoor,no,plastic,25,0.654,No,,DNA,240718,Underground,7,Summer
+240718_2A,SAb1 ,b1,Outdoor,Outdoor,yes,metal,26.2,0.645,No,,DNA,240718,Outdoor,7,Summer
+240718_3A,SAb1 ,b1,Outdoor,Outdoor,no,plastic,26.2,0.645,No,,DNA,240718,Outdoor,7,Summer
+240718_4A,SAb1 SA007,b1,Office,Indoor,no,plastic,26.3,0.632,No,,DNA,240718,Underground,7,Summer
+240718_5A,SBb1 SB022 (in front of toilet door),b1,Corridor,Indoor,no,plastic,26.5,0.633,No,,DNA,240718,Underground,7,Summer
+240718_6A,SBb1 SB026,b1,Toilet (Male),Indoor,yes,plastic,27,0.634,No,,DNA,240718,Underground,7,Summer
+240718_7A,SBb1 SB022,b1,Toilet (Female),Indoor,yes,plastic,27.1,0.633,No,,DNA,240718,Underground,7,Summer
+240718_8A,SBb1 SB034 right side ,b1,Corridor,Indoor,no,metal,27,0.634,No,,DNA,240718,Underground,7,Summer
+240718_9A,SBb1 SB038 left side,b1,Corridor,Indoor,no,plastic,27,0.64,No,,DNA,240718,Underground,7,Summer
+240718_10A,SBb1 SB024 left side,b1,Corridor,Indoor,no,metal,27,0.647,No,,DNA,240718,Underground,7,Summer
+240718_11A,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,26.8,0.654,No,,DNA,240718,Underground,7,Summer
+240718_12A,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,26.7,0.681,No,,DNA,240718,Underground,7,Summer
+240718_13A,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,26.9,0.702,No,,DNA,240718,Underground,7,Summer
+240718_14A,SC Elevator,Elevator,Elevator,Indoor,no,metal,27.3,0.703,No,,DNA,240718,Elevator,7,Summer
+240718_15A,SDb1 Parking lot,b1,Parking lot,Indoor,no,metal,28,0.719,No,,DNA,240718,Underground,7,Summer
+240718_16A,SDb1 Parking lot,b1,Parking lot,Indoor,no,metal,28.3,0.727,No,,DNA,240718,Underground,7,Summer
+240718_17A,SDb1 Parking lot,b1,Parking lot,Indoor,no,metal,28.3,0.732,No,,DNA,240718,Underground,7,Summer
+240718_18A,SDb1,b1,Corridor,Indoor,no,metal,27.6,0.736,No,Renovation,DNA,240718,Underground,7,Summer
+240718_19A,SB273,2,Common room,Indoor,yes,metal,27.4,0.692,No,Opened window,DNA,240718,Aboveground,7,Summer
+240718_20A,SC169,2,Classroom,Indoor,no,metal,NA,NA,No,Not a crowded place,DNA,240718,Aboveground,7,Summer
+240718_21A,SA Elevator,Elevator,Elevator,Indoor,no,metal,28.1,0.664,No,,DNA,240718,Elevator,7,Summer
+240718_22A,SA421,4,Office,Indoor,no,metal,27.9,0.64,No,Renovation,DNA,240718,Aboveground,7,Summer
+240801_1B,SAb1 SA084 left side ,b1,Corridor,Indoor,no,metal,28.1,0.676,No,,DNA,240801,Underground,8,Summer
+240801_2B,SAb1 SA074,b1,Toilet (Male),Indoor,no,metal,27.8,0.679,No,,DNA,240801,Underground,8,Summer
+240801_3B,SAb1 SA080,b1,Toilet (Female),Indoor,no,metal,27.9,0.68,No,,DNA,240801,Underground,8,Summer
+240801_4B,SAb1 Canteen,b1,Canteen,Indoor,no,metal,27.2,0.663,No,,DNA,240801,Underground,8,Summer
+240801_5B,SAb1 SA089 (front),b1,Corridor,Indoor,no,metal,27.2,0.666,No,,DNA,240801,Underground,8,Summer
+240801_6B,SAb1,b1,Corridor,Indoor,no,metal,26.7,0.663,No,,DNA,240801,Underground,8,Summer
+240801_7B,SBb1 (in front of Elevator),b1,Corridor,Indoor,no,metal,27.7,0.663,No,,DNA,240801,Underground,8,Summer
+240801_8B,SBb1,b1,Outdoor,Outdoor,no,metal,30.9,0.656,No,,DNA,240801,Outdoor,8,Summer
+240801_9B,SB Elevator,Elevator,Elevator,Indoor,no,metal,29.8,0.64,No,Only sample the right side,DNA,240801,Elevator,8,Summer
+240801_10B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,29.1,0.647,No,,DNA,240801,Underground,8,Summer
+240801_11B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,29.2,0.654,No,,DNA,240801,Underground,8,Summer
+240801_12B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,29.2,0.657,No,,DNA,240801,Underground,8,Summer
+240801_13B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,29.8,0.664,No,,DNA,240801,Underground,8,Summer
+240801_14B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,30.1,0.668,No,,DNA,240801,Underground,8,Summer
+240801_15B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,30.3,0.669,No,,DNA,240801,Underground,8,Summer
+240801_16B,SD Elevator,Elevator,Elevator,Indoor,no,metal,29.8,0.66,No,,DNA,240801,Elevator,8,Summer
+240801_17B,SD254,2,Classroom,Indoor,yes,metal,28.5,0.619,No,,DNA,240801,Aboveground,8,Summer
+240801_18B,SD234,2,Corridor,Indoor,no,plastic,28.3,0.612,No,,DNA,240801,Aboveground,8,Summer
+240801_19B,SC221,2,Common room,Indoor,yes,metal,28.6,0.598,No,,DNA,240801,Aboveground,8,Summer
+240801_20B,SB123,2,Classroom,Indoor,no,metal,NA,NA,No,Not a crowded place,DNA,240801,Aboveground,8,Summer
+240801_21B,SA521,5,Common room,Indoor,yes,metal,27.5,0.545,No,,DNA,240801,Aboveground,8,Summer
+240801_22B,SA434,4,Laboratory,Indoor,no,metal,26.3,0.556,No,,DNA,240801,Aboveground,8,Summer
+240813_1A,SAb1 (By the Elevator),b1,Corridor,Indoor,no,plastic,26.6,0.644,No,,DNA,240813,Underground,8,Summer
+240813_2A,SAb1 ,b1,Outdoor,Outdoor,yes,metal,27.8,0.672,No,,DNA,240813,Outdoor,8,Summer
+240813_3A,SAb1 ,b1,Outdoor,Outdoor,no,plastic,27.8,0.672,No,,DNA,240813,Outdoor,8,Summer
+240813_4A,SAb1 SA007,b1,Office,Indoor,yes,plastic,27,0.643,No,,DNA,240813,Underground,8,Summer
+240813_5A,SBb1 SB022 (in front of toilet door),b1,Corridor,Indoor,no,plastic,28.3,0.653,No,,DNA,240813,Underground,8,Summer
+240813_6A,SBb1 SB026,b1,Toilet (Male),Indoor,yes,plastic,28.7,0.657,No,,DNA,240813,Underground,8,Summer
+240813_7A,SBb1 SB022,b1,Toilet (Female),Indoor,yes,plastic,29.2,0.656,No,,DNA,240813,Underground,8,Summer
+240813_8A,SBb1 SB034 right side ,b1,Corridor,Indoor,no,metal,29.4,0.653,No,,DNA,240813,Underground,8,Summer
+240813_9A,SBb1 SB038 left side,b1,Corridor,Indoor,yes,plastic,29.5,0.65,No,,DNA,240813,Underground,8,Summer
+240813_10A,SBb1 SB024 left side,b1,Corridor,Indoor,no,metal,29.4,0.65,No,,DNA,240813,Underground,8,Summer
+240813_11A,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,29.3,0.644,No,,DNA,240813,Underground,8,Summer
+240813_12A,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,29.4,0.646,No,,DNA,240813,Underground,8,Summer
+240813_13A,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,29.2,0.646,No,,DNA,240813,Underground,8,Summer
+240813_14A,SC Elevator,Elevator,Elevator,Indoor,no,metal,29.4,0.644,No,,DNA,240813,Elevator,8,Summer
+240813_15A,SDb1 Parking lot,b1,Parking lot,Indoor,no,metal,29.5,0.656,No,,DNA,240813,Underground,8,Summer
+240813_16A,SDb1 Parking lot,b1,Parking lot,Indoor,no,metal,29.5,0.667,No,,DNA,240813,Underground,8,Summer
+240813_17A,SDb1 Parking lot,b1,Parking lot,Indoor,no,metal,29.5,0.674,No,,DNA,240813,Underground,8,Summer
+240813_18A,SDb1,b1,Corridor,Indoor,no,metal,29.4,0.676,No,Renovation,DNA,240813,Underground,8,Summer
+240813_19A,SB273,2,Common room,Indoor,yes,metal,28.8,0.639,No,,DNA,240813,Aboveground,8,Summer
+240813_20A,SC169,2,Classroom,Indoor,no,metal,NA,NA,No,Not a crowded place,DNA,240813,Aboveground,8,Summer
+240813_21A,SA Elevator,Elevator,Elevator,Indoor,no,metal,29.4,0.605,No,,DNA,240813,Elevator,8,Summer
+240813_22A,SA421,4,Office,Indoor,no,metal,28.3,0.589,No,Renovation,DNA,240813,Aboveground,8,Summer
+230922_N,,,Negative control,,,NA,NA,NA,,,DNA,240922,NA,9,Autumn
+R230922_1A,SAb1 (By the Elevator),b1,Corridor,Indoor,no,plastic,22,0.92,No,Drop,RNA,230922,Underground,9,Autumn
+R230922_2A,SAb1 ,b1,Outdoor,Outdoor,yes,metal,22,0.92,No,Drop,RNA,230922,Outdoor,9,Autumn
+R230922_3A,SAb1 ,b1,Outdoor,Outdoor,no,plastic,22,0.92,No,Drop,RNA,230922,Outdoor,9,Autumn
+R230922_4A,SAb1 SA007,b1,Office,Indoor,yes,plastic,22,0.92,No,Drop,RNA,230922,Underground,9,Autumn
+R230922_5A,SBb1 SB022 (in front of toilet door),b1,Corridor,Indoor,no,plastic,22,0.92,No,Drop,RNA,230922,Underground,9,Autumn
+R230922_6A,SBb1 SB026,b1,Toilet (Male),Indoor,yes,plastic,22,0.92,No,Drop,RNA,230922,Underground,9,Autumn
+R230922_7A,SBb1 SB022,b1,Toilet (Female),Indoor,yes,plastic,22,0.92,No,Drop,RNA,230922,Underground,9,Autumn
+R230922_8A,SBb1 SB034 right side ,b1,Corridor,Indoor,no,metal,22,0.92,No,Drop,RNA,230922,Underground,9,Autumn
+R230922_9A,SBb1 SB038 left side,b1,Corridor,Indoor,yes,plastic,22,0.92,No,Drop,RNA,230922,Underground,9,Autumn
+R230922_10A,SBb1 SB024 left side,b1,Corridor,Indoor,no,metal,22,0.92,No,Drop,RNA,230922,Underground,9,Autumn
+R230922_11A,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,22,0.92,No,Drop,RNA,230922,Underground,9,Autumn
+R230922_12A,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,22,0.92,No,Drop,RNA,230922,Underground,9,Autumn
+R230922_13A,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,22,0.92,No,Drop,RNA,230922,Underground,9,Autumn
+R230922_14A,SC Elevator,Elevator,Elevator,Indoor,no,metal,22,0.92,No,Drop,RNA,230922,Elevator,9,Autumn
+R230922_15A,SDb1 Parking lot,b1,Parking lot,Indoor,no,metal,22,0.92,No,Drop,RNA,230922,Underground,9,Autumn
+R230922_16A,SDb1 Parking lot,b1,Parking lot,Indoor,no,metal,22,0.92,No,Drop,RNA,230922,Underground,9,Autumn
+R230922_17A,SDb1 Parking lot,b1,Parking lot,Indoor,no,metal,22,0.92,No,Drop,RNA,230922,Underground,9,Autumn
+R230922_18A,SDb1,b1,Corridor,Indoor,no,metal,22,0.92,No,Drop,RNA,230922,Underground,9,Autumn
+R230922_19A,SB273,2,Common room,Indoor,no,metal,22,0.92,No,Drop,RNA,230922,Aboveground,9,Autumn
+R230922_20A,SC169,2,Classroom,Indoor,no,metal,22,0.92,No,Drop,RNA,230922,Aboveground,9,Autumn
+R230922_21A,SA Elevator,Elevator,Elevator,Indoor,no,metal,22,0.92,No,Drop,RNA,230922,Elevator,9,Autumn
+R230922_22A,SA421,4,Office,Indoor,yes,metal,22,0.92,No,Drop,RNA,230922,Aboveground,9,Autumn
+R230928_1B,SAb1 SA084 left side ,b1,Corridor,Indoor,no,metal,24.8,0.682,No,,RNA,230928,Underground,9,Autumn
+R230928_2B,SAb1 SA074,b1,Toilet (Male),Indoor,no,metal,24.9,0.698,No,,RNA,230928,Underground,9,Autumn
+R230928_3B,SAb1 SA080,b1,Toilet (Female),Indoor,no,metal,25.1,0.706,No,,RNA,230928,Underground,9,Autumn
+R230928_4B,SAb1 Canteen,b1,Canteen,Indoor,no,metal,23.7,0.709,No,,RNA,230928,Underground,9,Autumn
+R230928_5B,SAb1 SA089 (front),b1,Corridor,Indoor,no,metal,23.9,0.719,No,,RNA,230928,Underground,9,Autumn
+R230928_6B,SAb1,b1,Corridor,Indoor,no,metal,24.4,0.718,No,,RNA,230928,Underground,9,Autumn
+R230928_7B,SBb1 (in front of Elevator),b1,Corridor,Indoor,no,metal,24.6,0.719,No,,RNA,230928,Underground,9,Autumn
+R230928_8B,SBb1,b1,Outdoor,Outdoor,no,metal,25.2,0.73,No,,RNA,230928,Outdoor,9,Autumn
+R230928_9B,SB Elevator,Elevator,Elevator,Indoor,no,metal,25.4,0.718,No,,RNA,230928,Elevator,9,Autumn
+R230928_10B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,26.1,0.714,No,,RNA,230928,Underground,9,Autumn
+R230928_11B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,26.3,0.713,No,,RNA,230928,Underground,9,Autumn
+R230928_12B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,26.4,0.718,No,,RNA,230928,Underground,9,Autumn
+R230928_13B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,26,0.718,No,,RNA,230928,Underground,9,Autumn
+R230928_14B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,26.9,0.718,No,,RNA,230928,Underground,9,Autumn
+R230928_15B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,26.5,0.712,No,,RNA,230928,Underground,9,Autumn
+R230928_16B,SD Elevator,Elevator,Elevator,Indoor,no,metal,27,0.712,No,,RNA,230928,Elevator,9,Autumn
+R230928_17B,SD254,2,Classroom,Indoor,yes,metal,24.9,0.664,No,,RNA,230928,Aboveground,9,Autumn
+R230928_18B,SD234,2,Corridor,Indoor,no,plastic,25,0.671,No,Very black,RNA,230928,Aboveground,9,Autumn
+R230928_19B,SC221,2,Common room,Indoor,yes,metal,26.7,0.693,No,,RNA,230928,Aboveground,9,Autumn
+R230928_20B,SB123,2,Classroom,Indoor,no,metal,26.3,0.675,No,,RNA,230928,Aboveground,9,Autumn
+R230928_21B,SA521,5,Common room,Indoor,no,metal,26.6,0.657,No,,RNA,230928,Aboveground,9,Autumn
+R230928_22B,SA434,4,Laboratory,Indoor,yes,metal,25.7,0.63,No,,RNA,230928,Aboveground,9,Autumn
+R231012_1A,SAb1 (By the Elevator),b1,Corridor,Indoor,no,plastic,24.6,0.526,No,,RNA,231012,Underground,10,Autumn
+R231012_2A,SAb1 ,b1,Outdoor,Outdoor,yes,metal,24.2,0.533,No,,RNA,231012,Outdoor,10,Autumn
+R231012_3A,SAb1 ,b1,Outdoor,Outdoor,no,plastic,24.1,0.537,No,,RNA,231012,Outdoor,10,Autumn
+R231012_4A,SAb1 SA007,b1,Office,Indoor,no,plastic,24.7,0.543,No,,RNA,231012,Underground,10,Autumn
+R231012_5A,SBb1 SB022 (in front of toilet door),b1,Corridor,Indoor,no,plastic,24.7,0.549,No,,RNA,231012,Underground,10,Autumn
+R231012_6A,SBb1 SB026,b1,Toilet (Male),Indoor,yes,plastic,25,0.549,No,,RNA,231012,Underground,10,Autumn
+R231012_7A,SBb1 SB022,b1,Toilet (Female),Indoor,yes,plastic,25.4,0.547,No,,RNA,231012,Underground,10,Autumn
+R231012_8A,SBb1 SB034 right side ,b1,Corridor,Indoor,no,metal,25.2,0.545,No,,RNA,231012,Underground,10,Autumn
+R231012_9A,SBb1 SB038 left side,b1,Corridor,Indoor,no,plastic,25.4,0.546,No,,RNA,231012,Underground,10,Autumn
+R231012_10A,SBb1 SB024 left side,b1,Corridor,Indoor,no,metal,25.1,0.545,No,,RNA,231012,Underground,10,Autumn
+R231012_11A,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,24.7,0.545,No,,RNA,231012,Underground,10,Autumn
+R231012_12A,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,24.9,0.541,No,,RNA,231012,Underground,10,Autumn
+R231012_13A,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,24.9,0.542,No,,RNA,231012,Underground,10,Autumn
+R231012_14A,SC Elevator,Elevator,Elevator,Indoor,no,metal,24.6,0.54,No,,RNA,231012,Elevator,10,Autumn
+R231012_15A,SDb1 Parking lot,b1,Parking lot,Indoor,no,metal,24.6,0.544,No,,RNA,231012,Underground,10,Autumn
+R231012_16A,SDb1 Parking lot,b1,Parking lot,Indoor,no,metal,24.8,0.545,No,,RNA,231012,Underground,10,Autumn
+R231012_17A,SDb1 Parking lot,b1,Parking lot,Indoor,no,metal,25,0.543,No,,RNA,231012,Underground,10,Autumn
+R231012_18A,SDb1,b1,Corridor,Indoor,no,metal,24.9,0.544,No,,RNA,231012,Underground,10,Autumn
+R231012_19A,SB273,2,Common room,Indoor,no,metal,24.8,0.551,No,,RNA,231012,Aboveground,10,Autumn
+R231012_20A,SA169,2,Classroom,Indoor,no,metal,24.7,0.55,No,,RNA,231012,Aboveground,10,Autumn
+R231012_21A,SA Elevator,Elevator,Elevator,Indoor,no,metal,25.1,0.555,No,,RNA,231012,Elevator,10,Autumn
+R231012_22A,SA421,4,Office,Indoor,no,metal,25.2,0.551,No,,RNA,231012,Aboveground,10,Autumn
+R231030_1B,SAb1 SA084 left side ,b1,Corridor,Indoor,no,metal,23.3,0.512,No,,RNA,231030,Underground,10,Autumn
+R231030_2B,SAb1 SA074,b1,Toilet (Male),Indoor,no,metal,23.5,0.518,No,,RNA,231030,Underground,10,Autumn
+R231030_3B,SAb1 SA080,b1,Toilet (Female),Indoor,no,metal,23.6,0.516,No,,RNA,231030,Underground,10,Autumn
+R231030_4B,SAb1 Canteen,b1,Canteen,Indoor,no,metal,24.1,0.539,No,,RNA,231030,Underground,10,Autumn
+R231030_5B,SAb1 SA089 (front),b1,Corridor,Indoor,no,metal,23.9,0.53,No,,RNA,231030,Underground,10,Autumn
+R231030_6B,SAb1,b1,Corridor,Indoor,no,metal,23.6,0.521,No,,RNA,231030,Underground,10,Autumn
+R231030_7B,SBb1 (in front of Elevator),b1,Corridor,Indoor,no,metal,24.4,0.515,No,,RNA,231030,Underground,10,Autumn
+R231030_8B,SBb1,b1,Outdoor,Outdoor,no,metal,25.4,0.44,No,,RNA,231030,Outdoor,10,Autumn
+R231030_9B,SB Elevator,Elevator,Elevator,Indoor,no,metal,25.4,0.446,No,,RNA,231030,Elevator,10,Autumn
+R231030_10B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,24.8,0.446,No,,RNA,231030,Underground,10,Autumn
+R231030_11B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,24.3,0.448,No,,RNA,231030,Underground,10,Autumn
+R231030_12B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,24.2,0.448,No,,RNA,231030,Underground,10,Autumn
+R231030_13B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,23.9,0.447,No,,RNA,231030,Underground,10,Autumn
+R231030_14B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,23.8,0.451,No,,RNA,231030,Underground,10,Autumn
+R231030_15B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,23.9,0.457,No,,RNA,231030,Underground,10,Autumn
+R231030_16B,SD Elevator,Elevator,Elevator,Indoor,no,metal,23.8,0.469,No,,RNA,231030,Elevator,10,Autumn
+R231030_17B,SD254,2,Classroom,Indoor,yes,metal,24.6,0.501,No,,RNA,231030,Aboveground,10,Autumn
+R231030_18B,SD234,2,Corridor,Indoor,no,plastic,25.5,0.493,No,Very black,RNA,231030,Aboveground,10,Autumn
+R231030_19B,SC221,2,Common room,Indoor,yes,metal,25.1,0.466,No,Opened window,RNA,231030,Aboveground,10,Autumn
+R231030_20B,SB123,2,Classroom,Indoor,no,metal,24.3,0.488,No,,RNA,231030,Aboveground,10,Autumn
+R231030_21B,SA521,5,Common room,Indoor,no,metal,25.8,0.447,No,,RNA,231030,Aboveground,10,Autumn
+R231030_22B,SA434,4,Laboratory,Indoor,yes,metal,24.5,0.469,No,,RNA,231030,Aboveground,10,Autumn
+R231109_1A,SAb1 (By the Elevator),b1,Corridor,Indoor,no,plastic,22.6,0.596,No,,RNA,231109,Underground,11,Autumn
+R231109_2A,SAb1 ,b1,Outdoor,Outdoor,yes,metal,21.3,0.61,No,,RNA,231109,Outdoor,11,Autumn
+R231109_3A,SAb1 ,b1,Outdoor,Outdoor,no,plastic,21.2,0.618,No,,RNA,231109,Outdoor,11,Autumn
+R231109_4A,SAb1 SA007,b1,Office,Indoor,no,plastic,21.4,0.627,No,,RNA,231109,Underground,11,Autumn
+R231109_5A,SBb1 SB022 (in front of toilet door),b1,Corridor,Indoor,no,plastic,21.8,0.637,No,,RNA,231109,Underground,11,Autumn
+R231109_6A,SBb1 SB026,b1,Toilet (Male),Indoor,yes,plastic,22,0.643,No,,RNA,231109,Underground,11,Autumn
+R231109_7A,SBb1 SB022,b1,Toilet (Female),Indoor,yes,plastic,22.3,0.647,No,,RNA,231109,Underground,11,Autumn
+R231109_8A,SBb1 SB034 right side ,b1,Corridor,Indoor,no,metal,22.5,0.649,No,,RNA,231109,Underground,11,Autumn
+R231109_9A,SBb1 SB038 left side,b1,Corridor,Indoor,no,plastic,22.5,0.652,No,,RNA,231109,Underground,11,Autumn
+R231109_10A,SBb1 SB024 left side,b1,Corridor,Indoor,no,metal,22.8,0.652,No,,RNA,231109,Underground,11,Autumn
+R231109_11A,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,22.8,0.657,No,,RNA,231109,Underground,11,Autumn
+R231109_12A,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,23.1,0.67,No,,RNA,231109,Underground,11,Autumn
+R231109_13A,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,23.1,0.67,No,,RNA,231109,Underground,11,Autumn
+R231109_14A,SC Elevator,Elevator,Elevator,Indoor,no,metal,23.1,67.95,No,,RNA,231109,Elevator,11,Autumn
+R231109_15A,SDb1 Parking lot,b1,Parking lot,Indoor,no,metal,22.7,0.685,No,,RNA,231109,Underground,11,Autumn
+R231109_16A,SDb1 Parking lot,b1,Parking lot,Indoor,no,metal,22.7,0.684,No,,RNA,231109,Underground,11,Autumn
+R231109_17A,SDb1 Parking lot,b1,Parking lot,Indoor,no,metal,22.8,0.688,No,,RNA,231109,Underground,11,Autumn
+R231109_18A,SDb1,b1,Corridor,Indoor,no,metal,22.9,0.695,No,,RNA,231109,Underground,11,Autumn
+R231109_19A,SB273,2,Common room,Indoor,yes,metal,24.2,0.67,No,Opened window,RNA,231109,Aboveground,11,Autumn
+R231109_20A,SC169,2,Classroom,Indoor,no,metal,24.2,0.688,No,,RNA,231109,Aboveground,11,Autumn
+R231109_21A,SA Elevator,Elevator,Elevator,Indoor,no,metal,23.9,0.681,No,,RNA,231109,Elevator,11,Autumn
+R231109_22A,SA421,4,Office,Indoor,no,metal,24.3,0.666,No,,RNA,231109,Aboveground,11,Autumn
+R231123_1B,SAb1 SA084 left side ,b1,Corridor,Indoor,no,metal,21.1,0.395,No,,RNA,231123,Underground,11,Autumn
+R231123_2B,SAb1 SA074,b1,Toilet (Male),Indoor,yes,metal,20.6,0.398,No,,RNA,231123,Underground,11,Autumn
+R231123_3B,SAb1 SA080,b1,Toilet (Female),Indoor,yes,metal,20.6,0.403,No,,RNA,231123,Underground,11,Autumn
+R231123_4B,SAb1 Canteen,b1,Canteen,Indoor,no,metal,20.8,0.415,No,,RNA,231123,Underground,11,Autumn
+R231123_5B,SAb1 SA089 (front),b1,Corridor,Indoor,no,metal,20.9,0.408,No,,RNA,231123,Underground,11,Autumn
+R231123_6B,SAb1,b1,Corridor,Indoor,no,metal,21.4,0.409,No,,RNA,231123,Underground,11,Autumn
+R231123_7B,SBb1 (in front of Elevator),b1,Corridor,Indoor,no,metal,21.2,0.406,No,,RNA,231123,Underground,11,Autumn
+R231123_8B,SBb1,b1,Outdoor,Outdoor,no,metal,20.8,0.401,No,,RNA,231123,Outdoor,11,Autumn
+R231123_9B,SB Elevator,Elevator,Elevator,Indoor,no,metal,20.7,0.409,No,,RNA,231123,Elevator,11,Autumn
+R231123_10B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,20.4,0.405,No,,RNA,231123,Underground,11,Autumn
+R231123_11B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,20.3,0.406,No,,RNA,231123,Underground,11,Autumn
+R231123_12B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,20.6,0.41,No,,RNA,231123,Underground,11,Autumn
+R231123_13B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,20.2,0.407,No,,RNA,231123,Underground,11,Autumn
+R231123_14B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,20.1,0.41,No,,RNA,231123,Underground,11,Autumn
+R231123_15B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,20,0.408,No,,RNA,231123,Underground,11,Autumn
+R231123_16B,SD Elevator,Elevator,Elevator,Indoor,no,metal,20.5,0.426,No,,RNA,231123,Elevator,11,Autumn
+R231123_17B,SD254,2,Classroom,Indoor,no,metal,20.9,0.426,No,,RNA,231123,Aboveground,11,Autumn
+R231123_18B,SD234,2,Corridor,Indoor,no,plastic,21.3,0.425,No,Very black,RNA,231123,Aboveground,11,Autumn
+R231123_19B,SC221,2,Common room,Indoor,no,metal,21.8,0.435,No,,RNA,231123,Aboveground,11,Autumn
+R231123_20B,SB123,2,Classroom,Indoor,no,metal,22.9,0.429,No,,RNA,231123,Aboveground,11,Autumn
+R231123_21B,SA521,5,Common room,Indoor,no,metal,22.7,0.422,No,,RNA,231123,Aboveground,11,Autumn
+R231123_22B,SA434,4,Laboratory,Indoor,no,metal,22.5,0.422,No,,RNA,231123,Aboveground,11,Autumn
+R231207_1A,SAb1 (By the Elevator),b1,Corridor,Indoor,no,plastic,22,0.298,No,,RNA,231207,Underground,12,Winter
+R231207_2A,SAb1 ,b1,Outdoor,Outdoor,yes,metal,19.9,0.306,No,,RNA,231207,Outdoor,12,Winter
+R231207_3A,SAb1 ,b1,Outdoor,Outdoor,no,plastic,19.9,0.308,No,,RNA,231207,Outdoor,12,Winter
+R231207_4A,SAb1 SA007,b1,Office,Indoor,yes,plastic,20.2,0.321,No,,RNA,231207,Underground,12,Winter
+R231207_5A,SBb1 SB022 (in front of toilet door),b1,Corridor,Indoor,no,plastic,20,0.321,No,,RNA,231207,Underground,12,Winter
+R231207_6A,SBb1 SB026,b1,Toilet (Male),Indoor,yes,plastic,19.7,0.324,No,,RNA,231207,Underground,12,Winter
+R231207_7A,SBb1 SB022,b1,Toilet (Female),Indoor,yes,plastic,19.7,0.327,No,,RNA,231207,Underground,12,Winter
+R231207_8A,SBb1 SB034 right side ,b1,Corridor,Indoor,no,metal,19.5,0.33,No,,RNA,231207,Underground,12,Winter
+R231207_9A,SBb1 SB038 left side,b1,Corridor,Indoor,no,plastic,18.9,0.338,No,,RNA,231207,Underground,12,Winter
+R231207_10A,SBb1 SB024 left side,b1,Corridor,Indoor,no,metal,18.5,0.343,No,,RNA,231207,Underground,12,Winter
+R231207_11A,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,18.6,0.342,No,,RNA,231207,Underground,12,Winter
+R231207_12A,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,18.6,0.342,No,,RNA,231207,Underground,12,Winter
+R231207_13A,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,18.1,0.343,No,,RNA,231207,Underground,12,Winter
+R231207_14A,SC Elevator,Elevator,Elevator,Indoor,no,metal,18.3,0.346,No,,RNA,231207,Elevator,12,Winter
+R231207_15A,SDb1 Parking lot,b1,Parking lot,Indoor,no,metal,17.7,0.347,No,,RNA,231207,Underground,12,Winter
+R231207_16A,SDb1 Parking lot,b1,Parking lot,Indoor,no,metal,17.8,0.348,No,,RNA,231207,Underground,12,Winter
+R231207_17A,SDb1 Parking lot,b1,Parking lot,Indoor,no,metal,17.9,0.347,No,,RNA,231207,Underground,12,Winter
+R231207_18A,SDb1,b1,Corridor,Indoor,no,metal,18,0.352,No,,RNA,231207,Underground,12,Winter
+R231207_19A,SB273,2,Common room,Indoor,no,metal,20.4,0.375,No,Opened window,RNA,231207,Aboveground,12,Winter
+R231207_20A,SC169,2,Classroom,Indoor,no,metal,21.5,0.295,No,,RNA,231207,Aboveground,12,Winter
+R231207_21A,SA Elevator,Elevator,Elevator,Indoor,no,metal,23.8,0.296,No,,RNA,231207,Elevator,12,Winter
+R231207_22A,SA421,4,Office,Indoor,no,metal,21.5,0.364,No,,RNA,231207,Aboveground,12,Winter
+R231222_1B,SAb1 SA084 left side ,b1,Corridor,Indoor,no,metal,5.4,0.129,Yes,,RNA,231222,Underground,12,Winter
+R231222_2B,SAb1 SA074,b1,Toilet (Male),Indoor,no,metal,8.4,0.129,Yes,,RNA,231222,Underground,12,Winter
+R231222_3B,SAb1 SA080,b1,Toilet (Female),Indoor,no,metal,8.3,0.127,Yes,,RNA,231222,Underground,12,Winter
+R231222_4B,SAb1 Canteen,b1,Canteen,Indoor,no,metal,13.3,0.274,Yes,,RNA,231222,Underground,12,Winter
+R231222_5B,SAb1 SA089 (front),b1,Corridor,Indoor,no,metal,8.1,0.126,Yes,,RNA,231222,Underground,12,Winter
+R231222_6B,SAb1,b1,Corridor,Indoor,no,metal,8.3,0.124,Yes,,RNA,231222,Underground,12,Winter
+R231222_7B,SBb1 (in front of Elevator),b1,Corridor,Indoor,no,metal,8.7,0.119,Yes,,RNA,231222,Underground,12,Winter
+R231222_8B,SBb1,b1,Outdoor,Outdoor,no,metal,-2,0.121,Yes,,RNA,231222,Outdoor,12,Winter
+R231222_9B,SB Elevator,Elevator,Elevator,Indoor,no,metal,7.5,0.231,No,,RNA,231222,Elevator,12,Winter
+R231222_10B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,9.6,0.236,Yes,,RNA,231222,Underground,12,Winter
+R231222_11B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,9.6,0.225,Yes,,RNA,231222,Underground,12,Winter
+R231222_12B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,6.4,0.206,Yes,,RNA,231222,Underground,12,Winter
+R231222_13B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,6.5,0.211,Yes,,RNA,231222,Underground,12,Winter
+R231222_14B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,6.7,0.21,Yes,,RNA,231222,Underground,12,Winter
+R231222_15B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,6.7,0.211,Yes,,RNA,231222,Underground,12,Winter
+R231222_16B,SD Elevator,Elevator,Elevator,Indoor,no,metal,7.8,0.21,No,,RNA,231222,Elevator,12,Winter
+R231222_17B,SD254,2,Classroom,Indoor,yes,metal,11.7,0.221,No,,RNA,231222,Aboveground,12,Winter
+R231222_18B,SD234,2,Corridor,Indoor,no,plastic,12.7,0.218,No,Very black,RNA,231222,Aboveground,12,Winter
+R231222_19B,SC221,2,Common room,Indoor,yes,metal,12.4,0.22,No,,RNA,231222,Aboveground,12,Winter
+R231222_20B,SB123,2,Classroom,Indoor,no,metal,12.7,0.213,No,,RNA,231222,Aboveground,12,Winter
+R231222_21B,SA521,5,Common room,Indoor,no,metal,17.8,0.2,No,,RNA,231222,Aboveground,12,Winter
+R231222_22B,SA434,4,Laboratory,Indoor,yes,metal,17.6,0.202,No,,RNA,231222,Aboveground,12,Winter
+R240229_1B,SAb1 SA084 left side ,b1,Corridor,Indoor,no,metal,12.5,0.366,Yes,,RNA,240229,Underground,2,Winter
+R240229_2B,SAb1 SA074,b1,Toilet (Male),Indoor,yes,metal,13.3,0.386,Yes,,RNA,240229,Underground,2,Winter
+R240229_3B,SAb1 SA080,b1,Toilet (Female),Indoor,yes,metal,13.3,0.388,Yes,,RNA,240229,Underground,2,Winter
+R240229_4B,SAb1 Canteen,b1,Canteen,Indoor,no,metal,13.9,0.461,Yes,,RNA,240229,Underground,2,Winter
+R240229_5B,SAb1 SA089 (front),b1,Corridor,Indoor,no,metal,11.7,0.457,Yes,,RNA,240229,Underground,2,Winter
+R240229_6B,SAb1,b1,Corridor,Indoor,no,metal,11.2,0.466,Yes,,RNA,240229,Underground,2,Winter
+R240229_7B,SBb1 (in front of Elevator),b1,Corridor,Indoor,no,metal,10.8,0.479,Yes,,RNA,240229,Underground,2,Winter
+R240229_8B,SBb1,b1,Outdoor,Outdoor,no,metal,7.9,0.525,Yes,,RNA,240229,Outdoor,2,Winter
+R240229_9B,SB Elevator,Elevator,Elevator,Indoor,no,metal,9.1,0.541,No,,RNA,240229,Elevator,2,Winter
+R240229_10B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,10.2,0.546,Yes,,RNA,240229,Underground,2,Winter
+R240229_11B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,11.3,0.548,Yes,,RNA,240229,Underground,2,Winter
+R240229_12B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,9.8,0.559,Yes,,RNA,240229,Underground,2,Winter
+R240229_13B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,9.2,0.571,Yes,,RNA,240229,Underground,2,Winter
+R240229_14B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,9,0.58,Yes,,RNA,240229,Underground,2,Winter
+R240229_15B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,9.1,0.587,Yes,,RNA,240229,Underground,2,Winter
+R240229_16B,SD Elevator,Elevator,Elevator,Indoor,no,metal,9.7,0.596,No,,RNA,240229,Elevator,2,Winter
+R240229_17B,SD254,2,Classroom,Indoor,no,metal,13,0.601,No,,RNA,240229,Aboveground,2,Winter
+R240229_18B,SD234,2,Corridor,Indoor,no,plastic,13.5,0.592,No,Very black,RNA,240229,Aboveground,2,Winter
+R240229_19B,SC221,2,Common room,Indoor,yes,metal,14.4,0.593,No,,RNA,240229,Aboveground,2,Winter
+R240229_20B,SB123,2,Classroom,Indoor,no,metal,23.3,0.388,No,,RNA,240229,Aboveground,2,Winter
+R240229_21B,SA521,5,Common room,Indoor,no,metal,19.7,0.519,No,,RNA,240229,Aboveground,2,Winter
+R240229_22B,SA434,4,Laboratory,Indoor,yes,metal,21.8,0.401,No,,RNA,240229,Aboveground,2,Winter
+R240314_1A,SAb1 (By the Elevator),b1,Corridor,Indoor,no,plastic,18.3,0.349,No,,RNA,240314,Underground,3,Spring
+R240314_2A,SAb1 ,b1,Outdoor,Outdoor,no,metal,16.8,0.352,No,,RNA,240314,Outdoor,3,Spring
+R240314_3A,SAb1 ,b1,Outdoor,Outdoor,no,plastic,15.4,0.355,No,,RNA,240314,Outdoor,3,Spring
+R240314_4A,SAb1 SA007,b1,Office,Indoor,yes,plastic,16.2,0.367,No,,RNA,240314,Underground,3,Spring
+R240314_5A,SBb1 SB022 (in front of toilet door),b1,Corridor,Indoor,no,plastic,17.7,0.362,No,,RNA,240314,Underground,3,Spring
+R240314_6A,SBb1 SB026,b1,Toilet (Male),Indoor,yes,plastic,17.2,0.364,No,,RNA,240314,Underground,3,Spring
+R240314_7A,SBb1 SB022,b1,Toilet (Female),Indoor,yes,plastic,16.6,0.367,No,,RNA,240314,Underground,3,Spring
+R240314_8A,SBb1 SB034 right side ,b1,Corridor,Indoor,no,metal,15.9,0.373,No,,RNA,240314,Underground,3,Spring
+R240314_9A,SBb1 SB038 left side,b1,Corridor,Indoor,yes,plastic,13.9,0.383,No,,RNA,240314,Underground,3,Spring
+R240314_10A,SBb1 SB024 left side,b1,Corridor,Indoor,no,metal,14.3,0.389,No,,RNA,240314,Underground,3,Spring
+R240314_11A,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,14,0.398,No,,RNA,240314,Underground,3,Spring
+R240314_12A,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,14.2,0.4,No,,RNA,240314,Underground,3,Spring
+R240314_13A,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,14.2,0.417,No,,RNA,240314,Underground,3,Spring
+R240314_14A,SC Elevator,Elevator,Elevator,Indoor,no,metal,14,0.415,No,,RNA,240314,Elevator,3,Spring
+R240314_15A,SDb1 Parking lot,b1,Parking lot,Indoor,no,metal,13.9,0.425,No,,RNA,240314,Underground,3,Spring
+R240314_16A,SDb1 Parking lot,b1,Parking lot,Indoor,no,metal,13.9,0.435,No,,RNA,240314,Underground,3,Spring
+R240314_17A,SDb1 Parking lot,b1,Parking lot,Indoor,no,metal,13.9,0.438,No,,RNA,240314,Underground,3,Spring
+R240314_18A,SDb1,b1,Corridor,Indoor,no,metal,13.3,0.446,No,,RNA,240314,Underground,3,Spring
+R240314_19A,SB273,2,Common room,Indoor,no,metal,18.7,0.429,No,Opened window,RNA,240314,Aboveground,3,Spring
+R240314_20A,SC169,2,Classroom,Indoor,no,metal,19.4,0.389,No,,RNA,240314,Aboveground,3,Spring
+R240314_21A,SA Elevator,Elevator,Elevator,Indoor,no,metal,18.6,0.427,No,,RNA,240314,Elevator,3,Spring
+R240314_22A,SA421,4,Office,Indoor,no,metal,26.3,0.31,No,,RNA,240314,Aboveground,3,Spring
+R240328_1B,SAb1 SA084 left side ,b1,Corridor,Indoor,no,metal,18,0.522,No,,RNA,240328,Underground,3,Spring
+R240328_2B,SAb1 SA074,b1,Toilet (Male),Indoor,no,metal,17.3,0.535,No,,RNA,240328,Underground,3,Spring
+R240328_3B,SAb1 SA080,b1,Toilet (Female),Indoor,no,metal,17.3,0.553,No,,RNA,240328,Underground,3,Spring
+R240328_4B,SAb1 Canteen,b1,Canteen,Indoor,no,metal,17.7,0.565,No,,RNA,240328,Underground,3,Spring
+R240328_5B,SAb1 SA089 (front),b1,Corridor,Indoor,no,metal,17.2,0.569,No,,RNA,240328,Underground,3,Spring
+R240328_6B,SAb1,b1,Corridor,Indoor,no,metal,16.9,0.579,No,,RNA,240328,Underground,3,Spring
+R240328_7B,SBb1 (in front of Elevator),b1,Corridor,Indoor,no,metal,16.6,0.592,No,,RNA,240328,Underground,3,Spring
+R240328_8B,SBb1,b1,Outdoor,Outdoor,no,metal,16.6,0.595,No,,RNA,240328,Outdoor,3,Spring
+R240328_9B,SB Elevator,Elevator,Elevator,Indoor,no,metal,16.9,0.601,No,,RNA,240328,Elevator,3,Spring
+R240328_10B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,16.4,0.612,No,,RNA,240328,Underground,3,Spring
+R240328_11B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,16.4,0.621,No,,RNA,240328,Underground,3,Spring
+R240328_12B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,16.2,0.627,No,,RNA,240328,Underground,3,Spring
+R240328_13B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,15.9,0.635,No,,RNA,240328,Underground,3,Spring
+R240328_14B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,15.9,0.645,No,,RNA,240328,Underground,3,Spring
+R240328_15B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,16.3,0.651,No,,RNA,240328,Underground,3,Spring
+R240328_16B,SD Elevator,Elevator,Elevator,Indoor,no,metal,16.6,0.656,No,,RNA,240328,Elevator,3,Spring
+R240328_17B,SD254,2,Classroom,Indoor,no,metal,17.3,0.657,No,,RNA,240328,Aboveground,3,Spring
+R240328_18B,SD234,2,Corridor,Indoor,no,plastic,17.6,0.653,No,Very black,RNA,240328,Aboveground,3,Spring
+R240328_19B,SC221,2,Common room,Indoor,no,metal,17.8,0.651,No,,RNA,240328,Aboveground,3,Spring
+R240328_20B,SB123,2,Classroom,Indoor,no,metal,20.9,0.594,No,,RNA,240328,Aboveground,3,Spring
+R240328_21B,SA521,5,Common room,Indoor,no,metal,19.3,0.633,No,,RNA,240328,Aboveground,3,Spring
+R240328_22B,SA434,4,Laboratory,Indoor,no,metal,20.5,0.615,No,,RNA,240328,Aboveground,3,Spring
+R240411_1A,SAb1 (By the Elevator),b1,Corridor,Indoor,no,plastic,21.2,0.5439,No,,RNA,240411,Underground,4,Spring
+R240411_2A,SAb1 ,b1,Outdoor,Outdoor,yes,metal,21.1,0.552,No,,RNA,240411,Outdoor,4,Spring
+R240411_3A,SAb1 ,b1,Outdoor,Outdoor,no,plastic,21.1,0.552,No,,RNA,240411,Outdoor,4,Spring
+R240411_4A,SAb1 SA007,b1,Office,Indoor,no,plastic,21.2,0.558,No,,RNA,240411,Underground,4,Spring
+R240411_5A,SBb1 SB022 (in front of toilet door),b1,Corridor,Indoor,no,plastic,21,0.561,No,,RNA,240411,Underground,4,Spring
+R240411_6A,SBb1 SB026,b1,Toilet (Male),Indoor,yes,plastic,21.4,0.567,No,,RNA,240411,Underground,4,Spring
+R240411_7A,SBb1 SB022,b1,Toilet (Female),Indoor,yes,plastic,21.1,0.565,No,,RNA,240411,Underground,4,Spring
+R240411_8A,SBb1 SB034 right side ,b1,Corridor,Indoor,no,metal,20.9,0.568,No,,RNA,240411,Underground,4,Spring
+R240411_9A,SBb1 SB038 left side,b1,Corridor,Indoor,no,plastic,20.6,0.57,No,,RNA,240411,Underground,4,Spring
+R240411_10A,SBb1 SB024 left side,b1,Corridor,Indoor,no,metal,20.1,0.574,No,,RNA,240411,Underground,4,Spring
+R240411_11A,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,19.2,0.584,No,,RNA,240411,Underground,4,Spring
+R240411_12A,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,19.5,0.59,No,,RNA,240411,Underground,4,Spring
+R240411_13A,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,19.2,0.597,No,,RNA,240411,Underground,4,Spring
+R240411_14A,SC Elevator,Elevator,Elevator,Indoor,no,metal,19.4,0.6,No,,RNA,240411,Elevator,4,Spring
+R240411_15A,SDb1 Parking lot,b1,Parking lot,Indoor,no,metal,19.2,0.609,No,,RNA,240411,Underground,4,Spring
+R240411_16A,SDb1 Parking lot,b1,Parking lot,Indoor,no,metal,19.1,0.611,No,,RNA,240411,Underground,4,Spring
+R240411_17A,SDb1 Parking lot,b1,Parking lot,Indoor,no,metal,19,0.615,No,,RNA,240411,Underground,4,Spring
+R240411_18A,SDb1,b1,Corridor,Indoor,no,metal,18.7,0.616,No,,RNA,240411,Underground,4,Spring
+R240411_19A,SB273,2,Common room,Indoor,no,metal,21.4,0.616,No,Opened window,RNA,240411,Aboveground,4,Spring
+R240411_20A,SC169,2,Classroom,Indoor,no,metal,21.2,0.612,No,,RNA,240411,Aboveground,4,Spring
+R240411_21A,SA Elevator,Elevator,Elevator,Indoor,no,metal,22.1,0.606,No,,RNA,240411,Elevator,4,Spring
+R240411_22A,SA421,4,Office,Indoor,no,metal,21.3,0.62,No,,RNA,240411,Aboveground,4,Spring
+R240424_1B,SAb1 SA084 left side ,b1,Corridor,Indoor,no,metal,21.8,0.335,No,,RNA,240424,Underground,4,Spring
+R240424_2B,SAb1 SA074,b1,Toilet (Male),Indoor,no,metal,21.7,0.344,No,,RNA,240424,Underground,4,Spring
+R240424_3B,SAb1 SA080,b1,Toilet (Female),Indoor,no,metal,21.4,0.35,No,,RNA,240424,Underground,4,Spring
+R240424_4B,SAb1 Canteen,b1,Canteen,Indoor,no,metal,23.1,0.421,No,,RNA,240424,Underground,4,Spring
+R240424_5B,SAb1 SA089 (front),b1,Corridor,Indoor,no,metal,21.7,0.41,No,,RNA,240424,Underground,4,Spring
+R240424_6B,SAb1,b1,Corridor,Indoor,no,metal,21.6,0.408,No,,RNA,240424,Underground,4,Spring
+R240424_7B,SBb1 (in front of Elevator),b1,Corridor,Indoor,no,metal,21.4,0.406,No,,RNA,240424,Underground,4,Spring
+R240424_8B,SBb1,b1,Outdoor,Outdoor,no,metal,21.8,0.407,No,,RNA,240424,Outdoor,4,Spring
+R240424_9B,SB Elevator,Elevator,Elevator,Indoor,no,metal,21.9,0.416,No,,RNA,240424,Elevator,4,Spring
+R240424_10B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,21.2,0.405,No,,RNA,240424,Underground,4,Spring
+R240424_11B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,21.1,0.405,No,,RNA,240424,Underground,4,Spring
+R240424_12B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,20.8,0.407,No,,RNA,240424,Underground,4,Spring
+R240424_13B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,20.8,0.41,No,,RNA,240424,Underground,4,Spring
+R240424_14B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,20.4,0.417,No,,RNA,240424,Underground,4,Spring
+R240424_15B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,20.4,0.421,No,,RNA,240424,Underground,4,Spring
+R240424_16B,SD Elevator,Elevator,Elevator,Indoor,no,metal,20.8,0.438,No,,RNA,240424,Elevator,4,Spring
+R240424_17B,SD254,2,Classroom,Indoor,no,metal,21,0.427,No,,RNA,240424,Aboveground,4,Spring
+R240424_18B,SD234,2,Corridor,Indoor,no,plastic,22.6,0.423,No,Very black,RNA,240424,Aboveground,4,Spring
+R240424_19B,SC221,2,Common room,Indoor,no,metal,20.3,0.4,No,,RNA,240424,Aboveground,4,Spring
+R240424_20B,SB123,2,Classroom,Indoor,no,metal,25.5,0.351,No,,RNA,240424,Aboveground,4,Spring
+R240424_21B,SA521,5,Common room,Indoor,no,metal,24.7,0.374,No,,RNA,240424,Aboveground,4,Spring
+R240424_22B,SA434,4,Laboratory,Indoor,no,metal,26,0.277,No,,RNA,240424,Aboveground,4,Spring
+R240508_1A,SAb1 (By the Elevator),b1,Corridor,Indoor,no,plastic,23.6,0.391,No,,RNA,240508,Underground,5,Spring
+R240508_2A,SAb1 ,b1,Outdoor,Outdoor,yes,metal,24.1,0.385,No,,RNA,240508,Outdoor,5,Spring
+R240508_3A,SAb1 ,b1,Outdoor,Outdoor,no,plastic,24,0.39,No,,RNA,240508,Outdoor,5,Spring
+R240508_4A,SAb1 SA007,b1,Office,Indoor,no,plastic,23.8,0.386,No,,RNA,240508,Underground,5,Spring
+R240508_5A,SBb1 SB022 (in front of toilet door),b1,Corridor,Indoor,no,plastic,24.7,0.393,No,,RNA,240508,Underground,5,Spring
+R240508_6A,SBb1 SB026,b1,Toilet (Male),Indoor,yes,plastic,24.9,0.391,No,,RNA,240508,Underground,5,Spring
+R240508_7A,SBb1 SB022,b1,Toilet (Female),Indoor,yes,plastic,24.3,0.393,No,,RNA,240508,Underground,5,Spring
+R240508_8A,SBb1 SB034 right side ,b1,Corridor,Indoor,no,metal,24.8,0.391,No,,RNA,240508,Underground,5,Spring
+R240508_9A,SBb1 SB038 left side,b1,Corridor,Indoor,no,plastic,24.7,0.391,No,,RNA,240508,Underground,5,Spring
+R240508_10A,SBb1 SB024 left side,b1,Corridor,Indoor,no,metal,23.7,0.395,No,,RNA,240508,Underground,5,Spring
+R240508_11A,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,22.8,0.399,No,,RNA,240508,Underground,5,Spring
+R240508_12A,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,22.2,0.405,No,,RNA,240508,Underground,5,Spring
+R240508_13A,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,21.7,0.412,No,,RNA,240508,Underground,5,Spring
+R240508_14A,SC Elevator,Elevator,Elevator,Indoor,no,metal,23.4,0.421,No,,RNA,240508,Elevator,5,Spring
+R240508_15A,SDb1 Parking lot,b1,Parking lot,Indoor,no,metal,22.6,0.419,No,,RNA,240508,Underground,5,Spring
+R240508_16A,SDb1 Parking lot,b1,Parking lot,Indoor,no,metal,21.7,0.424,No,,RNA,240508,Underground,5,Spring
+R240508_17A,SDb1 Parking lot,b1,Parking lot,Indoor,no,metal,21.4,0.417,No,,RNA,240508,Underground,5,Spring
+R240508_18A,SDb1,b1,Corridor,Indoor,no,metal,21.1,0.436,No,,RNA,240508,Underground,5,Spring
+R240508_19A,SB273,2,Common room,Indoor,no,metal,23.8,0.451,No,Opened window,RNA,240508,Aboveground,5,Spring
+R240508_20A,SC169,2,Classroom,Indoor,no,metal,22.8,0.447,No,,RNA,240508,Aboveground,5,Spring
+R240508_21A,SA Elevator,Elevator,Elevator,Indoor,no,metal,24.6,0.453,No,,RNA,240508,Elevator,5,Spring
+R240508_22A,SA421,4,Office,Indoor,no,metal,27.4,0.441,No,,RNA,240508,Aboveground,5,Spring
+R240523_1B,SAb1 SA084 left side ,b1,Corridor,Indoor,no,metal,23.8,0.619,No,,RNA,240523,Underground,5,Spring
+R240523_2B,SAb1 SA074,b1,Toilet (Male),Indoor,no,metal,24,0.635,No,,RNA,240523,Underground,5,Spring
+R240523_3B,SAb1 SA080,b1,Toilet (Female),Indoor,no,metal,23.9,0.641,No,,RNA,240523,Underground,5,Spring
+R240523_4B,SAb1 Canteen,b1,Canteen,Indoor,no,metal,24,0.643,No,,RNA,240523,Underground,5,Spring
+R240523_5B,SAb1 SA089 (front),b1,Corridor,Indoor,no,metal,23.4,0.639,No,,RNA,240523,Underground,5,Spring
+R240523_6B,SAb1,b1,Corridor,Indoor,no,metal,24.1,0.631,No,,RNA,240523,Underground,5,Spring
+R240523_7B,SBb1 (in front of Elevator),b1,Corridor,Indoor,no,metal,24.5,0.623,No,,RNA,240523,Underground,5,Spring
+R240523_8B,SBb1,b1,Outdoor,Outdoor,no,metal,29.3,0.635,No,,RNA,240523,Outdoor,5,Spring
+R240523_9B,SB Elevator,Elevator,Elevator,Indoor,no,metal,25.2,0.625,No,,RNA,240523,Elevator,5,Spring
+R240523_10B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,24.1,0.629,No,,RNA,240523,Underground,5,Spring
+R240523_11B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,23.9,0.631,No,,RNA,240523,Underground,5,Spring
+R240523_12B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,23.6,0.636,No,,RNA,240523,Underground,5,Spring
+R240523_13B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,24.7,0.64,No,,RNA,240523,Underground,5,Spring
+R240523_14B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,23.8,0.646,No,,RNA,240523,Underground,5,Spring
+R240523_15B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,23.8,0.651,No,,RNA,240523,Underground,5,Spring
+R240523_16B,SD Elevator,Elevator,Elevator,Indoor,no,metal,24.2,0.651,No,,RNA,240523,Elevator,5,Spring
+R240523_17B,SD254,2,Classroom,Indoor,yes,metal,24.9,0.64,No,,RNA,240523,Aboveground,5,Spring
+R240523_18B,SD234,2,Corridor,Indoor,no,plastic,25.6,0.637,No,Very black,RNA,240523,Aboveground,5,Spring
+R240523_19B,SC221,2,Common room,Indoor,no,metal,25.7,0.659,No,,RNA,240523,Aboveground,5,Spring
+R240523_20B,SB123,2,Classroom,Indoor,no,metal,25.3,0.595,No,,RNA,240523,Aboveground,5,Spring
+R240523_21B,SA521,5,Common room,Indoor,no,metal,25.9,0.611,No,,RNA,240523,Aboveground,5,Spring
+R240523_22B,SA434,4,Laboratory,Indoor,yes,metal,24,0.596,No,,RNA,240523,Aboveground,5,Spring
+R240608_1A,SAb1 (By the Elevator),b1,Corridor,Indoor,no,plastic,23.4,0.688,No,,RNA,240608,Underground,6,Summer
+R240608_2A,SAb1 ,b1,Outdoor,Outdoor,yes,metal,23.8,0.685,No,,RNA,240608,Outdoor,6,Summer
+R240608_3A,SAb1 ,b1,Outdoor,Outdoor,no,plastic,23.8,0.685,No,,RNA,240608,Outdoor,6,Summer
+R240608_4A,SAb1 SA007,b1,Office,Indoor,no,plastic,23.5,0.663,No,,RNA,240608,Underground,6,Summer
+R240608_5A,SBb1 SB022 (in front of toilet door),b1,Corridor,Indoor,no,plastic,23.5,0.672,No,,RNA,240608,Underground,6,Summer
+R240608_6A,SBb1 SB026,b1,Toilet (Male),Indoor,yes,plastic,23.7,0.673,No,,RNA,240608,Underground,6,Summer
+R240608_7A,SBb1 SB022,b1,Toilet (Female),Indoor,yes,plastic,23.9,0.669,No,,RNA,240608,Underground,6,Summer
+R240608_8A,SBb1 SB034 right side ,b1,Corridor,Indoor,no,metal,23.9,0.668,No,,RNA,240608,Underground,6,Summer
+R240608_9A,SBb1 SB038 left side,b1,Corridor,Indoor,yes,plastic,24,0.665,No,,RNA,240608,Underground,6,Summer
+R240608_10A,SBb1 SB024 left side,b1,Corridor,Indoor,no,metal,24,0.663,No,,RNA,240608,Underground,6,Summer
+R240608_11A,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,23.9,0.662,No,,RNA,240608,Underground,6,Summer
+R240608_12A,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,23.8,0.661,No,,RNA,240608,Underground,6,Summer
+R240608_13A,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,23.5,0.664,No,,RNA,240608,Underground,6,Summer
+R240608_14A,SC Elevator,Elevator,Elevator,Indoor,no,metal,24.3,0.656,No,,RNA,240608,Elevator,6,Summer
+R240608_15A,SDb1 Parking lot,b1,Parking lot,Indoor,no,metal,23.7,0.658,No,,RNA,240608,Underground,6,Summer
+R240608_16A,SDb1 Parking lot,b1,Parking lot,Indoor,no,metal,23.7,0.661,No,,RNA,240608,Underground,6,Summer
+R240608_17A,SDb1 Parking lot,b1,Parking lot,Indoor,no,metal,23.2,0.664,No,,RNA,240608,Underground,6,Summer
+R240608_18A,SDb1,b1,Corridor,Indoor,no,metal,23.7,0.661,No,,RNA,240608,Underground,6,Summer
+R240608_19A,SB273,2,Common room,Indoor,no,metal,24.6,0.649,No,Opened window,RNA,240608,Aboveground,6,Summer
+R240608_20A,SC169,2,Classroom,Indoor,no,metal,24.5,0.638,No,,RNA,240608,Aboveground,6,Summer
+R240608_21A,SA Elevator,Elevator,Elevator,Indoor,no,metal,25.3,0.64,No,,RNA,240608,Elevator,6,Summer
+R240608_22A,SA421,4,Office,Indoor,no,metal,25.1,0.607,No,,RNA,240608,Aboveground,6,Summer
+R240621_1B,SAb1 SA084 left side ,b1,Corridor,Indoor,no,metal,25,0.714,Yes,,RNA,240621,Underground,6,Summer
+R240621_2B,SAb1 SA074,b1,Toilet (Male),Indoor,no,metal,25.2,0.724,Yes,,RNA,240621,Underground,6,Summer
+R240621_3B,SAb1 SA080,b1,Toilet (Female),Indoor,no,metal,25.3,0.737,Yes,,RNA,240621,Underground,6,Summer
+R240621_4B,SAb1 Canteen,b1,Canteen,Indoor,no,metal,25,0.737,Yes,,RNA,240621,Underground,6,Summer
+R240621_5B,SAb1 SA089 (front),b1,Corridor,Indoor,no,metal,25.2,0.739,Yes,,RNA,240621,Underground,6,Summer
+R240621_6B,SAb1,b1,Corridor,Indoor,no,metal,25.4,0.738,Yes,,RNA,240621,Underground,6,Summer
+R240621_7B,SBb1 (in front of Elevator),b1,Corridor,Indoor,no,metal,24.5,0.734,Yes,,RNA,240621,Underground,6,Summer
+R240621_8B,SBb1,b1,Outdoor,Outdoor,no,metal,25.4,0.745,Yes,,RNA,240621,Outdoor,6,Summer
+R240621_9B,SB Elevator,Elevator,Elevator,Indoor,no,metal,25.6,0.727,No,,RNA,240621,Elevator,6,Summer
+R240621_10B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,25.3,0.751,Yes,,RNA,240621,Underground,6,Summer
+R240621_11B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,25.1,0.768,Yes,,RNA,240621,Underground,6,Summer
+R240621_12B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,25.2,0.787,Yes,,RNA,240621,Underground,6,Summer
+R240621_13B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,25,0.807,Yes,,RNA,240621,Underground,6,Summer
+R240621_14B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,24.9,0.821,Yes,,RNA,240621,Underground,6,Summer
+R240621_15B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,24.8,0.835,Yes,,RNA,240621,Underground,6,Summer
+R240621_16B,SD Elevator,Elevator,Elevator,Indoor,no,metal,25,0.831,No,,RNA,240621,Elevator,6,Summer
+R240621_17B,SD254,2,Classroom,Indoor,yes,metal,25,0.798,No,,RNA,240621,Aboveground,6,Summer
+R240621_18B,SD234,2,Corridor,Indoor,yes,plastic,25.3,0.785,No,Very black,RNA,240621,Aboveground,6,Summer
+R240621_19B,SC221,2,Common room,Indoor,no,metal,25.5,0.76,No,,RNA,240621,Aboveground,6,Summer
+R240621_20B,SB123,2,Classroom,Indoor,no,metal,23.8,0.673,No,,RNA,240621,Aboveground,6,Summer
+R240621_21B,SA521,5,Common room,Indoor,no,metal,25.5,0.721,No,,RNA,240621,Aboveground,6,Summer
+R240621_22B,SA434,4,Laboratory,Indoor,yes,metal,25.2,0.706,No,,RNA,240621,Aboveground,6,Summer
+R240704_1B,SAb1 SA084 left side ,b1,Corridor,Indoor,no,metal,25.8,0.734,Yes,,RNA,240704,Underground,7,Summer
+R240704_2B,SAb1 SA074,b1,Toilet (Male),Indoor,no,metal,26.1,0.75,Yes,,RNA,240704,Underground,7,Summer
+R240704_3B,SAb1 SA080,b1,Toilet (Female),Indoor,no,metal,26.3,0.752,Yes,,RNA,240704,Underground,7,Summer
+R240704_4B,SAb1 Canteen,b1,Canteen,Indoor,no,metal,25.9,0.734,Yes,,RNA,240704,Underground,7,Summer
+R240704_5B,SAb1 SA089 (front),b1,Corridor,Indoor,no,metal,26.1,0.738,Yes,,RNA,240704,Underground,7,Summer
+R240704_6B,SAb1,b1,Corridor,Indoor,no,metal,26.2,0.728,Yes,,RNA,240704,Underground,7,Summer
+R240704_7B,SBb1 (in front of Elevator),b1,Corridor,Indoor,no,metal,26.4,0.723,Yes,,RNA,240704,Underground,7,Summer
+R240704_8B,SBb1,b1,Outdoor,Outdoor,no,metal,27.5,0.728,Yes,,RNA,240704,Outdoor,7,Summer
+R240704_9B,SB Elevator,Elevator,Elevator,Indoor,no,metal,27.7,0.714,No,,RNA,240704,Elevator,7,Summer
+R240704_10B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,27.1,0.717,Yes,,RNA,240704,Underground,7,Summer
+R240704_11B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,26.5,0.716,Yes,,RNA,240704,Underground,7,Summer
+R240704_12B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,26.5,0.752,Yes,,RNA,240704,Underground,7,Summer
+R240704_13B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,25.8,0.751,Yes,,RNA,240704,Underground,7,Summer
+R240704_14B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,27,0.77,Yes,,RNA,240704,Underground,7,Summer
+R240704_15B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,27.1,0.785,Yes,,RNA,240704,Underground,7,Summer
+R240704_16B,SD Elevator,Elevator,Elevator,Indoor,no,metal,27.1,0.789,No,,RNA,240704,Elevator,7,Summer
+R240704_17B,SD254,2,Classroom,Indoor,yes,metal,26.6,0.748,No,,RNA,240704,Aboveground,7,Summer
+R240704_18B,SD234,2,Corridor,Indoor,yes,plastic,27.2,0.743,No,Very black,RNA,240704,Aboveground,7,Summer
+R240704_19B,SC221,2,Common room,Indoor,no,metal,27,0.73,No,,RNA,240704,Aboveground,7,Summer
+R240704_20B,SB123,2,Classroom,Indoor,no,metal,NA,NA,No,Not a crowded place,RNA,240704,Aboveground,7,Summer
+R240704_21B,SA521,5,Common room,Indoor,yes,metal,26.2,0.667,No,,RNA,240704,Aboveground,7,Summer
+R240704_22B,SA434,4,Laboratory,Indoor,no,metal,25.4,0.647,No,,RNA,240704,Aboveground,7,Summer
+R240718_1A,SAb1 (By the Elevator),b1,Corridor,Indoor,no,plastic,25,0.654,No,,RNA,240718,Underground,7,Summer
+R240718_2A,SAb1 ,b1,Outdoor,Outdoor,yes,metal,26.2,0.645,No,,RNA,240718,Outdoor,7,Summer
+R240718_3A,SAb1 ,b1,Outdoor,Outdoor,no,plastic,26.2,0.645,No,,RNA,240718,Outdoor,7,Summer
+R240718_4A,SAb1 SA007,b1,Office,Indoor,no,plastic,26.3,0.632,No,,RNA,240718,Underground,7,Summer
+R240718_5A,SBb1 SB022 (in front of toilet door),b1,Corridor,Indoor,no,plastic,26.5,0.633,No,,RNA,240718,Underground,7,Summer
+R240718_6A,SBb1 SB026,b1,Toilet (Male),Indoor,yes,plastic,27,0.634,No,,RNA,240718,Underground,7,Summer
+R240718_7A,SBb1 SB022,b1,Toilet (Female),Indoor,yes,plastic,27.1,0.633,No,,RNA,240718,Underground,7,Summer
+R240718_8A,SBb1 SB034 right side ,b1,Corridor,Indoor,no,metal,27,0.634,No,,RNA,240718,Underground,7,Summer
+R240718_9A,SBb1 SB038 left side,b1,Corridor,Indoor,no,plastic,27,0.64,No,,RNA,240718,Underground,7,Summer
+R240718_10A,SBb1 SB024 left side,b1,Corridor,Indoor,no,metal,27,0.647,No,,RNA,240718,Underground,7,Summer
+R240718_11A,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,26.8,0.654,No,,RNA,240718,Underground,7,Summer
+R240718_12A,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,26.7,0.681,No,,RNA,240718,Underground,7,Summer
+R240718_13A,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,26.9,0.702,No,,RNA,240718,Underground,7,Summer
+R240718_14A,SC Elevator,Elevator,Elevator,Indoor,no,metal,27.3,0.703,No,,RNA,240718,Elevator,7,Summer
+R240718_15A,SDb1 Parking lot,b1,Parking lot,Indoor,no,metal,28,0.719,No,,RNA,240718,Underground,7,Summer
+R240718_16A,SDb1 Parking lot,b1,Parking lot,Indoor,no,metal,28.3,0.727,No,,RNA,240718,Underground,7,Summer
+R240718_17A,SDb1 Parking lot,b1,Parking lot,Indoor,no,metal,28.3,0.732,No,,RNA,240718,Underground,7,Summer
+R240718_18A,SDb1,b1,Corridor,Indoor,no,metal,27.6,0.736,No,Renovation,RNA,240718,Underground,7,Summer
+R240718_19A,SB273,2,Common room,Indoor,yes,metal,27.4,0.692,No,Opened window,RNA,240718,Aboveground,7,Summer
+R240718_20A,SC169,2,Classroom,Indoor,no,metal,NA,NA,No,Not a crowded place,RNA,240718,Aboveground,7,Summer
+R240718_21A,SA Elevator,Elevator,Elevator,Indoor,no,metal,28.1,0.664,No,,RNA,240718,Elevator,7,Summer
+R240718_22A,SA421,4,Office,Indoor,no,metal,27.9,0.64,No,Renovation,RNA,240718,Aboveground,7,Summer
+R240801_1B,SAb1 SA084 left side ,b1,Corridor,Indoor,no,metal,28.1,0.676,No,,RNA,240801,Underground,8,Summer
+R240801_2B,SAb1 SA074,b1,Toilet (Male),Indoor,no,metal,27.8,0.679,No,,RNA,240801,Underground,8,Summer
+R240801_3B,SAb1 SA080,b1,Toilet (Female),Indoor,no,metal,27.9,0.68,No,,RNA,240801,Underground,8,Summer
+R240801_4B,SAb1 Canteen,b1,Canteen,Indoor,no,metal,27.2,0.663,No,,RNA,240801,Underground,8,Summer
+R240801_5B,SAb1 SA089 (front),b1,Corridor,Indoor,no,metal,27.2,0.666,No,,RNA,240801,Underground,8,Summer
+R240801_6B,SAb1,b1,Corridor,Indoor,no,metal,26.7,0.663,No,,RNA,240801,Underground,8,Summer
+R240801_7B,SBb1 (in front of Elevator),b1,Corridor,Indoor,no,metal,27.7,0.663,No,,RNA,240801,Underground,8,Summer
+R240801_8B,SBb1,b1,Outdoor,Outdoor,no,metal,30.9,0.656,No,,RNA,240801,Outdoor,8,Summer
+R240801_9B,SB Elevator,Elevator,Elevator,Indoor,no,metal,29.8,0.64,No,Only sample the right side,RNA,240801,Elevator,8,Summer
+R240801_10B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,29.1,0.647,No,,RNA,240801,Underground,8,Summer
+R240801_11B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,29.2,0.654,No,,RNA,240801,Underground,8,Summer
+R240801_12B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,29.2,0.657,No,,RNA,240801,Underground,8,Summer
+R240801_13B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,29.8,0.664,No,,RNA,240801,Underground,8,Summer
+R240801_14B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,30.1,0.668,No,,RNA,240801,Underground,8,Summer
+R240801_15B,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,30.3,0.669,No,,RNA,240801,Underground,8,Summer
+R240801_16B,SD Elevator,Elevator,Elevator,Indoor,no,metal,29.8,0.66,No,,RNA,240801,Elevator,8,Summer
+R240801_17B,SD254,2,Classroom,Indoor,yes,metal,28.5,0.619,No,,RNA,240801,Aboveground,8,Summer
+R240801_18B,SD234,2,Corridor,Indoor,no,plastic,28.3,0.612,No,,RNA,240801,Aboveground,8,Summer
+R240801_19B,SC221,2,Common room,Indoor,yes,metal,28.6,0.598,No,,RNA,240801,Aboveground,8,Summer
+R240801_20B,SB123,2,Classroom,Indoor,no,metal,NA,NA,No,Not a crowded place,RNA,240801,Aboveground,8,Summer
+R240801_21B,SA521,5,Common room,Indoor,yes,metal,27.5,0.545,No,,RNA,240801,Aboveground,8,Summer
+R240801_22B,SA434,4,Laboratory,Indoor,no,metal,26.3,0.556,No,,RNA,240801,Aboveground,8,Summer
+R240813_1A,SAb1 (By the Elevator),b1,Corridor,Indoor,no,plastic,26.6,0.644,No,,RNA,240813,Underground,8,Summer
+R240813_2A,SAb1 ,b1,Outdoor,Outdoor,yes,metal,27.8,0.672,No,,RNA,240813,Outdoor,8,Summer
+R240813_3A,SAb1 ,b1,Outdoor,Outdoor,no,plastic,27.8,0.672,No,,RNA,240813,Outdoor,8,Summer
+R240813_4A,SAb1 SA007,b1,Office,Indoor,yes,plastic,27,0.643,No,,RNA,240813,Underground,8,Summer
+R240813_5A,SBb1 SB022 (in front of toilet door),b1,Corridor,Indoor,no,plastic,28.3,0.653,No,,RNA,240813,Underground,8,Summer
+R240813_6A,SBb1 SB026,b1,Toilet (Male),Indoor,yes,plastic,28.7,0.657,No,,RNA,240813,Underground,8,Summer
+R240813_7A,SBb1 SB022,b1,Toilet (Female),Indoor,yes,plastic,29.2,0.656,No,,RNA,240813,Underground,8,Summer
+R240813_8A,SBb1 SB034 right side ,b1,Corridor,Indoor,no,metal,29.4,0.653,No,,RNA,240813,Underground,8,Summer
+R240813_9A,SBb1 SB038 left side,b1,Corridor,Indoor,yes,plastic,29.5,0.65,No,,RNA,240813,Underground,8,Summer
+R240813_10A,SBb1 SB024 left side,b1,Corridor,Indoor,no,metal,29.4,0.65,No,,RNA,240813,Underground,8,Summer
+R240813_11A,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,29.3,0.644,No,,RNA,240813,Underground,8,Summer
+R240813_12A,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,29.4,0.646,No,,RNA,240813,Underground,8,Summer
+R240813_13A,SCb1 Parking lot,b1,Parking lot,Indoor,no,metal,29.2,0.646,No,,RNA,240813,Underground,8,Summer
+R240813_14A,SC Elevator,Elevator,Elevator,Indoor,no,metal,29.4,0.644,No,,RNA,240813,Elevator,8,Summer
+R240813_15A,SDb1 Parking lot,b1,Parking lot,Indoor,no,metal,29.5,0.656,No,,RNA,240813,Underground,8,Summer
+R240813_16A,SDb1 Parking lot,b1,Parking lot,Indoor,no,metal,29.5,0.667,No,,RNA,240813,Underground,8,Summer
+R240813_17A,SDb1 Parking lot,b1,Parking lot,Indoor,no,metal,29.5,0.674,No,,RNA,240813,Underground,8,Summer
+R240813_18A,SDb1,b1,Corridor,Indoor,no,metal,29.4,0.676,No,Renovation,RNA,240813,Underground,8,Summer
+R240813_19A,SB273,2,Common room,Indoor,yes,metal,28.8,0.639,No,,RNA,240813,Aboveground,8,Summer
+R240813_20A,SC169,2,Classroom,Indoor,no,metal,NA,NA,No,Not a crowded place,RNA,240813,Aboveground,8,Summer
+R240813_21A,SA Elevator,Elevator,Elevator,Indoor,no,metal,29.4,0.605,No,,RNA,240813,Elevator,8,Summer
+R240813_22A,SA421,4,Office,Indoor,no,metal,28.3,0.589,No,Renovation,RNA,240813,Aboveground,8,Summer

@@ -1,0 +1,433 @@
+Sample	Location	Floor	Type	Indoor.Outdoor	Air.out	Material	Temperature	Humidness	RNA	Notes	DNARNA	SampleName	Date	Month	Building	SampleName2	SampleSite	SampleSite2	SampleSite3	Season	SeasonBymonth	Group
+230922_10A	SBb1 SB024 left side	b1	Corridor	Indoor	no	metal	22	92	No	Drop	DNA	230922_10A	230922	2309	SB	230922_10A-SBb1 SB024 left side	10A	2309-10A	09-10A	Autumn	Autumn	Underground
+230922_11A	SCb1 Parking lot	b1	Parking lot	Indoor	no	metal	22	92	No	Drop	DNA	230922_11A	230922	2309	SC	230922_11A-SCb1 Parking lot	11A	2309-11A	09-11A	Autumn	Autumn	Underground
+230922_12A	SCb1 Parking lot	b1	Parking lot	Indoor	no	metal	22	92	No	Drop	DNA	230922_12A	230922	2309	SC	230922_12A-SCb1 Parking lot	12A	2309-12A	09-12A	Autumn	Autumn	Underground
+230922_13A	SCb1 Parking lot	b1	Parking lot	Indoor	no	metal	22	92	No	Drop	DNA	230922_13A	230922	2309	SC	230922_13A-SCb1 Parking lot	13A	2309-13A	09-13A	Autumn	Autumn	Underground
+230922_14A	SC Elevator	Elevator	Elevator	Indoor	no	metal	22	92	No	Drop	DNA	230922_14A	230922	2309	SC	230922_14A-SC Elevator	14A	2309-14A	09-14A	Autumn	Autumn	Elevator
+230922_15A	SDb1 Parking lot	b1	Parking lot	Indoor	no	metal	22	92	No	Drop	DNA	230922_15A	230922	2309	SD	230922_15A-SDb1 Parking lot	15A	2309-15A	09-15A	Autumn	Autumn	Underground
+230922_16A	SDb1 Parking lot	b1	Parking lot	Indoor	no	metal	22	92	No	Drop	DNA	230922_16A	230922	2309	SD	230922_16A-SDb1 Parking lot	16A	2309-16A	09-16A	Autumn	Autumn	Underground
+230922_17A	SDb1 Parking lot	b1	Parking lot	Indoor	no	metal	22	92	No	Drop	DNA	230922_17A	230922	2309	SD	230922_17A-SDb1 Parking lot	17A	2309-17A	09-17A	Autumn	Autumn	Underground
+230922_18A	SDb1	b1	Corridor	Indoor	no	metal	22	92	No	Drop	DNA	230922_18A	230922	2309	SD	230922_18A-SDb1	18A	2309-18A	09-18A	Autumn	Autumn	Underground
+230922_19A	SB273	2	Common room	Indoor	no	metal	22	92	No	Drop	DNA	230922_19A	230922	2309	SB	230922_19A-SB273	19A	2309-19A	09-19A	Autumn	Autumn	Aboveground
+230922_1A	SAb1 (By the elevator)	b1	Corridor	Indoor	no	plastic	22	92	No	Drop	DNA	230922_1A	230922	2309	SA	230922_1A-SAb1 (By the elevator)	1A	2309-1A	09-1A	Autumn	Autumn	Underground
+230922_20A	SC169	2	Classroom	Indoor	no	metal	22	92	No	Drop	DNA	230922_20A	230922	2309	SC	230922_20A-SC169	20A	2309-20A	09-20A	Autumn	Autumn	Aboveground
+230922_21A	SA Elevator	Elevator	Elevator	Indoor	no	metal	22	92	No	Drop	DNA	230922_21A	230922	2309	SA	230922_21A-SA Elevator	21A	2309-21A	09-21A	Autumn	Autumn	Elevator
+230922_22A	SA421	4	Office	Indoor	yes	metal	22	92	No	Drop	DNA	230922_22A	230922	2309	SA	230922_22A-SA421	22A	2309-22A	09-22A	Autumn	Autumn	Aboveground
+230922_3A	SAb1	b1	Outdoor	Outdoor	no	plastic	22	92	No	Drop	DNA	230922_3A	230922	2309	SA	230922_3A-SAb1	3A	2309-3A	09-3A	Autumn	Autumn	Outdoor
+230922_4A	SAb1 SA007	b1	Office	Indoor	yes	plastic	22	92	No	Drop	DNA	230922_4A	230922	2309	SA	230922_4A-SAb1 SA007	4A	2309-4A	09-4A	Autumn	Autumn	Underground
+230922_5A	SBb1 SB022 (in front of toilet door)	b1	Corridor	Indoor	no	plastic	22	92	No	Drop	DNA	230922_5A	230922	2309	SB	230922_5A-SBb1 SB022 (in front of toilet door)	5A	2309-5A	09-5A	Autumn	Autumn	Underground
+230922_6A	SBb1 SB026	b1	Toilet (Male)	Indoor	yes	plastic	22	92	No	Drop	DNA	230922_6A	230922	2309	SB	230922_6A-SBb1 SB026	6A	2309-6A	09-6A	Autumn	Autumn	Underground
+230922_7A	SBb1 SB022	b1	Toilet (Female)	Indoor	yes	plastic	22	92	No	Drop	DNA	230922_7A	230922	2309	SB	230922_7A-SBb1 SB022	7A	2309-7A	09-7A	Autumn	Autumn	Underground
+230922_8A	SBb1 SB034 right side	b1	Corridor	Indoor	no	metal	22	92	No	Drop	DNA	230922_8A	230922	2309	SB	230922_8A-SBb1 SB034 right side	8A	2309-8A	09-8A	Autumn	Autumn	Underground
+230922_9A	SBb1 SB038 left side	b1	Corridor	Indoor	yes	plastic	22	92	No	Drop	DNA	230922_9A	230922	2309	SB	230922_9A-SBb1 SB038 left side	9A	2309-9A	09-9A	Autumn	Autumn	Underground
+230928_10B	SCb1 Parking lot	b1	Parking lot	Indoor	no	metal	26.1	71.4	No		DNA	230928_10B	230928	2309	SC	230928_10B-SCb1 Parking lot	10B	2309-10B	09-10B	Autumn	Autumn	Underground
+230928_11B	SCb1 Parking lot	b1	Parking lot	Indoor	no	metal	26.3	71.3	No		DNA	230928_11B	230928	2309	SC	230928_11B-SCb1 Parking lot	11B	2309-11B	09-11B	Autumn	Autumn	Underground
+230928_12B	SCb1 Parking lot	b1	Parking lot	Indoor	no	metal	26.4	71.8	No		DNA	230928_12B	230928	2309	SC	230928_12B-SCb1 Parking lot	12B	2309-12B	09-12B	Autumn	Autumn	Underground
+230928_13B	SCb1 Parking lot	b1	Parking lot	Indoor	no	metal	26	71.8	No		DNA	230928_13B	230928	2309	SD	230928_13B-SCb1 Parking lot	13B	2309-13B	09-13B	Autumn	Autumn	Underground
+230928_14B	SCb1 Parking lot	b1	Parking lot	Indoor	no	metal	26.9	71.8	No		DNA	230928_14B	230928	2309	SD	230928_14B-SCb1 Parking lot	14B	2309-14B	09-14B	Autumn	Autumn	Underground
+230928_15B	SCb1 Parking lot	b1	Parking lot	Indoor	no	metal	26.5	71.2	No		DNA	230928_15B	230928	2309	SD	230928_15B-SCb1 Parking lot	15B	2309-15B	09-15B	Autumn	Autumn	Underground
+230928_16B	SD Elevator	Elevator	Elevator	Indoor	no	metal	27	71.2	No		DNA	230928_16B	230928	2309	SD	230928_16B-SD Elevator	16B	2309-16B	09-16B	Autumn	Autumn	Elevator
+230928_17B	SD254	2	Classroom	Indoor	yes	metal	24.9	66.4	No		DNA	230928_17B	230928	2309	SD	230928_17B-SD254	17B	2309-17B	09-17B	Autumn	Autumn	Aboveground
+230928_18B	SD234	2	Corridor	Indoor	no	plastic	25	67.1	No	Very black	DNA	230928_18B	230928	2309	SD	230928_18B-SD234	18B	2309-18B	09-18B	Autumn	Autumn	Aboveground
+230928_19B	SC221	2	Common room	Indoor	yes	metal	26.7	69.3	No		DNA	230928_19B	230928	2309	SC	230928_19B-SC221	19B	2309-19B	09-19B	Autumn	Autumn	Aboveground
+230928_1B	SAb1 SA084 left side	b1	Corridor	Indoor	no	metal	24.8	68.2	No		DNA	230928_1B	230928	2309	SA	230928_1B-SAb1 SA084 left side	1B	2309-1B	09-1B	Autumn	Autumn	Underground
+230928_20B	SB123	2	Classroom	Indoor	no	metal	26.3	67.5	No		DNA	230928_20B	230928	2309	SB	230928_20B-SB123	20B	2309-20B	09-20B	Autumn	Autumn	Aboveground
+230928_21B	SA521	5	Common room	Indoor	no	metal	26.6	65.7	No		DNA	230928_21B	230928	2309	SA	230928_21B-SA521	21B	2309-21B	09-21B	Autumn	Autumn	Aboveground
+230928_22B	SA434	4	Laboratory	Indoor	yes	metal	25.7	63	No		DNA	230928_22B	230928	2309	SA	230928_22B-SA434	22B	2309-22B	09-22B	Autumn	Autumn	Aboveground
+230928_2B	SAb1 SA074	b1	Toilet (Male)	Indoor	no	metal	24.9	69.8	No		DNA	230928_2B	230928	2309	SA	230928_2B-SAb1 SA074	2B	2309-2B	09-2B	Autumn	Autumn	Underground
+230928_3B	SAb1 SA080	b1	Toilet (Female)	Indoor	no	metal	25.1	70.6	No		DNA	230928_3B	230928	2309	SA	230928_3B-SAb1 SA080	3B	2309-3B	09-3B	Autumn	Autumn	Underground
+230928_4B	SAb1 Canteen	b1	Canteen	Indoor	no	metal	23.7	70.9	No		DNA	230928_4B	230928	2309	SA	230928_4B-SAb1 Canteen	4B	2309-4B	09-4B	Autumn	Autumn	Underground
+230928_5B	SAb1 SA089 (front)	b1	Corridor	Indoor	no	metal	23.9	71.9	No		DNA	230928_5B	230928	2309	SA	230928_5B-SAb1 SA089 (front)	5B	2309-5B	09-5B	Autumn	Autumn	Underground
+230928_6B	SAb1	b1	Corridor	Indoor	no	metal	24.4	71.8	No		DNA	230928_6B	230928	2309	SA	230928_6B-SAb1	6B	2309-6B	09-6B	Autumn	Autumn	Underground
+230928_7B	SBb1 (in front of elevator)	b1	Corridor	Indoor	no	metal	24.6	71.9	No		DNA	230928_7B	230928	2309	SB	230928_7B-SBb1 (in front of elevator)	7B	2309-7B	09-7B	Autumn	Autumn	Underground
+230928_8B	SBb1	b1	Outdoor	Outdoor	no	metal	25.2	73	No		DNA	230928_8B	230928	2309	SB	230928_8B-SBb1	8B	2309-8B	09-8B	Autumn	Autumn	Outdoor
+230928_9B	SB Elevator	Elevator	Elevator	Indoor	no	metal	25.4	71.8	No		DNA	230928_9B	230928	2309	SB	230928_9B-SB Elevator	9B	2309-9B	09-9B	Autumn	Autumn	Elevator
+231012_10A	SBb1 SB024 left side	b1	Corridor	Indoor	no	metal	25.1	54.5	No		DNA	231012_10A	231012	2310	SB	231012_10A-SBb1 SB024 left side	10A	2310-10A	10-10A	Autumn	Autumn	Underground
+231012_11A	SCb1 Parking lot	b1	Parking lot	Indoor	no	metal	24.7	54.5	No		DNA	231012_11A	231012	2310	SC	231012_11A-SCb1 Parking lot	11A	2310-11A	10-11A	Autumn	Autumn	Underground
+231012_12A	SCb1 Parking lot	b1	Parking lot	Indoor	no	metal	24.9	54.1	No		DNA	231012_12A	231012	2310	SC	231012_12A-SCb1 Parking lot	12A	2310-12A	10-12A	Autumn	Autumn	Underground
+231012_13A	SCb1 Parking lot	b1	Parking lot	Indoor	no	metal	24.9	54.2	No		DNA	231012_13A	231012	2310	SC	231012_13A-SCb1 Parking lot	13A	2310-13A	10-13A	Autumn	Autumn	Underground
+231012_14A	SC Elevator	Elevator	Elevator	Indoor	no	metal	24.6	54	No		DNA	231012_14A	231012	2310	SC	231012_14A-SC Elevator	14A	2310-14A	10-14A	Autumn	Autumn	Elevator
+231012_15A	SDb1 Parking lot	b1	Parking lot	Indoor	no	metal	24.6	54.4	No		DNA	231012_15A	231012	2310	SD	231012_15A-SDb1 Parking lot	15A	2310-15A	10-15A	Autumn	Autumn	Underground
+231012_16A	SDb1 Parking lot	b1	Parking lot	Indoor	no	metal	24.8	54.5	No		DNA	231012_16A	231012	2310	SD	231012_16A-SDb1 Parking lot	16A	2310-16A	10-16A	Autumn	Autumn	Underground
+231012_17A	SDb1 Parking lot	b1	Parking lot	Indoor	no	metal	25	54.3	No		DNA	231012_17A	231012	2310	SD	231012_17A-SDb1 Parking lot	17A	2310-17A	10-17A	Autumn	Autumn	Underground
+231012_18A	SDb1	b1	Corridor	Indoor	no	metal	24.9	54.4	No		DNA	231012_18A	231012	2310	SD	231012_18A-SDb1	18A	2310-18A	10-18A	Autumn	Autumn	Underground
+231012_19A	SB273	2	Common room	Indoor	no	metal	24.8	55.1	No		DNA	231012_19A	231012	2310	SB	231012_19A-SB273	19A	2310-19A	10-19A	Autumn	Autumn	Aboveground
+231012_1A	SAb1 (By the elevator)	b1	Corridor	Indoor	no	plastic	24.6	52.6	No		DNA	231012_1A	231012	2310	SA	231012_1A-SAb1 (By the elevator)	1A	2310-1A	10-1A	Autumn	Autumn	Underground
+231012_20A	SA169	2	Classroom	Indoor	no	metal	24.7	55	No		DNA	231012_20A	231012	2310	SA	231012_20A-SA169	20A	2310-20A	10-20A	Autumn	Autumn	Aboveground
+231012_21A	SA Elevator	Elevator	Elevator	Indoor	no	metal	25.1	55.5	No		DNA	231012_21A	231012	2310	SA	231012_21A-SA Elevator	21A	2310-21A	10-21A	Autumn	Autumn	Elevator
+231012_3A	SAb1	b1	Outdoor	Outdoor	no	plastic	24.1	53.7	No		DNA	231012_3A	231012	2310	SA	231012_3A-SAb1	3A	2310-3A	10-3A	Autumn	Autumn	Outdoor
+231012_4A	SAb1 SA007	b1	Office	Indoor	no	plastic	24.7	54.3	No		DNA	231012_4A	231012	2310	SA	231012_4A-SAb1 SA007	4A	2310-4A	10-4A	Autumn	Autumn	Underground
+231012_5A	SBb1 SB022 (in front of toilet door)	b1	Corridor	Indoor	no	plastic	24.7	54.9	No		DNA	231012_5A	231012	2310	SB	231012_5A-SBb1 SB022 (in front of toilet door)	5A	2310-5A	10-5A	Autumn	Autumn	Underground
+231012_6A	SBb1 SB026	b1	Toilet (Male)	Indoor	yes	plastic	25	54.9	No		DNA	231012_6A	231012	2310	SB	231012_6A-SBb1 SB026	6A	2310-6A	10-6A	Autumn	Autumn	Underground
+231012_7A	SBb1 SB022	b1	Toilet (Female)	Indoor	yes	plastic	25.4	54.7	No		DNA	231012_7A	231012	2310	SB	231012_7A-SBb1 SB022	7A	2310-7A	10-7A	Autumn	Autumn	Underground
+231012_8A	SBb1 SB034 right side	b1	Corridor	Indoor	no	metal	25.2	54.5	No		DNA	231012_8A	231012	2310	SB	231012_8A-SBb1 SB034 right side	8A	2310-8A	10-8A	Autumn	Autumn	Underground
+231012_9A	SBb1 SB038 left side	b1	Corridor	Indoor	no	plastic	25.4	54.6	No		DNA	231012_9A	231012	2310	SB	231012_9A-SBb1 SB038 left side	9A	2310-9A	10-9A	Autumn	Autumn	Underground
+231030_10B	SCb1 Parking lot	b1	Parking lot	Indoor	no	metal	24.8	44.6	No		DNA	231030_10B	231030	2310	SC	231030_10B-SCb1 Parking lot	10B	2310-10B	10-10B	Autumn	Autumn	Underground
+231030_11B	SCb1 Parking lot	b1	Parking lot	Indoor	no	metal	24.3	44.8	No		DNA	231030_11B	231030	2310	SC	231030_11B-SCb1 Parking lot	11B	2310-11B	10-11B	Autumn	Autumn	Underground
+231030_12B	SCb1 Parking lot	b1	Parking lot	Indoor	no	metal	24.2	44.8	No		DNA	231030_12B	231030	2310	SC	231030_12B-SCb1 Parking lot	12B	2310-12B	10-12B	Autumn	Autumn	Underground
+231030_13B	SCb1 Parking lot	b1	Parking lot	Indoor	no	metal	23.9	44.7	No		DNA	231030_13B	231030	2310	SD	231030_13B-SCb1 Parking lot	13B	2310-13B	10-13B	Autumn	Autumn	Underground
+231030_14B	SCb1 Parking lot	b1	Parking lot	Indoor	no	metal	23.8	45.1	No		DNA	231030_14B	231030	2310	SD	231030_14B-SCb1 Parking lot	14B	2310-14B	10-14B	Autumn	Autumn	Underground
+231030_15B	SCb1 Parking lot	b1	Parking lot	Indoor	no	metal	23.9	45.7	No		DNA	231030_15B	231030	2310	SD	231030_15B-SCb1 Parking lot	15B	2310-15B	10-15B	Autumn	Autumn	Underground
+231030_16B	SD Elevator	Elevator	Elevator	Indoor	no	metal	23.8	46.9	No		DNA	231030_16B	231030	2310	SD	231030_16B-SD Elevator	16B	2310-16B	10-16B	Autumn	Autumn	Elevator
+231030_17B	SD254	2	Classroom	Indoor	yes	metal	24.6	50.1	No		DNA	231030_17B	231030	2310	SD	231030_17B-SD254	17B	2310-17B	10-17B	Autumn	Autumn	Aboveground
+231030_18B	SD234	2	Corridor	Indoor	no	plastic	25.5	49.3	No	Very black	DNA	231030_18B	231030	2310	SD	231030_18B-SD234	18B	2310-18B	10-18B	Autumn	Autumn	Aboveground
+231030_19B	SC221	2	Common room	Indoor	yes	metal	25.1	46.6	No	Opened window	DNA	231030_19B	231030	2310	SC	231030_19B-SC221	19B	2310-19B	10-19B	Autumn	Autumn	Aboveground
+231030_1B	SAb1 SA084 left side	b1	Corridor	Indoor	no	metal	23.3	51.2	No		DNA	231030_1B	231030	2310	SA	231030_1B-SAb1 SA084 left side	1B	2310-1B	10-1B	Autumn	Autumn	Underground
+231030_20B	SB123	2	Classroom	Indoor	no	metal	24.3	48.8	No		DNA	231030_20B	231030	2310	SB	231030_20B-SB123	20B	2310-20B	10-20B	Autumn	Autumn	Aboveground
+231030_21B	SA521	5	Common room	Indoor	no	metal	25.8	44.7	No		DNA	231030_21B	231030	2310	SA	231030_21B-SA521	21B	2310-21B	10-21B	Autumn	Autumn	Aboveground
+231030_22B	SA434	4	Laboratory	Indoor	yes	metal	24.5	46.9	No		DNA	231030_22B	231030	2310	SA	231030_22B-SA434	22B	2310-22B	10-22B	Autumn	Autumn	Aboveground
+231030_2B	SAb1 SA074	b1	Toilet (Male)	Indoor	no	metal	23.5	51.8	No		DNA	231030_2B	231030	2310	SA	231030_2B-SAb1 SA074	2B	2310-2B	10-2B	Autumn	Autumn	Underground
+231030_3B	SAb1 SA080	b1	Toilet (Female)	Indoor	no	metal	23.6	51.6	No		DNA	231030_3B	231030	2310	SA	231030_3B-SAb1 SA080	3B	2310-3B	10-3B	Autumn	Autumn	Underground
+231030_4B	SAb1 Canteen	b1	Canteen	Indoor	no	metal	24.1	53.9	No		DNA	231030_4B	231030	2310	SA	231030_4B-SAb1 Canteen	4B	2310-4B	10-4B	Autumn	Autumn	Underground
+231030_5B	SAb1 SA089 (front)	b1	Corridor	Indoor	no	metal	23.9	53	No		DNA	231030_5B	231030	2310	SA	231030_5B-SAb1 SA089 (front)	5B	2310-5B	10-5B	Autumn	Autumn	Underground
+231030_6B	SAb1	b1	Corridor	Indoor	no	metal	23.6	52.1	No		DNA	231030_6B	231030	2310	SA	231030_6B-SAb1	6B	2310-6B	10-6B	Autumn	Autumn	Underground
+231030_7B	SBb1 (in front of elevator)	b1	Corridor	Indoor	no	metal	24.4	51.5	No		DNA	231030_7B	231030	2310	SB	231030_7B-SBb1 (in front of elevator)	7B	2310-7B	10-7B	Autumn	Autumn	Underground
+231030_8B	SBb1	b1	Outdoor	Outdoor	no	metal	25.4	44	No		DNA	231030_8B	231030	2310	SB	231030_8B-SBb1	8B	2310-8B	10-8B	Autumn	Autumn	Outdoor
+231030_9B	SB Elevator	Elevator	Elevator	Indoor	no	metal	25.4	44.6	No		DNA	231030_9B	231030	2310	SB	231030_9B-SB Elevator	9B	2310-9B	10-9B	Autumn	Autumn	Elevator
+231109_10A	SBb1 SB024 left side	b1	Corridor	Indoor	no	metal	22.8	65.2	No		DNA	231109_10A	231109	2311	SB	231109_10A-SBb1 SB024 left side	10A	2311-10A	11-10A	Autumn	Autumn	Underground
+231109_11A	SCb1 Parking lot	b1	Parking lot	Indoor	no	metal	22.8	65.7	No		DNA	231109_11A	231109	2311	SC	231109_11A-SCb1 Parking lot	11A	2311-11A	11-11A	Autumn	Autumn	Underground
+231109_12A	SCb1 Parking lot	b1	Parking lot	Indoor	no	metal	23.1	67	No		DNA	231109_12A	231109	2311	SC	231109_12A-SCb1 Parking lot	12A	2311-12A	11-12A	Autumn	Autumn	Underground
+231109_13A	SCb1 Parking lot	b1	Parking lot	Indoor	no	metal	23.1	67	No		DNA	231109_13A	231109	2311	SC	231109_13A-SCb1 Parking lot	13A	2311-13A	11-13A	Autumn	Autumn	Underground
+231109_14A	SC Elevator	Elevator	Elevator	Indoor	no	metal	23.1	67.95	No		DNA	231109_14A	231109	2311	SC	231109_14A-SC Elevator	14A	2311-14A	11-14A	Autumn	Autumn	Elevator
+231109_15A	SDb1 Parking lot	b1	Parking lot	Indoor	no	metal	22.7	68.5	No		DNA	231109_15A	231109	2311	SD	231109_15A-SDb1 Parking lot	15A	2311-15A	11-15A	Autumn	Autumn	Underground
+231109_16A	SDb1 Parking lot	b1	Parking lot	Indoor	no	metal	22.7	68.4	No		DNA	231109_16A	231109	2311	SD	231109_16A-SDb1 Parking lot	16A	2311-16A	11-16A	Autumn	Autumn	Underground
+231109_17A	SDb1 Parking lot	b1	Parking lot	Indoor	no	metal	22.8	68.8	No		DNA	231109_17A	231109	2311	SD	231109_17A-SDb1 Parking lot	17A	2311-17A	11-17A	Autumn	Autumn	Underground
+231109_18A	SDb1	b1	Corridor	Indoor	no	metal	22.9	69.5	No		DNA	231109_18A	231109	2311	SD	231109_18A-SDb1	18A	2311-18A	11-18A	Autumn	Autumn	Underground
+231109_19A	SB273	2	Common room	Indoor	yes	metal	24.2	67	No	Opened window	DNA	231109_19A	231109	2311	SB	231109_19A-SB273	19A	2311-19A	11-19A	Autumn	Autumn	Aboveground
+231109_1A	SAb1 (By the elevator)	b1	Corridor	Indoor	no	plastic	22.6	59.6	No		DNA	231109_1A	231109	2311	SA	231109_1A-SAb1 (By the elevator)	1A	2311-1A	11-1A	Autumn	Autumn	Underground
+231109_20A	SC169	2	Classroom	Indoor	no	metal	24.2	68.8	No		DNA	231109_20A	231109	2311	SC	231109_20A-SC169	20A	2311-20A	11-20A	Autumn	Autumn	Aboveground
+231109_21A	SA Elevator	Elevator	Elevator	Indoor	no	metal	23.9	68.1	No		DNA	231109_21A	231109	2311	SA	231109_21A-SA Elevator	21A	2311-21A	11-21A	Autumn	Autumn	Elevator
+231109_22A	SA421	4	Office	Indoor	no	metal	24.3	66.6	No		DNA	231109_22A	231109	2311	SA	231109_22A-SA421	22A	2311-22A	11-22A	Autumn	Autumn	Aboveground
+231109_3A	SAb1	b1	Outdoor	Outdoor	no	plastic	21.2	61.8	No		DNA	231109_3A	231109	2311	SA	231109_3A-SAb1	3A	2311-3A	11-3A	Autumn	Autumn	Outdoor
+231109_4A	SAb1 SA007	b1	Office	Indoor	no	plastic	21.4	62.7	No		DNA	231109_4A	231109	2311	SA	231109_4A-SAb1 SA007	4A	2311-4A	11-4A	Autumn	Autumn	Underground
+231109_5A	SBb1 SB022 (in front of toilet door)	b1	Corridor	Indoor	no	plastic	21.8	63.7	No		DNA	231109_5A	231109	2311	SB	231109_5A-SBb1 SB022 (in front of toilet door)	5A	2311-5A	11-5A	Autumn	Autumn	Underground
+231109_6A	SBb1 SB026	b1	Toilet (Male)	Indoor	yes	plastic	22	64.3	No		DNA	231109_6A	231109	2311	SB	231109_6A-SBb1 SB026	6A	2311-6A	11-6A	Autumn	Autumn	Underground
+231109_7A	SBb1 SB022	b1	Toilet (Female)	Indoor	yes	plastic	22.3	64.7	No		DNA	231109_7A	231109	2311	SB	231109_7A-SBb1 SB022	7A	2311-7A	11-7A	Autumn	Autumn	Underground
+231109_8A	SBb1 SB034 right side	b1	Corridor	Indoor	no	metal	22.5	64.9	No		DNA	231109_8A	231109	2311	SB	231109_8A-SBb1 SB034 right side	8A	2311-8A	11-8A	Autumn	Autumn	Underground
+231109_9A	SBb1 SB038 left side	b1	Corridor	Indoor	no	plastic	22.5	65.2	No		DNA	231109_9A	231109	2311	SB	231109_9A-SBb1 SB038 left side	9A	2311-9A	11-9A	Autumn	Autumn	Underground
+231123_10B	SCb1 Parking lot	b1	Parking lot	Indoor	no	metal	20.4	40.5	No		DNA	231123_10B	231123	2311	SC	231123_10B-SCb1 Parking lot	10B	2311-10B	11-10B	Autumn	Autumn	Underground
+231123_11B	SCb1 Parking lot	b1	Parking lot	Indoor	no	metal	20.3	40.6	No		DNA	231123_11B	231123	2311	SC	231123_11B-SCb1 Parking lot	11B	2311-11B	11-11B	Autumn	Autumn	Underground
+231123_12B	SCb1 Parking lot	b1	Parking lot	Indoor	no	metal	20.6	41	No		DNA	231123_12B	231123	2311	SC	231123_12B-SCb1 Parking lot	12B	2311-12B	11-12B	Autumn	Autumn	Underground
+231123_13B	SCb1 Parking lot	b1	Parking lot	Indoor	no	metal	20.2	40.7	No		DNA	231123_13B	231123	2311	SD	231123_13B-SCb1 Parking lot	13B	2311-13B	11-13B	Autumn	Autumn	Underground
+231123_14B	SCb1 Parking lot	b1	Parking lot	Indoor	no	metal	20.1	41	No		DNA	231123_14B	231123	2311	SD	231123_14B-SCb1 Parking lot	14B	2311-14B	11-14B	Autumn	Autumn	Underground
+231123_15B	SCb1 Parking lot	b1	Parking lot	Indoor	no	metal	20	40.8	No		DNA	231123_15B	231123	2311	SD	231123_15B-SCb1 Parking lot	15B	2311-15B	11-15B	Autumn	Autumn	Underground
+231123_16B	SD Elevator	Elevator	Elevator	Indoor	no	metal	20.5	42.6	No		DNA	231123_16B	231123	2311	SD	231123_16B-SD Elevator	16B	2311-16B	11-16B	Autumn	Autumn	Elevator
+231123_17B	SD254	2	Classroom	Indoor	no	metal	20.9	42.6	No		DNA	231123_17B	231123	2311	SD	231123_17B-SD254	17B	2311-17B	11-17B	Autumn	Autumn	Aboveground
+231123_18B	SD234	2	Corridor	Indoor	no	plastic	21.3	42.5	No	Very black	DNA	231123_18B	231123	2311	SD	231123_18B-SD234	18B	2311-18B	11-18B	Autumn	Autumn	Aboveground
+231123_19B	SC221	2	Common room	Indoor	no	metal	21.8	43.5	No		DNA	231123_19B	231123	2311	SC	231123_19B-SC221	19B	2311-19B	11-19B	Autumn	Autumn	Aboveground
+231123_1B	SAb1 SA084 left side	b1	Corridor	Indoor	no	metal	21.1	39.5	No		DNA	231123_1B	231123	2311	SA	231123_1B-SAb1 SA084 left side	1B	2311-1B	11-1B	Autumn	Autumn	Underground
+231123_20B	SB123	2	Classroom	Indoor	no	metal	22.9	42.9	No		DNA	231123_20B	231123	2311	SB	231123_20B-SB123	20B	2311-20B	11-20B	Autumn	Autumn	Aboveground
+231123_21B	SA521	5	Common room	Indoor	no	metal	22.7	42.2	No		DNA	231123_21B	231123	2311	SA	231123_21B-SA521	21B	2311-21B	11-21B	Autumn	Autumn	Aboveground
+231123_22B	SA434	4	Laboratory	Indoor	no	metal	22.5	42.2	No		DNA	231123_22B	231123	2311	SA	231123_22B-SA434	22B	2311-22B	11-22B	Autumn	Autumn	Aboveground
+231123_2B	SAb1 SA074	b1	Toilet (Male)	Indoor	yes	metal	20.6	39.8	No		DNA	231123_2B	231123	2311	SA	231123_2B-SAb1 SA074	2B	2311-2B	11-2B	Autumn	Autumn	Underground
+231123_3B	SAb1 SA080	b1	Toilet (Female)	Indoor	yes	metal	20.6	40.3	No		DNA	231123_3B	231123	2311	SA	231123_3B-SAb1 SA080	3B	2311-3B	11-3B	Autumn	Autumn	Underground
+231123_5B	SAb1 SA089 (front)	b1	Corridor	Indoor	no	metal	20.9	40.8	No		DNA	231123_5B	231123	2311	SA	231123_5B-SAb1 SA089 (front)	5B	2311-5B	11-5B	Autumn	Autumn	Underground
+231123_6B	SAb1	b1	Corridor	Indoor	no	metal	21.4	40.9	No		DNA	231123_6B	231123	2311	SA	231123_6B-SAb1	6B	2311-6B	11-6B	Autumn	Autumn	Underground
+231123_7B	SBb1 (in front of elevator)	b1	Corridor	Indoor	no	metal	21.2	40.6	No		DNA	231123_7B	231123	2311	SB	231123_7B-SBb1 (in front of elevator)	7B	2311-7B	11-7B	Autumn	Autumn	Underground
+231123_8B	SBb1	b1	Outdoor	Outdoor	no	metal	20.8	40.1	No		DNA	231123_8B	231123	2311	SB	231123_8B-SBb1	8B	2311-8B	11-8B	Autumn	Autumn	Outdoor
+231123_9B	SB Elevator	Elevator	Elevator	Indoor	no	metal	20.7	40.9	No		DNA	231123_9B	231123	2311	SB	231123_9B-SB Elevator	9B	2311-9B	11-9B	Autumn	Autumn	Elevator
+231207_10A	SBb1 SB024 left side	b1	Corridor	Indoor	no	metal	18.5	34.3	No		DNA	231207_10A	231207	2312	SB	231207_10A-SBb1 SB024 left side	10A	2312-10A	12-10A	Winter	Winter	Underground
+231207_11A	SCb1 Parking lot	b1	Parking lot	Indoor	no	metal	18.6	34.2	No		DNA	231207_11A	231207	2312	SC	231207_11A-SCb1 Parking lot	11A	2312-11A	12-11A	Winter	Winter	Underground
+231207_12A	SCb1 Parking lot	b1	Parking lot	Indoor	no	metal	18.6	34.2	No		DNA	231207_12A	231207	2312	SC	231207_12A-SCb1 Parking lot	12A	2312-12A	12-12A	Winter	Winter	Underground
+231207_13A	SCb1 Parking lot	b1	Parking lot	Indoor	no	metal	18.1	34.3	No		DNA	231207_13A	231207	2312	SC	231207_13A-SCb1 Parking lot	13A	2312-13A	12-13A	Winter	Winter	Underground
+231207_14A	SC Elevator	Elevator	Elevator	Indoor	no	metal	18.3	34.6	No		DNA	231207_14A	231207	2312	SC	231207_14A-SC Elevator	14A	2312-14A	12-14A	Winter	Winter	Elevator
+231207_15A	SDb1 Parking lot	b1	Parking lot	Indoor	no	metal	17.7	34.7	No		DNA	231207_15A	231207	2312	SD	231207_15A-SDb1 Parking lot	15A	2312-15A	12-15A	Winter	Winter	Underground
+231207_16A	SDb1 Parking lot	b1	Parking lot	Indoor	no	metal	17.8	34.8	No		DNA	231207_16A	231207	2312	SD	231207_16A-SDb1 Parking lot	16A	2312-16A	12-16A	Winter	Winter	Underground
+231207_17A	SDb1 Parking lot	b1	Parking lot	Indoor	no	metal	17.9	34.7	No		DNA	231207_17A	231207	2312	SD	231207_17A-SDb1 Parking lot	17A	2312-17A	12-17A	Winter	Winter	Underground
+231207_18A	SDb1	b1	Corridor	Indoor	no	metal	18	35.2	No		DNA	231207_18A	231207	2312	SD	231207_18A-SDb1	18A	2312-18A	12-18A	Winter	Winter	Underground
+231207_19A	SB273	2	Common room	Indoor	no	metal	20.4	37.5	No	Opened window	DNA	231207_19A	231207	2312	SB	231207_19A-SB273	19A	2312-19A	12-19A	Winter	Winter	Aboveground
+231207_1A	SAb1 (By the elevator)	b1	Corridor	Indoor	no	plastic	22	29.8	No		DNA	231207_1A	231207	2312	SA	231207_1A-SAb1 (By the elevator)	1A	2312-1A	12-1A	Winter	Winter	Underground
+231207_20A	SC169	2	Classroom	Indoor	no	metal	21.5	29.5	No		DNA	231207_20A	231207	2312	SC	231207_20A-SC169	20A	2312-20A	12-20A	Winter	Winter	Aboveground
+231207_21A	SA Elevator	Elevator	Elevator	Indoor	no	metal	23.8	29.6	No		DNA	231207_21A	231207	2312	SA	231207_21A-SA Elevator	21A	2312-21A	12-21A	Winter	Winter	Elevator
+231207_22A	SA421	4	Office	Indoor	no	metal	21.5	36.4	No		DNA	231207_22A	231207	2312	SA	231207_22A-SA421	22A	2312-22A	12-22A	Winter	Winter	Aboveground
+231207_3A	SAb1	b1	Outdoor	Outdoor	no	plastic	19.9	30.8	No		DNA	231207_3A	231207	2312	SA	231207_3A-SAb1	3A	2312-3A	12-3A	Winter	Winter	Outdoor
+231207_4A	SAb1 SA007	b1	Office	Indoor	yes	plastic	20.2	32.1	No		DNA	231207_4A	231207	2312	SA	231207_4A-SAb1 SA007	4A	2312-4A	12-4A	Winter	Winter	Underground
+231207_5A	SBb1 SB022 (in front of toilet door)	b1	Corridor	Indoor	no	plastic	20	32.1	No		DNA	231207_5A	231207	2312	SB	231207_5A-SBb1 SB022 (in front of toilet door)	5A	2312-5A	12-5A	Winter	Winter	Underground
+231207_6A	SBb1 SB026	b1	Toilet (Male)	Indoor	yes	plastic	19.7	32.4	No		DNA	231207_6A	231207	2312	SB	231207_6A-SBb1 SB026	6A	2312-6A	12-6A	Winter	Winter	Underground
+231207_7A	SBb1 SB022	b1	Toilet (Female)	Indoor	yes	plastic	19.7	32.7	No		DNA	231207_7A	231207	2312	SB	231207_7A-SBb1 SB022	7A	2312-7A	12-7A	Winter	Winter	Underground
+231207_8A	SBb1 SB034 right side	b1	Corridor	Indoor	no	metal	19.5	33	No		DNA	231207_8A	231207	2312	SB	231207_8A-SBb1 SB034 right side	8A	2312-8A	12-8A	Winter	Winter	Underground
+231207_9A	SBb1 SB038 left side	b1	Corridor	Indoor	no	plastic	18.9	33.8	No		DNA	231207_9A	231207	2312	SB	231207_9A-SBb1 SB038 left side	9A	2312-9A	12-9A	Winter	Winter	Underground
+231222_10B	SCb1 Parking lot	b1	Parking lot	Indoor	no	metal	9.6	23.6	Yes		DNA	231222_10B	231222	2312	SC	231222_10B-SCb1 Parking lot	10B	2312-10B	12-10B	Winter	Winter	Underground
+231222_11B	SCb1 Parking lot	b1	Parking lot	Indoor	no	metal	9.6	22.5	Yes		DNA	231222_11B	231222	2312	SC	231222_11B-SCb1 Parking lot	11B	2312-11B	12-11B	Winter	Winter	Underground
+231222_12B	SCb1 Parking lot	b1	Parking lot	Indoor	no	metal	6.4	20.6	Yes		DNA	231222_12B	231222	2312	SC	231222_12B-SCb1 Parking lot	12B	2312-12B	12-12B	Winter	Winter	Underground
+231222_13B	SCb1 Parking lot	b1	Parking lot	Indoor	no	metal	6.5	21.1	Yes		DNA	231222_13B	231222	2312	SD	231222_13B-SCb1 Parking lot	13B	2312-13B	12-13B	Winter	Winter	Underground
+231222_14B	SCb1 Parking lot	b1	Parking lot	Indoor	no	metal	6.7	21	Yes		DNA	231222_14B	231222	2312	SD	231222_14B-SCb1 Parking lot	14B	2312-14B	12-14B	Winter	Winter	Underground
+231222_15B	SCb1 Parking lot	b1	Parking lot	Indoor	no	metal	6.7	21.1	Yes		DNA	231222_15B	231222	2312	SD	231222_15B-SCb1 Parking lot	15B	2312-15B	12-15B	Winter	Winter	Underground
+231222_16B	SD Elevator	Elevator	Elevator	Indoor	no	metal	7.8	21	No		DNA	231222_16B	231222	2312	SD	231222_16B-SD Elevator	16B	2312-16B	12-16B	Winter	Winter	Elevator
+231222_17B	SD254	2	Classroom	Indoor	yes	metal	11.7	22.1	No		DNA	231222_17B	231222	2312	SD	231222_17B-SD254	17B	2312-17B	12-17B	Winter	Winter	Aboveground
+231222_18B	SD234	2	Corridor	Indoor	no	plastic	12.7	21.8	No	Very black	DNA	231222_18B	231222	2312	SD	231222_18B-SD234	18B	2312-18B	12-18B	Winter	Winter	Aboveground
+231222_1B	SAb1 SA084 left side	b1	Corridor	Indoor	no	metal	5.4	12.9	Yes		DNA	231222_1B	231222	2312	SA	231222_1B-SAb1 SA084 left side	1B	2312-1B	12-1B	Winter	Winter	Underground
+231222_20B	SB123	2	Classroom	Indoor	no	metal	12.7	21.3	No		DNA	231222_20B	231222	2312	SB	231222_20B-SB123	20B	2312-20B	12-20B	Winter	Winter	Aboveground
+231222_21B	SA521	5	Common room	Indoor	no	metal	17.8	20	No		DNA	231222_21B	231222	2312	SA	231222_21B-SA521	21B	2312-21B	12-21B	Winter	Winter	Aboveground
+231222_22B	SA434	4	Laboratory	Indoor	yes	metal	17.6	20.2	No		DNA	231222_22B	231222	2312	SA	231222_22B-SA434	22B	2312-22B	12-22B	Winter	Winter	Aboveground
+231222_2B	SAb1 SA074	b1	Toilet (Male)	Indoor	no	metal	8.4	12.9	Yes		DNA	231222_2B	231222	2312	SA	231222_2B-SAb1 SA074	2B	2312-2B	12-2B	Winter	Winter	Underground
+231222_3B	SAb1 SA080	b1	Toilet (Female)	Indoor	no	metal	8.3	12.7	Yes		DNA	231222_3B	231222	2312	SA	231222_3B-SAb1 SA080	3B	2312-3B	12-3B	Winter	Winter	Underground
+231222_4B	SAb1 Canteen	b1	Canteen	Indoor	no	metal	13.3	27.4	Yes		DNA	231222_4B	231222	2312	SA	231222_4B-SAb1 Canteen	4B	2312-4B	12-4B	Winter	Winter	Underground
+231222_5B	SAb1 SA089 (front)	b1	Corridor	Indoor	no	metal	8.1	12.6	Yes		DNA	231222_5B	231222	2312	SA	231222_5B-SAb1 SA089 (front)	5B	2312-5B	12-5B	Winter	Winter	Underground
+231222_6B	SAb1	b1	Corridor	Indoor	no	metal	8.3	12.4	Yes		DNA	231222_6B	231222	2312	SA	231222_6B-SAb1	6B	2312-6B	12-6B	Winter	Winter	Underground
+231222_7B	SBb1 (in front of elevator)	b1	Corridor	Indoor	no	metal	8.7	11.9	Yes		DNA	231222_7B	231222	2312	SB	231222_7B-SBb1 (in front of elevator)	7B	2312-7B	12-7B	Winter	Winter	Underground
+231222_8B	SBb1	b1	Outdoor	Outdoor	no	metal	-2	12.1	Yes		DNA	231222_8B	231222	2312	SB	231222_8B-SBb1	8B	2312-8B	12-8B	Winter	Winter	Outdoor
+231222_9B	SB Elevator	Elevator	Elevator	Indoor	no	metal	7.5	23.1	No		DNA	231222_9B	231222	2312	SB	231222_9B-SB Elevator	9B	2312-9B	12-9B	Winter	Winter	Elevator
+240229_10B	SCb1 Parking lot	b1	Parking lot	Indoor	no	metal	10.2	54.6	Yes		DNA	240229_10B	240229	2402	SC	240229_10B-SCb1 Parking lot	10B	2402-10B	02-10B	Winter	Winter	Underground
+240229_11B	SCb1 Parking lot	b1	Parking lot	Indoor	no	metal	11.3	54.8	Yes		DNA	240229_11B	240229	2402	SC	240229_11B-SCb1 Parking lot	11B	2402-11B	02-11B	Winter	Winter	Underground
+240229_12B	SCb1 Parking lot	b1	Parking lot	Indoor	no	metal	9.8	55.9	Yes		DNA	240229_12B	240229	2402	SC	240229_12B-SCb1 Parking lot	12B	2402-12B	02-12B	Winter	Winter	Underground
+240229_13B	SCb1 Parking lot	b1	Parking lot	Indoor	no	metal	9.2	57.1	Yes		DNA	240229_13B	240229	2402	SD	240229_13B-SCb1 Parking lot	13B	2402-13B	02-13B	Winter	Winter	Underground
+240229_14B	SCb1 Parking lot	b1	Parking lot	Indoor	no	metal	9	58	Yes		DNA	240229_14B	240229	2402	SD	240229_14B-SCb1 Parking lot	14B	2402-14B	02-14B	Winter	Winter	Underground
+240229_15B	SCb1 Parking lot	b1	Parking lot	Indoor	no	metal	9.1	58.7	Yes		DNA	240229_15B	240229	2402	SD	240229_15B-SCb1 Parking lot	15B	2402-15B	02-15B	Winter	Winter	Underground
+240229_16B	SD Elevator	Elevator	Elevator	Indoor	no	metal	9.7	59.6	No		DNA	240229_16B	240229	2402	SD	240229_16B-SD Elevator	16B	2402-16B	02-16B	Winter	Winter	Elevator
+240229_17B	SD254	2	Classroom	Indoor	no	metal	13	60.1	No		DNA	240229_17B	240229	2402	SD	240229_17B-SD254	17B	2402-17B	02-17B	Winter	Winter	Aboveground
+240229_18B	SD234	2	Corridor	Indoor	no	plastic	13.5	59.2	No	Very black	DNA	240229_18B	240229	2402	SD	240229_18B-SD234	18B	2402-18B	02-18B	Winter	Winter	Aboveground
+240229_19B	SC221	2	Common room	Indoor	yes	metal	14.4	59.3	No		DNA	240229_19B	240229	2402	SC	240229_19B-SC221	19B	2402-19B	02-19B	Winter	Winter	Aboveground
+240229_1B	SAb1 SA084 left side	b1	Corridor	Indoor	no	metal	12.5	36.6	Yes		DNA	240229_1B	240229	2402	SA	240229_1B-SAb1 SA084 left side	1B	2402-1B	02-1B	Winter	Winter	Underground
+240229_20B	SB123	2	Classroom	Indoor	no	metal	23.3	38.8	No		DNA	240229_20B	240229	2402	SB	240229_20B-SB123	20B	2402-20B	02-20B	Winter	Winter	Aboveground
+240229_22B	SA434	4	Laboratory	Indoor	yes	metal	21.8	40.1	No		DNA	240229_22B	240229	2402	SA	240229_22B-SA434	22B	2402-22B	02-22B	Winter	Winter	Aboveground
+240229_2B	SAb1 SA074	b1	Toilet (Male)	Indoor	yes	metal	13.3	38.6	Yes		DNA	240229_2B	240229	2402	SA	240229_2B-SAb1 SA074	2B	2402-2B	02-2B	Winter	Winter	Underground
+240229_3B	SAb1 SA080	b1	Toilet (Female)	Indoor	yes	metal	13.3	38.8	Yes		DNA	240229_3B	240229	2402	SA	240229_3B-SAb1 SA080	3B	2402-3B	02-3B	Winter	Winter	Underground
+240229_4B	SAb1 Canteen	b1	Canteen	Indoor	no	metal	13.9	46.1	Yes		DNA	240229_4B	240229	2402	SA	240229_4B-SAb1 Canteen	4B	2402-4B	02-4B	Winter	Winter	Underground
+240229_5B	SAb1 SA089 (front)	b1	Corridor	Indoor	no	metal	11.7	45.7	Yes		DNA	240229_5B	240229	2402	SA	240229_5B-SAb1 SA089 (front)	5B	2402-5B	02-5B	Winter	Winter	Underground
+240229_6B	SAb1	b1	Corridor	Indoor	no	metal	11.2	46.6	Yes		DNA	240229_6B	240229	2402	SA	240229_6B-SAb1	6B	2402-6B	02-6B	Winter	Winter	Underground
+240229_7B	SBb1 (in front of elevator)	b1	Corridor	Indoor	no	metal	10.8	47.9	Yes		DNA	240229_7B	240229	2402	SB	240229_7B-SBb1 (in front of elevator)	7B	2402-7B	02-7B	Winter	Winter	Underground
+240229_8B	SBb1	b1	Outdoor	Outdoor	no	metal	7.9	52.5	Yes		DNA	240229_8B	240229	2402	SB	240229_8B-SBb1	8B	2402-8B	02-8B	Winter	Winter	Outdoor
+240229_9B	SB Elevator	Elevator	Elevator	Indoor	no	metal	9.1	54.1	No		DNA	240229_9B	240229	2402	SB	240229_9B-SB Elevator	9B	2402-9B	02-9B	Winter	Winter	Elevator
+240314_11A	SCb1 Parking lot	b1	Parking lot	Indoor	no	metal	14	39.8	No		DNA	240314_11A	240314	2403	SC	240314_11A-SCb1 Parking lot	11A	2403-11A	03-11A	Spring	Spring	Underground
+240314_12A	SCb1 Parking lot	b1	Parking lot	Indoor	no	metal	14.2	40	No		DNA	240314_12A	240314	2403	SC	240314_12A-SCb1 Parking lot	12A	2403-12A	03-12A	Spring	Spring	Underground
+240314_13A	SCb1 Parking lot	b1	Parking lot	Indoor	no	metal	14.2	41.7	No		DNA	240314_13A	240314	2403	SC	240314_13A-SCb1 Parking lot	13A	2403-13A	03-13A	Spring	Spring	Underground
+240314_14A	SC Elevator	Elevator	Elevator	Indoor	no	metal	14	41.5	No		DNA	240314_14A	240314	2403	SC	240314_14A-SC Elevator	14A	2403-14A	03-14A	Spring	Spring	Elevator
+240314_15A	SDb1 Parking lot	b1	Parking lot	Indoor	no	metal	13.9	42.5	No		DNA	240314_15A	240314	2403	SD	240314_15A-SDb1 Parking lot	15A	2403-15A	03-15A	Spring	Spring	Underground
+240314_16A	SDb1 Parking lot	b1	Parking lot	Indoor	no	metal	13.9	43.5	No		DNA	240314_16A	240314	2403	SD	240314_16A-SDb1 Parking lot	16A	2403-16A	03-16A	Spring	Spring	Underground
+240314_17A	SDb1 Parking lot	b1	Parking lot	Indoor	no	metal	13.9	43.8	No		DNA	240314_17A	240314	2403	SD	240314_17A-SDb1 Parking lot	17A	2403-17A	03-17A	Spring	Spring	Underground
+240314_18A	SDb1	b1	Corridor	Indoor	no	metal	13.3	44.6	No		DNA	240314_18A	240314	2403	SD	240314_18A-SDb1	18A	2403-18A	03-18A	Spring	Spring	Underground
+240314_19A	SB273	2	Common room	Indoor	no	metal	18.7	42.9	No	Opened window	DNA	240314_19A	240314	2403	SB	240314_19A-SB273	19A	2403-19A	03-19A	Spring	Spring	Aboveground
+240314_1A	SAb1 (By the elevator)	b1	Corridor	Indoor	no	plastic	18.3	34.9	No		DNA	240314_1A	240314	2403	SA	240314_1A-SAb1 (By the elevator)	1A	2403-1A	03-1A	Spring	Spring	Underground
+240314_20A	SC169	2	Classroom	Indoor	no	metal	19.4	38.9	No		DNA	240314_20A	240314	2403	SC	240314_20A-SC169	20A	2403-20A	03-20A	Spring	Spring	Aboveground
+240314_21A	SA Elevator	Elevator	Elevator	Indoor	no	metal	18.6	42.7	No		DNA	240314_21A	240314	2403	SA	240314_21A-SA Elevator	21A	2403-21A	03-21A	Spring	Spring	Elevator
+240314_3A	SAb1	b1	Outdoor	Outdoor	no	plastic	15.4	35.5	No		DNA	240314_3A	240314	2403	SA	240314_3A-SAb1	3A	2403-3A	03-3A	Spring	Spring	Outdoor
+240314_4A	SAb1 SA007	b1	Office	Indoor	yes	plastic	16.2	36.7	No		DNA	240314_4A	240314	2403	SA	240314_4A-SAb1 SA007	4A	2403-4A	03-4A	Spring	Spring	Underground
+240314_5A	SBb1 SB022 (in front of toilet door)	b1	Corridor	Indoor	no	plastic	17.7	36.2	No		DNA	240314_5A	240314	2403	SB	240314_5A-SBb1 SB022 (in front of toilet door)	5A	2403-5A	03-5A	Spring	Spring	Underground
+240314_6A	SBb1 SB026	b1	Toilet (Male)	Indoor	yes	plastic	17.2	36.4	No		DNA	240314_6A	240314	2403	SB	240314_6A-SBb1 SB026	6A	2403-6A	03-6A	Spring	Spring	Underground
+240314_7A	SBb1 SB022	b1	Toilet (Female)	Indoor	yes	plastic	16.6	36.7	No		DNA	240314_7A	240314	2403	SB	240314_7A-SBb1 SB022	7A	2403-7A	03-7A	Spring	Spring	Underground
+240314_8A	SBb1 SB034 right side	b1	Corridor	Indoor	no	metal	15.9	37.3	No		DNA	240314_8A	240314	2403	SB	240314_8A-SBb1 SB034 right side	8A	2403-8A	03-8A	Spring	Spring	Underground
+240314_9A	SBb1 SB038 left side	b1	Corridor	Indoor	yes	plastic	13.9	38.3	No		DNA	240314_9A	240314	2403	SB	240314_9A-SBb1 SB038 left side	9A	2403-9A	03-9A	Spring	Spring	Underground
+240328_10B	SCb1 Parking lot	b1	Parking lot	Indoor	no	metal	16.4	61.2	No		DNA	240328_10B	240328	2403	SC	240328_10B-SCb1 Parking lot	10B	2403-10B	03-10B	Spring	Spring	Underground
+240328_11B	SCb1 Parking lot	b1	Parking lot	Indoor	no	metal	16.4	62.1	No		DNA	240328_11B	240328	2403	SC	240328_11B-SCb1 Parking lot	11B	2403-11B	03-11B	Spring	Spring	Underground
+240328_12B	SCb1 Parking lot	b1	Parking lot	Indoor	no	metal	16.2	62.7	No		DNA	240328_12B	240328	2403	SC	240328_12B-SCb1 Parking lot	12B	2403-12B	03-12B	Spring	Spring	Underground
+240328_13B	SCb1 Parking lot	b1	Parking lot	Indoor	no	metal	15.9	63.5	No		DNA	240328_13B	240328	2403	SD	240328_13B-SCb1 Parking lot	13B	2403-13B	03-13B	Spring	Spring	Underground
+240328_14B	SCb1 Parking lot	b1	Parking lot	Indoor	no	metal	15.9	64.5	No		DNA	240328_14B	240328	2403	SD	240328_14B-SCb1 Parking lot	14B	2403-14B	03-14B	Spring	Spring	Underground
+240328_15B	SCb1 Parking lot	b1	Parking lot	Indoor	no	metal	16.3	65.1	No		DNA	240328_15B	240328	2403	SD	240328_15B-SCb1 Parking lot	15B	2403-15B	03-15B	Spring	Spring	Underground
+240328_16B	SD Elevator	Elevator	Elevator	Indoor	no	metal	16.6	65.6	No		DNA	240328_16B	240328	2403	SD	240328_16B-SD Elevator	16B	2403-16B	03-16B	Spring	Spring	Elevator
+240328_17B	SD254	2	Classroom	Indoor	no	metal	17.3	65.7	No		DNA	240328_17B	240328	2403	SD	240328_17B-SD254	17B	2403-17B	03-17B	Spring	Spring	Aboveground
+240328_18B	SD234	2	Corridor	Indoor	no	plastic	17.6	65.3	No	Very black	DNA	240328_18B	240328	2403	SD	240328_18B-SD234	18B	2403-18B	03-18B	Spring	Spring	Aboveground
+240328_19B	SC221	2	Common room	Indoor	no	metal	17.8	65.1	No		DNA	240328_19B	240328	2403	SC	240328_19B-SC221	19B	2403-19B	03-19B	Spring	Spring	Aboveground
+240328_1B	SAb1 SA084 left side	b1	Corridor	Indoor	no	metal	18	52.2	No		DNA	240328_1B	240328	2403	SA	240328_1B-SAb1 SA084 left side	1B	2403-1B	03-1B	Spring	Spring	Underground
+240328_20B	SB123	2	Classroom	Indoor	no	metal	20.9	59.4	No		DNA	240328_20B	240328	2403	SB	240328_20B-SB123	20B	2403-20B	03-20B	Spring	Spring	Aboveground
+240328_21B	SA521	5	Common room	Indoor	no	metal	19.3	63.3	No		DNA	240328_21B	240328	2403	SA	240328_21B-SA521	21B	2403-21B	03-21B	Spring	Spring	Aboveground
+240328_22B	SA434	4	Laboratory	Indoor	no	metal	20.5	61.5	No		DNA	240328_22B	240328	2403	SA	240328_22B-SA434	22B	2403-22B	03-22B	Spring	Spring	Aboveground
+240328_2B	SAb1 SA074	b1	Toilet (Male)	Indoor	no	metal	17.3	53.5	No		DNA	240328_2B	240328	2403	SA	240328_2B-SAb1 SA074	2B	2403-2B	03-2B	Spring	Spring	Underground
+240328_3B	SAb1 SA080	b1	Toilet (Female)	Indoor	no	metal	17.3	55.3	No		DNA	240328_3B	240328	2403	SA	240328_3B-SAb1 SA080	3B	2403-3B	03-3B	Spring	Spring	Underground
+240328_4B	SAb1 Canteen	b1	Canteen	Indoor	no	metal	17.7	56.5	No		DNA	240328_4B	240328	2403	SA	240328_4B-SAb1 Canteen	4B	2403-4B	03-4B	Spring	Spring	Underground
+240328_5B	SAb1 SA089 (front)	b1	Corridor	Indoor	no	metal	17.2	56.9	No		DNA	240328_5B	240328	2403	SA	240328_5B-SAb1 SA089 (front)	5B	2403-5B	03-5B	Spring	Spring	Underground
+240328_6B	SAb1	b1	Corridor	Indoor	no	metal	16.9	57.9	No		DNA	240328_6B	240328	2403	SA	240328_6B-SAb1	6B	2403-6B	03-6B	Spring	Spring	Underground
+240328_7B	SBb1 (in front of elevator)	b1	Corridor	Indoor	no	metal	16.6	59.2	No		DNA	240328_7B	240328	2403	SB	240328_7B-SBb1 (in front of elevator)	7B	2403-7B	03-7B	Spring	Spring	Underground
+240328_8B	SBb1	b1	Outdoor	Outdoor	no	metal	16.6	59.5	No		DNA	240328_8B	240328	2403	SB	240328_8B-SBb1	8B	2403-8B	03-8B	Spring	Spring	Outdoor
+240328_9B	SB Elevator	Elevator	Elevator	Indoor	no	metal	16.9	60.1	No		DNA	240328_9B	240328	2403	SB	240328_9B-SB Elevator	9B	2403-9B	03-9B	Spring	Spring	Elevator
+240411_10A	SBb1 SB024 left side	b1	Corridor	Indoor	no	metal	20.1	57.4	No		DNA	240411_10A	240411	2404	SB	240411_10A-SBb1 SB024 left side	10A	2404-10A	04-10A	Spring	Spring	Underground
+240411_11A	SCb1 Parking lot	b1	Parking lot	Indoor	no	metal	19.2	58.4	No		DNA	240411_11A	240411	2404	SC	240411_11A-SCb1 Parking lot	11A	2404-11A	04-11A	Spring	Spring	Underground
+240411_12A	SCb1 Parking lot	b1	Parking lot	Indoor	no	metal	19.5	59	No		DNA	240411_12A	240411	2404	SC	240411_12A-SCb1 Parking lot	12A	2404-12A	04-12A	Spring	Spring	Underground
+240411_13A	SCb1 Parking lot	b1	Parking lot	Indoor	no	metal	19.2	59.7	No		DNA	240411_13A	240411	2404	SC	240411_13A-SCb1 Parking lot	13A	2404-13A	04-13A	Spring	Spring	Underground
+240411_14A	SC Elevator	Elevator	Elevator	Indoor	no	metal	19.4	60	No		DNA	240411_14A	240411	2404	SC	240411_14A-SC Elevator	14A	2404-14A	04-14A	Spring	Spring	Elevator
+240411_15A	SDb1 Parking lot	b1	Parking lot	Indoor	no	metal	19.2	60.9	No		DNA	240411_15A	240411	2404	SD	240411_15A-SDb1 Parking lot	15A	2404-15A	04-15A	Spring	Spring	Underground
+240411_16A	SDb1 Parking lot	b1	Parking lot	Indoor	no	metal	19.1	61.1	No		DNA	240411_16A	240411	2404	SD	240411_16A-SDb1 Parking lot	16A	2404-16A	04-16A	Spring	Spring	Underground
+240411_17A	SDb1 Parking lot	b1	Parking lot	Indoor	no	metal	19	61.5	No		DNA	240411_17A	240411	2404	SD	240411_17A-SDb1 Parking lot	17A	2404-17A	04-17A	Spring	Spring	Underground
+240411_18A	SDb1	b1	Corridor	Indoor	no	metal	18.7	61.6	No		DNA	240411_18A	240411	2404	SD	240411_18A-SDb1	18A	2404-18A	04-18A	Spring	Spring	Underground
+240411_19A	SB273	2	Common room	Indoor	no	metal	21.4	61.6	No	Opened window	DNA	240411_19A	240411	2404	SB	240411_19A-SB273	19A	2404-19A	04-19A	Spring	Spring	Aboveground
+240411_1A	SAb1 (By the elevator)	b1	Corridor	Indoor	no	plastic	21.2	54.39	No		DNA	240411_1A	240411	2404	SA	240411_1A-SAb1 (By the elevator)	1A	2404-1A	04-1A	Spring	Spring	Underground
+240411_20A	SC169	2	Classroom	Indoor	no	metal	21.2	61.2	No		DNA	240411_20A	240411	2404	SC	240411_20A-SC169	20A	2404-20A	04-20A	Spring	Spring	Aboveground
+240411_21A	SA Elevator	Elevator	Elevator	Indoor	no	metal	22.1	60.6	No		DNA	240411_21A	240411	2404	SA	240411_21A-SA Elevator	21A	2404-21A	04-21A	Spring	Spring	Elevator
+240411_22A	SA421	4	Office	Indoor	no	metal	21.3	62	No		DNA	240411_22A	240411	2404	SA	240411_22A-SA421	22A	2404-22A	04-22A	Spring	Spring	Aboveground
+240411_3A	SAb1	b1	Outdoor	Outdoor	no	plastic	21.1	55.2	No		DNA	240411_3A	240411	2404	SA	240411_3A-SAb1	3A	2404-3A	04-3A	Spring	Spring	Outdoor
+240411_4A	SAb1 SA007	b1	Office	Indoor	no	plastic	21.2	55.8	No		DNA	240411_4A	240411	2404	SA	240411_4A-SAb1 SA007	4A	2404-4A	04-4A	Spring	Spring	Underground
+240411_5A	SBb1 SB022 (in front of toilet door)	b1	Corridor	Indoor	no	plastic	21	56.1	No		DNA	240411_5A	240411	2404	SB	240411_5A-SBb1 SB022 (in front of toilet door)	5A	2404-5A	04-5A	Spring	Spring	Underground
+240411_7A	SBb1 SB022	b1	Toilet (Female)	Indoor	yes	plastic	21.1	56.5	No		DNA	240411_7A	240411	2404	SB	240411_7A-SBb1 SB022	7A	2404-7A	04-7A	Spring	Spring	Underground
+240411_8A	SBb1 SB034 right side	b1	Corridor	Indoor	no	metal	20.9	56.8	No		DNA	240411_8A	240411	2404	SB	240411_8A-SBb1 SB034 right side	8A	2404-8A	04-8A	Spring	Spring	Underground
+240411_9A	SBb1 SB038 left side	b1	Corridor	Indoor	no	plastic	20.6	57	No		DNA	240411_9A	240411	2404	SB	240411_9A-SBb1 SB038 left side	9A	2404-9A	04-9A	Spring	Spring	Underground
+240424_10B	SCb1 Parking lot	b1	Parking lot	Indoor	no	metal	21.2	40.5	No		DNA	240424_10B	240424	2404	SC	240424_10B-SCb1 Parking lot	10B	2404-10B	04-10B	Spring	Spring	Underground
+240424_11B	SCb1 Parking lot	b1	Parking lot	Indoor	no	metal	21.1	40.5	No		DNA	240424_11B	240424	2404	SC	240424_11B-SCb1 Parking lot	11B	2404-11B	04-11B	Spring	Spring	Underground
+240424_12B	SCb1 Parking lot	b1	Parking lot	Indoor	no	metal	20.8	40.7	No		DNA	240424_12B	240424	2404	SC	240424_12B-SCb1 Parking lot	12B	2404-12B	04-12B	Spring	Spring	Underground
+240424_13B	SCb1 Parking lot	b1	Parking lot	Indoor	no	metal	20.8	41	No		DNA	240424_13B	240424	2404	SD	240424_13B-SCb1 Parking lot	13B	2404-13B	04-13B	Spring	Spring	Underground
+240424_14B	SCb1 Parking lot	b1	Parking lot	Indoor	no	metal	20.4	41.7	No		DNA	240424_14B	240424	2404	SD	240424_14B-SCb1 Parking lot	14B	2404-14B	04-14B	Spring	Spring	Underground
+240424_15B	SCb1 Parking lot	b1	Parking lot	Indoor	no	metal	20.4	42.1	No		DNA	240424_15B	240424	2404	SD	240424_15B-SCb1 Parking lot	15B	2404-15B	04-15B	Spring	Spring	Underground
+240424_16B	SD Elevator	Elevator	Elevator	Indoor	no	metal	20.8	43.8	No		DNA	240424_16B	240424	2404	SD	240424_16B-SD Elevator	16B	2404-16B	04-16B	Spring	Spring	Elevator
+240424_17B	SD254	2	Classroom	Indoor	no	metal	21	42.7	No		DNA	240424_17B	240424	2404	SD	240424_17B-SD254	17B	2404-17B	04-17B	Spring	Spring	Aboveground
+240424_18B	SD234	2	Corridor	Indoor	no	plastic	22.6	42.3	No	Very black	DNA	240424_18B	240424	2404	SD	240424_18B-SD234	18B	2404-18B	04-18B	Spring	Spring	Aboveground
+240424_19B	SC221	2	Common room	Indoor	no	metal	20.3	40	No		DNA	240424_19B	240424	2404	SC	240424_19B-SC221	19B	2404-19B	04-19B	Spring	Spring	Aboveground
+240424_1B	SAb1 SA084 left side	b1	Corridor	Indoor	no	metal	21.8	33.5	No		DNA	240424_1B	240424	2404	SA	240424_1B-SAb1 SA084 left side	1B	2404-1B	04-1B	Spring	Spring	Underground
+240424_20B	SB123	2	Classroom	Indoor	no	metal	25.5	35.1	No		DNA	240424_20B	240424	2404	SB	240424_20B-SB123	20B	2404-20B	04-20B	Spring	Spring	Aboveground
+240424_21B	SA521	5	Common room	Indoor	no	metal	24.7	37.4	No		DNA	240424_21B	240424	2404	SA	240424_21B-SA521	21B	2404-21B	04-21B	Spring	Spring	Aboveground
+240424_22B	SA434	4	Laboratory	Indoor	no	metal	26	27.7	No		DNA	240424_22B	240424	2404	SA	240424_22B-SA434	22B	2404-22B	04-22B	Spring	Spring	Aboveground
+240424_2B	SAb1 SA074	b1	Toilet (Male)	Indoor	no	metal	21.7	34.4	No		DNA	240424_2B	240424	2404	SA	240424_2B-SAb1 SA074	2B	2404-2B	04-2B	Spring	Spring	Underground
+240424_3B	SAb1 SA080	b1	Toilet (Female)	Indoor	no	metal	21.4	35	No		DNA	240424_3B	240424	2404	SA	240424_3B-SAb1 SA080	3B	2404-3B	04-3B	Spring	Spring	Underground
+240424_4B	SAb1 Canteen	b1	Canteen	Indoor	no	metal	23.1	42.1	No		DNA	240424_4B	240424	2404	SA	240424_4B-SAb1 Canteen	4B	2404-4B	04-4B	Spring	Spring	Underground
+240424_5B	SAb1 SA089 (front)	b1	Corridor	Indoor	no	metal	21.7	41	No		DNA	240424_5B	240424	2404	SA	240424_5B-SAb1 SA089 (front)	5B	2404-5B	04-5B	Spring	Spring	Underground
+240424_6B	SAb1	b1	Corridor	Indoor	no	metal	21.6	40.8	No		DNA	240424_6B	240424	2404	SA	240424_6B-SAb1	6B	2404-6B	04-6B	Spring	Spring	Underground
+240424_7B	SBb1 (in front of elevator)	b1	Corridor	Indoor	no	metal	21.4	40.6	No		DNA	240424_7B	240424	2404	SB	240424_7B-SBb1 (in front of elevator)	7B	2404-7B	04-7B	Spring	Spring	Underground
+240424_8B	SBb1	b1	Outdoor	Outdoor	no	metal	21.8	40.7	No		DNA	240424_8B	240424	2404	SB	240424_8B-SBb1	8B	2404-8B	04-8B	Spring	Spring	Outdoor
+240424_9B	SB Elevator	Elevator	Elevator	Indoor	no	metal	21.9	41.6	No		DNA	240424_9B	240424	2404	SB	240424_9B-SB Elevator	9B	2404-9B	04-9B	Spring	Spring	Elevator
+240508_10A	SBb1 SB024 left side	b1	Corridor	Indoor	no	metal	23.7	39.5	No		DNA	240508_10A	240508	2405	SB	240508_10A-SBb1 SB024 left side	10A	2405-10A	05-10A	Spring	Spring	Underground
+240508_11A	SCb1 Parking lot	b1	Parking lot	Indoor	no	metal	22.8	39.9	No		DNA	240508_11A	240508	2405	SC	240508_11A-SCb1 Parking lot	11A	2405-11A	05-11A	Spring	Spring	Underground
+240508_12A	SCb1 Parking lot	b1	Parking lot	Indoor	no	metal	22.2	40.5	No		DNA	240508_12A	240508	2405	SC	240508_12A-SCb1 Parking lot	12A	2405-12A	05-12A	Spring	Spring	Underground
+240508_13A	SCb1 Parking lot	b1	Parking lot	Indoor	no	metal	21.7	41.2	No		DNA	240508_13A	240508	2405	SC	240508_13A-SCb1 Parking lot	13A	2405-13A	05-13A	Spring	Spring	Underground
+240508_14A	SC Elevator	Elevator	Elevator	Indoor	no	metal	23.4	42.1	No		DNA	240508_14A	240508	2405	SC	240508_14A-SC Elevator	14A	2405-14A	05-14A	Spring	Spring	Elevator
+240508_15A	SDb1 Parking lot	b1	Parking lot	Indoor	no	metal	22.6	41.9	No		DNA	240508_15A	240508	2405	SD	240508_15A-SDb1 Parking lot	15A	2405-15A	05-15A	Spring	Spring	Underground
+240508_16A	SDb1 Parking lot	b1	Parking lot	Indoor	no	metal	21.7	42.4	No		DNA	240508_16A	240508	2405	SD	240508_16A-SDb1 Parking lot	16A	2405-16A	05-16A	Spring	Spring	Underground
+240508_17A	SDb1 Parking lot	b1	Parking lot	Indoor	no	metal	21.4	41.7	No		DNA	240508_17A	240508	2405	SD	240508_17A-SDb1 Parking lot	17A	2405-17A	05-17A	Spring	Spring	Underground
+240508_18A	SDb1	b1	Corridor	Indoor	no	metal	21.1	43.6	No		DNA	240508_18A	240508	2405	SD	240508_18A-SDb1	18A	2405-18A	05-18A	Spring	Spring	Underground
+240508_19A	SB273	2	Common room	Indoor	no	metal	23.8	45.1	No	Opened window	DNA	240508_19A	240508	2405	SB	240508_19A-SB273	19A	2405-19A	05-19A	Spring	Spring	Aboveground
+240508_1A	SAb1 (By the elevator)	b1	Corridor	Indoor	no	plastic	23.6	39.1	No		DNA	240508_1A	240508	2405	SA	240508_1A-SAb1 (By the elevator)	1A	2405-1A	05-1A	Spring	Spring	Underground
+240508_20A	SC169	2	Classroom	Indoor	no	metal	22.8	44.7	No		DNA	240508_20A	240508	2405	SC	240508_20A-SC169	20A	2405-20A	05-20A	Spring	Spring	Aboveground
+240508_21A	SA Elevator	Elevator	Elevator	Indoor	no	metal	24.6	45.3	No		DNA	240508_21A	240508	2405	SA	240508_21A-SA Elevator	21A	2405-21A	05-21A	Spring	Spring	Elevator
+240508_22A	SA421	4	Office	Indoor	no	metal	27.4	44.1	No		DNA	240508_22A	240508	2405	SA	240508_22A-SA421	22A	2405-22A	05-22A	Spring	Spring	Aboveground
+240508_3A	SAb1	b1	Outdoor	Outdoor	no	plastic	24	39	No		DNA	240508_3A	240508	2405	SA	240508_3A-SAb1	3A	2405-3A	05-3A	Spring	Spring	Outdoor
+240508_4A	SAb1 SA007	b1	Office	Indoor	no	plastic	23.8	38.6	No		DNA	240508_4A	240508	2405	SA	240508_4A-SAb1 SA007	4A	2405-4A	05-4A	Spring	Spring	Underground
+240508_5A	SBb1 SB022 (in front of toilet door)	b1	Corridor	Indoor	no	plastic	24.7	39.3	No		DNA	240508_5A	240508	2405	SB	240508_5A-SBb1 SB022 (in front of toilet door)	5A	2405-5A	05-5A	Spring	Spring	Underground
+240508_6A	SBb1 SB026	b1	Toilet (Male)	Indoor	yes	plastic	24.9	39.1	No		DNA	240508_6A	240508	2405	SB	240508_6A-SBb1 SB026	6A	2405-6A	05-6A	Spring	Spring	Underground
+240508_7A	SBb1 SB022	b1	Toilet (Female)	Indoor	yes	plastic	24.3	39.3	No		DNA	240508_7A	240508	2405	SB	240508_7A-SBb1 SB022	7A	2405-7A	05-7A	Spring	Spring	Underground
+240508_8A	SBb1 SB034 right side	b1	Corridor	Indoor	no	metal	24.8	39.1	No		DNA	240508_8A	240508	2405	SB	240508_8A-SBb1 SB034 right side	8A	2405-8A	05-8A	Spring	Spring	Underground
+240508_9A	SBb1 SB038 left side	b1	Corridor	Indoor	no	plastic	24.7	39.1	No		DNA	240508_9A	240508	2405	SB	240508_9A-SBb1 SB038 left side	9A	2405-9A	05-9A	Spring	Spring	Underground
+240523_10B	SCb1 Parking lot	b1	Parking lot	Indoor	no	metal	24.1	62.9	No		DNA	240523_10B	240523	2405	SC	240523_10B-SCb1 Parking lot	10B	2405-10B	05-10B	Spring	Spring	Underground
+240523_11B	SCb1 Parking lot	b1	Parking lot	Indoor	no	metal	23.9	63.1	No		DNA	240523_11B	240523	2405	SC	240523_11B-SCb1 Parking lot	11B	2405-11B	05-11B	Spring	Spring	Underground
+240523_12B	SCb1 Parking lot	b1	Parking lot	Indoor	no	metal	23.6	63.6	No		DNA	240523_12B	240523	2405	SC	240523_12B-SCb1 Parking lot	12B	2405-12B	05-12B	Spring	Spring	Underground
+240523_14B	SCb1 Parking lot	b1	Parking lot	Indoor	no	metal	23.8	64.6	No		DNA	240523_14B	240523	2405	SD	240523_14B-SCb1 Parking lot	14B	2405-14B	05-14B	Spring	Spring	Underground
+240523_15B	SCb1 Parking lot	b1	Parking lot	Indoor	no	metal	23.8	65.1	No		DNA	240523_15B	240523	2405	SD	240523_15B-SCb1 Parking lot	15B	2405-15B	05-15B	Spring	Spring	Underground
+240523_16B	SD Elevator	Elevator	Elevator	Indoor	no	metal	24.2	65.1	No		DNA	240523_16B	240523	2405	SD	240523_16B-SD Elevator	16B	2405-16B	05-16B	Spring	Spring	Elevator
+240523_17B	SD254	2	Classroom	Indoor	yes	metal	24.9	64	No		DNA	240523_17B	240523	2405	SD	240523_17B-SD254	17B	2405-17B	05-17B	Spring	Spring	Aboveground
+240523_18B	SD234	2	Corridor	Indoor	no	plastic	25.6	63.7	No	Very black	DNA	240523_18B	240523	2405	SD	240523_18B-SD234	18B	2405-18B	05-18B	Spring	Spring	Aboveground
+240523_19B	SC221	2	Common room	Indoor	no	metal	25.7	65.9	No		DNA	240523_19B	240523	2405	SC	240523_19B-SC221	19B	2405-19B	05-19B	Spring	Spring	Aboveground
+240523_1B	SAb1 SA084 left side	b1	Corridor	Indoor	no	metal	23.8	61.9	No		DNA	240523_1B	240523	2405	SA	240523_1B-SAb1 SA084 left side	1B	2405-1B	05-1B	Spring	Spring	Underground
+240523_20B	SB123	2	Classroom	Indoor	no	metal	25.3	59.5	No		DNA	240523_20B	240523	2405	SB	240523_20B-SB123	20B	2405-20B	05-20B	Spring	Spring	Aboveground
+240523_21B	SA521	5	Common room	Indoor	no	metal	25.9	61.1	No		DNA	240523_21B	240523	2405	SA	240523_21B-SA521	21B	2405-21B	05-21B	Spring	Spring	Aboveground
+240523_22B	SA434	4	Laboratory	Indoor	yes	metal	24	59.6	No		DNA	240523_22B	240523	2405	SA	240523_22B-SA434	22B	2405-22B	05-22B	Spring	Spring	Aboveground
+240523_2B	SAb1 SA074	b1	Toilet (Male)	Indoor	no	metal	24	63.5	No		DNA	240523_2B	240523	2405	SA	240523_2B-SAb1 SA074	2B	2405-2B	05-2B	Spring	Spring	Underground
+240523_3B	SAb1 SA080	b1	Toilet (Female)	Indoor	no	metal	23.9	64.1	No		DNA	240523_3B	240523	2405	SA	240523_3B-SAb1 SA080	3B	2405-3B	05-3B	Spring	Spring	Underground
+240523_4B	SAb1 Canteen	b1	Canteen	Indoor	no	metal	24	64.3	No		DNA	240523_4B	240523	2405	SA	240523_4B-SAb1 Canteen	4B	2405-4B	05-4B	Spring	Spring	Underground
+240523_5B	SAb1 SA089 (front)	b1	Corridor	Indoor	no	metal	23.4	63.9	No		DNA	240523_5B	240523	2405	SA	240523_5B-SAb1 SA089 (front)	5B	2405-5B	05-5B	Spring	Spring	Underground
+240523_6B	SAb1	b1	Corridor	Indoor	no	metal	24.1	63.1	No		DNA	240523_6B	240523	2405	SA	240523_6B-SAb1	6B	2405-6B	05-6B	Spring	Spring	Underground
+240523_8B	SBb1	b1	Outdoor	Outdoor	no	metal	29.3	63.5	No		DNA	240523_8B	240523	2405	SB	240523_8B-SBb1	8B	2405-8B	05-8B	Spring	Spring	Outdoor
+240523_9B	SB Elevator	Elevator	Elevator	Indoor	no	metal	25.2	62.5	No		DNA	240523_9B	240523	2405	SB	240523_9B-SB Elevator	9B	2405-9B	05-9B	Spring	Spring	Elevator
+240608_10A	SBb1 SB024 left side	b1	Corridor	Indoor	no	metal	24	66.3	No		DNA	240608_10A	240608	2406	SB	240608_10A-SBb1 SB024 left side	10A	2406-10A	06-10A	Summer	Summer	Underground
+240608_11A	SCb1 Parking lot	b1	Parking lot	Indoor	no	metal	23.9	66.2	No		DNA	240608_11A	240608	2406	SC	240608_11A-SCb1 Parking lot	11A	2406-11A	06-11A	Summer	Summer	Underground
+240608_12A	SCb1 Parking lot	b1	Parking lot	Indoor	no	metal	23.8	66.1	No		DNA	240608_12A	240608	2406	SC	240608_12A-SCb1 Parking lot	12A	2406-12A	06-12A	Summer	Summer	Underground
+240608_13A	SCb1 Parking lot	b1	Parking lot	Indoor	no	metal	23.5	66.4	No		DNA	240608_13A	240608	2406	SC	240608_13A-SCb1 Parking lot	13A	2406-13A	06-13A	Summer	Summer	Underground
+240608_14A	SC Elevator	Elevator	Elevator	Indoor	no	metal	24.3	65.6	No		DNA	240608_14A	240608	2406	SC	240608_14A-SC Elevator	14A	2406-14A	06-14A	Summer	Summer	Elevator
+240608_15A	SDb1 Parking lot	b1	Parking lot	Indoor	no	metal	23.7	65.8	No		DNA	240608_15A	240608	2406	SD	240608_15A-SDb1 Parking lot	15A	2406-15A	06-15A	Summer	Summer	Underground
+240608_16A	SDb1 Parking lot	b1	Parking lot	Indoor	no	metal	23.7	66.1	No		DNA	240608_16A	240608	2406	SD	240608_16A-SDb1 Parking lot	16A	2406-16A	06-16A	Summer	Summer	Underground
+240608_17A	SDb1 Parking lot	b1	Parking lot	Indoor	no	metal	23.2	66.4	No		DNA	240608_17A	240608	2406	SD	240608_17A-SDb1 Parking lot	17A	2406-17A	06-17A	Summer	Summer	Underground
+240608_18A	SDb1	b1	Corridor	Indoor	no	metal	23.7	66.1	No		DNA	240608_18A	240608	2406	SD	240608_18A-SDb1	18A	2406-18A	06-18A	Summer	Summer	Underground
+240608_19A	SB273	2	Common room	Indoor	no	metal	24.6	64.9	No	Opened window	DNA	240608_19A	240608	2406	SB	240608_19A-SB273	19A	2406-19A	06-19A	Summer	Summer	Aboveground
+240608_1A	SAb1 (By the elevator)	b1	Corridor	Indoor	no	plastic	23.4	68.8	No		DNA	240608_1A	240608	2406	SA	240608_1A-SAb1 (By the elevator)	1A	2406-1A	06-1A	Summer	Summer	Underground
+240608_20A	SC169	2	Classroom	Indoor	no	metal	24.5	63.8	No		DNA	240608_20A	240608	2406	SC	240608_20A-SC169	20A	2406-20A	06-20A	Summer	Summer	Aboveground
+240608_21A	SA Elevator	Elevator	Elevator	Indoor	no	metal	25.3	64	No		DNA	240608_21A	240608	2406	SA	240608_21A-SA Elevator	21A	2406-21A	06-21A	Summer	Summer	Elevator
+240608_22A	SA421	4	Office	Indoor	no	metal	25.1	60.7	No		DNA	240608_22A	240608	2406	SA	240608_22A-SA421	22A	2406-22A	06-22A	Summer	Summer	Aboveground
+240608_3A	SAb1	b1	Outdoor	Outdoor	no	plastic	23.8	68.5	No		DNA	240608_3A	240608	2406	SA	240608_3A-SAb1	3A	2406-3A	06-3A	Summer	Summer	Outdoor
+240608_4A	SAb1 SA007	b1	Office	Indoor	no	plastic	23.5	66.3	No		DNA	240608_4A	240608	2406	SA	240608_4A-SAb1 SA007	4A	2406-4A	06-4A	Summer	Summer	Underground
+240608_5A	SBb1 SB022 (in front of toilet door)	b1	Corridor	Indoor	no	plastic	23.5	67.2	No		DNA	240608_5A	240608	2406	SB	240608_5A-SBb1 SB022 (in front of toilet door)	5A	2406-5A	06-5A	Summer	Summer	Underground
+240608_6A	SBb1 SB026	b1	Toilet (Male)	Indoor	yes	plastic	23.7	67.3	No		DNA	240608_6A	240608	2406	SB	240608_6A-SBb1 SB026	6A	2406-6A	06-6A	Summer	Summer	Underground
+240608_7A	SBb1 SB022	b1	Toilet (Female)	Indoor	yes	plastic	23.9	66.9	No		DNA	240608_7A	240608	2406	SB	240608_7A-SBb1 SB022	7A	2406-7A	06-7A	Summer	Summer	Underground
+240608_8A	SBb1 SB034 right side	b1	Corridor	Indoor	no	metal	23.9	66.8	No		DNA	240608_8A	240608	2406	SB	240608_8A-SBb1 SB034 right side	8A	2406-8A	06-8A	Summer	Summer	Underground
+240608_9A	SBb1 SB038 left side	b1	Corridor	Indoor	yes	plastic	24	66.5	No		DNA	240608_9A	240608	2406	SB	240608_9A-SBb1 SB038 left side	9A	2406-9A	06-9A	Summer	Summer	Underground
+240621_10B	SCb1 Parking lot	b1	Parking lot	Indoor	no	metal	25.3	75.1	Yes		DNA	240621_10B	240621	2406	SC	240621_10B-SCb1 Parking lot	10B	2406-10B	06-10B	Summer	Summer	Underground
+240621_11B	SCb1 Parking lot	b1	Parking lot	Indoor	no	metal	25.1	76.8	Yes		DNA	240621_11B	240621	2406	SC	240621_11B-SCb1 Parking lot	11B	2406-11B	06-11B	Summer	Summer	Underground
+240621_12B	SCb1 Parking lot	b1	Parking lot	Indoor	no	metal	25.2	78.7	Yes		DNA	240621_12B	240621	2406	SC	240621_12B-SCb1 Parking lot	12B	2406-12B	06-12B	Summer	Summer	Underground
+240621_13B	SCb1 Parking lot	b1	Parking lot	Indoor	no	metal	25	80.7	Yes		DNA	240621_13B	240621	2406	SD	240621_13B-SCb1 Parking lot	13B	2406-13B	06-13B	Summer	Summer	Underground
+240621_14B	SCb1 Parking lot	b1	Parking lot	Indoor	no	metal	24.9	82.1	Yes		DNA	240621_14B	240621	2406	SD	240621_14B-SCb1 Parking lot	14B	2406-14B	06-14B	Summer	Summer	Underground
+240621_15B	SCb1 Parking lot	b1	Parking lot	Indoor	no	metal	24.8	83.5	Yes		DNA	240621_15B	240621	2406	SD	240621_15B-SCb1 Parking lot	15B	2406-15B	06-15B	Summer	Summer	Underground
+240621_16B	SD Elevator	Elevator	Elevator	Indoor	no	metal	25	83.1	No		DNA	240621_16B	240621	2406	SD	240621_16B-SD Elevator	16B	2406-16B	06-16B	Summer	Summer	Elevator
+240621_17B	SD254	2	Classroom	Indoor	yes	metal	25	79.8	No		DNA	240621_17B	240621	2406	SD	240621_17B-SD254	17B	2406-17B	06-17B	Summer	Summer	Aboveground
+240621_18B	SD234	2	Corridor	Indoor	yes	plastic	25.3	78.5	No	Very black	DNA	240621_18B	240621	2406	SD	240621_18B-SD234	18B	2406-18B	06-18B	Summer	Summer	Aboveground
+240621_19B	SC221	2	Common room	Indoor	no	metal	25.5	76	No		DNA	240621_19B	240621	2406	SC	240621_19B-SC221	19B	2406-19B	06-19B	Summer	Summer	Aboveground
+240621_1B	SAb1 SA084 left side	b1	Corridor	Indoor	no	metal	25	71.4	Yes		DNA	240621_1B	240621	2406	SA	240621_1B-SAb1 SA084 left side	1B	2406-1B	06-1B	Summer	Summer	Underground
+240621_20B	SB123	2	Classroom	Indoor	no	metal	23.8	67.3	No		DNA	240621_20B	240621	2406	SB	240621_20B-SB123	20B	2406-20B	06-20B	Summer	Summer	Aboveground
+240621_21B	SA521	5	Common room	Indoor	no	metal	25.5	72.1	No		DNA	240621_21B	240621	2406	SA	240621_21B-SA521	21B	2406-21B	06-21B	Summer	Summer	Aboveground
+240621_22B	SA434	4	Laboratory	Indoor	yes	metal	25.2	70.6	No		DNA	240621_22B	240621	2406	SA	240621_22B-SA434	22B	2406-22B	06-22B	Summer	Summer	Aboveground
+240621_2B	SAb1 SA074	b1	Toilet (Male)	Indoor	no	metal	25.2	72.4	Yes		DNA	240621_2B	240621	2406	SA	240621_2B-SAb1 SA074	2B	2406-2B	06-2B	Summer	Summer	Underground
+240621_3B	SAb1 SA080	b1	Toilet (Female)	Indoor	no	metal	25.3	73.7	Yes		DNA	240621_3B	240621	2406	SA	240621_3B-SAb1 SA080	3B	2406-3B	06-3B	Summer	Summer	Underground
+240621_4B	SAb1 Canteen	b1	Canteen	Indoor	no	metal	25	73.7	Yes		DNA	240621_4B	240621	2406	SA	240621_4B-SAb1 Canteen	4B	2406-4B	06-4B	Summer	Summer	Underground
+240621_5B	SAb1 SA089 (front)	b1	Corridor	Indoor	no	metal	25.2	73.9	Yes		DNA	240621_5B	240621	2406	SA	240621_5B-SAb1 SA089 (front)	5B	2406-5B	06-5B	Summer	Summer	Underground
+240621_6B	SAb1	b1	Corridor	Indoor	no	metal	25.4	73.8	Yes		DNA	240621_6B	240621	2406	SA	240621_6B-SAb1	6B	2406-6B	06-6B	Summer	Summer	Underground
+240621_7B	SBb1 (in front of elevator)	b1	Corridor	Indoor	no	metal	24.5	73.4	Yes		DNA	240621_7B	240621	2406	SB	240621_7B-SBb1 (in front of elevator)	7B	2406-7B	06-7B	Summer	Summer	Underground
+240621_8B	SBb1	b1	Outdoor	Outdoor	no	metal	25.4	74.5	Yes		DNA	240621_8B	240621	2406	SB	240621_8B-SBb1	8B	2406-8B	06-8B	Summer	Summer	Outdoor
+240621_9B	SB Elevator	Elevator	Elevator	Indoor	no	metal	25.6	72.7	No		DNA	240621_9B	240621	2406	SB	240621_9B-SB Elevator	9B	2406-9B	06-9B	Summer	Summer	Elevator
+240704_10B	SCb1 Parking lot	b1	Parking lot	Indoor	no	metal	27.1	71.7	Yes		DNA	240704_10B	240704	2407	SC	240704_10B-SCb1 Parking lot	10B	2407-10B	07-10B	Summer	Summer	Underground
+240704_11B	SCb1 Parking lot	b1	Parking lot	Indoor	no	metal	26.5	71.6	Yes		DNA	240704_11B	240704	2407	SC	240704_11B-SCb1 Parking lot	11B	2407-11B	07-11B	Summer	Summer	Underground
+240704_12B	SCb1 Parking lot	b1	Parking lot	Indoor	no	metal	26.5	75.2	Yes		DNA	240704_12B	240704	2407	SC	240704_12B-SCb1 Parking lot	12B	2407-12B	07-12B	Summer	Summer	Underground
+240704_13B	SCb1 Parking lot	b1	Parking lot	Indoor	no	metal	25.8	75.1	Yes		DNA	240704_13B	240704	2407	SD	240704_13B-SCb1 Parking lot	13B	2407-13B	07-13B	Summer	Summer	Underground
+240704_14B	SCb1 Parking lot	b1	Parking lot	Indoor	no	metal	27	77	Yes		DNA	240704_14B	240704	2407	SD	240704_14B-SCb1 Parking lot	14B	2407-14B	07-14B	Summer	Summer	Underground
+240704_15B	SCb1 Parking lot	b1	Parking lot	Indoor	no	metal	27.1	78.5	Yes		DNA	240704_15B	240704	2407	SD	240704_15B-SCb1 Parking lot	15B	2407-15B	07-15B	Summer	Summer	Underground
+240704_16B	SD Elevator	Elevator	Elevator	Indoor	no	metal	27.1	78.9	No		DNA	240704_16B	240704	2407	SD	240704_16B-SD Elevator	16B	2407-16B	07-16B	Summer	Summer	Elevator
+240704_17B	SD254	2	Classroom	Indoor	yes	metal	26.6	74.8	No		DNA	240704_17B	240704	2407	SD	240704_17B-SD254	17B	2407-17B	07-17B	Summer	Summer	Aboveground
+240704_18B	SD234	2	Corridor	Indoor	yes	plastic	27.2	74.3	No	Very black	DNA	240704_18B	240704	2407	SD	240704_18B-SD234	18B	2407-18B	07-18B	Summer	Summer	Aboveground
+240704_19B	SC221	2	Common room	Indoor	no	metal	27	73	No		DNA	240704_19B	240704	2407	SC	240704_19B-SC221	19B	2407-19B	07-19B	Summer	Summer	Aboveground
+240704_1B	SAb1 SA084 left side	b1	Corridor	Indoor	no	metal	25.8	73.4	Yes		DNA	240704_1B	240704	2407	SA	240704_1B-SAb1 SA084 left side	1B	2407-1B	07-1B	Summer	Summer	Underground
+240704_21B	SA521	5	Common room	Indoor	yes	metal	26.2	66.7	No		DNA	240704_21B	240704	2407	SA	240704_21B-SA521	21B	2407-21B	07-21B	Summer	Summer	Aboveground
+240704_22B	SA434	4	Laboratory	Indoor	no	metal	25.4	64.7	No		DNA	240704_22B	240704	2407	SA	240704_22B-SA434	22B	2407-22B	07-22B	Summer	Summer	Aboveground
+240704_2B	SAb1 SA074	b1	Toilet (Male)	Indoor	no	metal	26.1	75	Yes		DNA	240704_2B	240704	2407	SA	240704_2B-SAb1 SA074	2B	2407-2B	07-2B	Summer	Summer	Underground
+240704_3B	SAb1 SA080	b1	Toilet (Female)	Indoor	no	metal	26.3	75.2	Yes		DNA	240704_3B	240704	2407	SA	240704_3B-SAb1 SA080	3B	2407-3B	07-3B	Summer	Summer	Underground
+240704_4B	SAb1 Canteen	b1	Canteen	Indoor	no	metal	25.9	73.4	Yes		DNA	240704_4B	240704	2407	SA	240704_4B-SAb1 Canteen	4B	2407-4B	07-4B	Summer	Summer	Underground
+240704_5B	SAb1 SA089 (front)	b1	Corridor	Indoor	no	metal	26.1	73.8	Yes		DNA	240704_5B	240704	2407	SA	240704_5B-SAb1 SA089 (front)	5B	2407-5B	07-5B	Summer	Summer	Underground
+240704_6B	SAb1	b1	Corridor	Indoor	no	metal	26.2	72.8	Yes		DNA	240704_6B	240704	2407	SA	240704_6B-SAb1	6B	2407-6B	07-6B	Summer	Summer	Underground
+240704_7B	SBb1 (in front of elevator)	b1	Corridor	Indoor	no	metal	26.4	72.3	Yes		DNA	240704_7B	240704	2407	SB	240704_7B-SBb1 (in front of elevator)	7B	2407-7B	07-7B	Summer	Summer	Underground
+240704_8B	SBb1	b1	Outdoor	Outdoor	no	metal	27.5	72.8	Yes		DNA	240704_8B	240704	2407	SB	240704_8B-SBb1	8B	2407-8B	07-8B	Summer	Summer	Outdoor
+240704_9B	SB Elevator	Elevator	Elevator	Indoor	no	metal	27.7	71.4	No		DNA	240704_9B	240704	2407	SB	240704_9B-SB Elevator	9B	2407-9B	07-9B	Summer	Summer	Elevator
+240718_10A	SBb1 SB024 left side	b1	Corridor	Indoor	no	metal	27	64.7	No		DNA	240718_10A	240718	2407	SB	240718_10A-SBb1 SB024 left side	10A	2407-10A	07-10A	Summer	Summer	Underground
+240718_11A	SCb1 Parking lot	b1	Parking lot	Indoor	no	metal	26.8	65.4	No		DNA	240718_11A	240718	2407	SC	240718_11A-SCb1 Parking lot	11A	2407-11A	07-11A	Summer	Summer	Underground
+240718_12A	SCb1 Parking lot	b1	Parking lot	Indoor	no	metal	26.7	68.1	No		DNA	240718_12A	240718	2407	SC	240718_12A-SCb1 Parking lot	12A	2407-12A	07-12A	Summer	Summer	Underground
+240718_13A	SCb1 Parking lot	b1	Parking lot	Indoor	no	metal	26.9	70.2	No		DNA	240718_13A	240718	2407	SC	240718_13A-SCb1 Parking lot	13A	2407-13A	07-13A	Summer	Summer	Underground
+240718_14A	SC Elevator	Elevator	Elevator	Indoor	no	metal	27.3	70.3	No		DNA	240718_14A	240718	2407	SC	240718_14A-SC Elevator	14A	2407-14A	07-14A	Summer	Summer	Elevator
+240718_15A	SDb1 Parking lot	b1	Parking lot	Indoor	no	metal	28	71.9	No		DNA	240718_15A	240718	2407	SD	240718_15A-SDb1 Parking lot	15A	2407-15A	07-15A	Summer	Summer	Underground
+240718_16A	SDb1 Parking lot	b1	Parking lot	Indoor	no	metal	28.3	72.7	No		DNA	240718_16A	240718	2407	SD	240718_16A-SDb1 Parking lot	16A	2407-16A	07-16A	Summer	Summer	Underground
+240718_17A	SDb1 Parking lot	b1	Parking lot	Indoor	no	metal	28.3	73.2	No		DNA	240718_17A	240718	2407	SD	240718_17A-SDb1 Parking lot	17A	2407-17A	07-17A	Summer	Summer	Underground
+240718_18A	SDb1	b1	Corridor	Indoor	no	metal	27.6	73.6	No	Renovation	DNA	240718_18A	240718	2407	SD	240718_18A-SDb1	18A	2407-18A	07-18A	Summer	Summer	Underground
+240718_19A	SB273	2	Common room	Indoor	yes	metal	27.4	69.2	No	Opened window	DNA	240718_19A	240718	2407	SB	240718_19A-SB273	19A	2407-19A	07-19A	Summer	Summer	Aboveground
+240718_1A	SAb1 (By the elevator)	b1	Corridor	Indoor	no	plastic	25	65.4	No		DNA	240718_1A	240718	2407	SA	240718_1A-SAb1 (By the elevator)	1A	2407-1A	07-1A	Summer	Summer	Underground
+240718_21A	SA Elevator	Elevator	Elevator	Indoor	no	metal	28.1	66.4	No		DNA	240718_21A	240718	2407	SA	240718_21A-SA Elevator	21A	2407-21A	07-21A	Summer	Summer	Elevator
+240718_22A	SA421	4	Office	Indoor	no	metal	27.9	64	No	Renovation	DNA	240718_22A	240718	2407	SA	240718_22A-SA421	22A	2407-22A	07-22A	Summer	Summer	Aboveground
+240718_3A	SAb1	b1	Outdoor	Outdoor	no	plastic	26.2	64.5	No		DNA	240718_3A	240718	2407	SA	240718_3A-SAb1	3A	2407-3A	07-3A	Summer	Summer	Outdoor
+240718_4A	SAb1 SA007	b1	Office	Indoor	no	plastic	26.3	63.2	No		DNA	240718_4A	240718	2407	SA	240718_4A-SAb1 SA007	4A	2407-4A	07-4A	Summer	Summer	Underground
+240718_6A	SBb1 SB026	b1	Toilet (Male)	Indoor	yes	plastic	27	63.4	No		DNA	240718_6A	240718	2407	SB	240718_6A-SBb1 SB026	6A	2407-6A	07-6A	Summer	Summer	Underground
+240718_7A	SBb1 SB022	b1	Toilet (Female)	Indoor	yes	plastic	27.1	63.3	No		DNA	240718_7A	240718	2407	SB	240718_7A-SBb1 SB022	7A	2407-7A	07-7A	Summer	Summer	Underground
+240718_8A	SBb1 SB034 right side	b1	Corridor	Indoor	no	metal	27	63.4	No		DNA	240718_8A	240718	2407	SB	240718_8A-SBb1 SB034 right side	8A	2407-8A	07-8A	Summer	Summer	Underground
+240718_9A	SBb1 SB038 left side	b1	Corridor	Indoor	no	plastic	27	64	No		DNA	240718_9A	240718	2407	SB	240718_9A-SBb1 SB038 left side	9A	2407-9A	07-9A	Summer	Summer	Underground
+240801_10B	SCb1 Parking lot	b1	Parking lot	Indoor	no	metal	29.1	64.7	No		DNA	240801_10B	240801	2408	SC	240801_10B-SCb1 Parking lot	10B	2408-10B	08-10B	Summer	Summer	Underground
+240801_11B	SCb1 Parking lot	b1	Parking lot	Indoor	no	metal	29.2	65.4	No		DNA	240801_11B	240801	2408	SC	240801_11B-SCb1 Parking lot	11B	2408-11B	08-11B	Summer	Summer	Underground
+240801_12B	SCb1 Parking lot	b1	Parking lot	Indoor	no	metal	29.2	65.7	No		DNA	240801_12B	240801	2408	SC	240801_12B-SCb1 Parking lot	12B	2408-12B	08-12B	Summer	Summer	Underground
+240801_13B	SCb1 Parking lot	b1	Parking lot	Indoor	no	metal	29.8	66.4	No		DNA	240801_13B	240801	2408	SD	240801_13B-SCb1 Parking lot	13B	2408-13B	08-13B	Summer	Summer	Underground
+240801_14B	SCb1 Parking lot	b1	Parking lot	Indoor	no	metal	30.1	66.8	No		DNA	240801_14B	240801	2408	SD	240801_14B-SCb1 Parking lot	14B	2408-14B	08-14B	Summer	Summer	Underground
+240801_15B	SCb1 Parking lot	b1	Parking lot	Indoor	no	metal	30.3	66.9	No		DNA	240801_15B	240801	2408	SD	240801_15B-SCb1 Parking lot	15B	2408-15B	08-15B	Summer	Summer	Underground
+240801_16B	SD Elevator	Elevator	Elevator	Indoor	no	metal	29.8	66	No		DNA	240801_16B	240801	2408	SD	240801_16B-SD Elevator	16B	2408-16B	08-16B	Summer	Summer	Elevator
+240801_17B	SD254	2	Classroom	Indoor	yes	metal	28.5	61.9	No		DNA	240801_17B	240801	2408	SD	240801_17B-SD254	17B	2408-17B	08-17B	Summer	Summer	Aboveground
+240801_18B	SD234	2	Corridor	Indoor	no	plastic	28.3	61.2	No		DNA	240801_18B	240801	2408	SD	240801_18B-SD234	18B	2408-18B	08-18B	Summer	Summer	Aboveground
+240801_19B	SC221	2	Common room	Indoor	yes	metal	28.6	59.8	No		DNA	240801_19B	240801	2408	SC	240801_19B-SC221	19B	2408-19B	08-19B	Summer	Summer	Aboveground
+240801_1B	SAb1 SA084 left side	b1	Corridor	Indoor	no	metal	28.1	67.6	No		DNA	240801_1B	240801	2408	SA	240801_1B-SAb1 SA084 left side	1B	2408-1B	08-1B	Summer	Summer	Underground
+240801_21B	SA521	5	Common room	Indoor	yes	metal	27.5	54.5	No		DNA	240801_21B	240801	2408	SA	240801_21B-SA521	21B	2408-21B	08-21B	Summer	Summer	Aboveground
+240801_3B	SAb1 SA080	b1	Toilet (Female)	Indoor	no	metal	27.9	68	No		DNA	240801_3B	240801	2408	SA	240801_3B-SAb1 SA080	3B	2408-3B	08-3B	Summer	Summer	Underground
+240801_4B	SAb1 Canteen	b1	Canteen	Indoor	no	metal	27.2	66.3	No		DNA	240801_4B	240801	2408	SA	240801_4B-SAb1 Canteen	4B	2408-4B	08-4B	Summer	Summer	Underground
+240801_5B	SAb1 SA089 (front)	b1	Corridor	Indoor	no	metal	27.2	66.6	No		DNA	240801_5B	240801	2408	SA	240801_5B-SAb1 SA089 (front)	5B	2408-5B	08-5B	Summer	Summer	Underground
+240801_6B	SAb1	b1	Corridor	Indoor	no	metal	26.7	66.3	No		DNA	240801_6B	240801	2408	SA	240801_6B-SAb1	6B	2408-6B	08-6B	Summer	Summer	Underground
+240801_7B	SBb1 (in front of elevator)	b1	Corridor	Indoor	no	metal	27.7	66.3	No		DNA	240801_7B	240801	2408	SB	240801_7B-SBb1 (in front of elevator)	7B	2408-7B	08-7B	Summer	Summer	Underground
+240801_8B	SBb1	b1	Outdoor	Outdoor	no	metal	30.9	65.6	No		DNA	240801_8B	240801	2408	SB	240801_8B-SBb1	8B	2408-8B	08-8B	Summer	Summer	Outdoor
+240801_9B	SB Elevator	Elevator	Elevator	Indoor	no	metal	29.8	64	No	Only sample the right side	DNA	240801_9B	240801	2408	SB	240801_9B-SB Elevator	9B	2408-9B	08-9B	Summer	Summer	Elevator
+240813_10A	SBb1 SB024 left side	b1	Corridor	Indoor	no	metal	29.4	65	No		DNA	240813_10A	240813	2408	SB	240813_10A-SBb1 SB024 left side	10A	2408-10A	08-10A	Summer	Summer	Underground
+240813_11A	SCb1 Parking lot	b1	Parking lot	Indoor	no	metal	29.3	64.4	No		DNA	240813_11A	240813	2408	SC	240813_11A-SCb1 Parking lot	11A	2408-11A	08-11A	Summer	Summer	Underground
+240813_12A	SCb1 Parking lot	b1	Parking lot	Indoor	no	metal	29.4	64.6	No		DNA	240813_12A	240813	2408	SC	240813_12A-SCb1 Parking lot	12A	2408-12A	08-12A	Summer	Summer	Underground
+240813_13A	SCb1 Parking lot	b1	Parking lot	Indoor	no	metal	29.2	64.6	No		DNA	240813_13A	240813	2408	SC	240813_13A-SCb1 Parking lot	13A	2408-13A	08-13A	Summer	Summer	Underground
+240813_14A	SC Elevator	Elevator	Elevator	Indoor	no	metal	29.4	64.4	No		DNA	240813_14A	240813	2408	SC	240813_14A-SC Elevator	14A	2408-14A	08-14A	Summer	Summer	Elevator
+240813_15A	SDb1 Parking lot	b1	Parking lot	Indoor	no	metal	29.5	65.6	No		DNA	240813_15A	240813	2408	SD	240813_15A-SDb1 Parking lot	15A	2408-15A	08-15A	Summer	Summer	Underground
+240813_17A	SDb1 Parking lot	b1	Parking lot	Indoor	no	metal	29.5	67.4	No		DNA	240813_17A	240813	2408	SD	240813_17A-SDb1 Parking lot	17A	2408-17A	08-17A	Summer	Summer	Underground
+240813_18A	SDb1	b1	Corridor	Indoor	no	metal	29.4	67.6	No	Renovation	DNA	240813_18A	240813	2408	SD	240813_18A-SDb1	18A	2408-18A	08-18A	Summer	Summer	Underground
+240813_19A	SB273	2	Common room	Indoor	yes	metal	28.8	63.9	No		DNA	240813_19A	240813	2408	SB	240813_19A-SB273	19A	2408-19A	08-19A	Summer	Summer	Aboveground
+240813_1A	SAb1 (By the elevator)	b1	Corridor	Indoor	no	plastic	26.6	64.4	No		DNA	240813_1A	240813	2408	SA	240813_1A-SAb1 (By the elevator)	1A	2408-1A	08-1A	Summer	Summer	Underground
+240813_21A	SA Elevator	Elevator	Elevator	Indoor	no	metal	29.4	60.5	No		DNA	240813_21A	240813	2408	SA	240813_21A-SA Elevator	21A	2408-21A	08-21A	Summer	Summer	Elevator
+240813_3A	SAb1	b1	Outdoor	Outdoor	no	plastic	27.8	67.2	No		DNA	240813_3A	240813	2408	SA	240813_3A-SAb1	3A	2408-3A	08-3A	Summer	Summer	Outdoor
+240813_5A	SBb1 SB022 (in front of toilet door)	b1	Corridor	Indoor	no	plastic	28.3	65.3	No		DNA	240813_5A	240813	2408	SB	240813_5A-SBb1 SB022 (in front of toilet door)	5A	2408-5A	08-5A	Summer	Summer	Underground
+240813_6A	SBb1 SB026	b1	Toilet (Male)	Indoor	yes	plastic	28.7	65.7	No		DNA	240813_6A	240813	2408	SB	240813_6A-SBb1 SB026	6A	2408-6A	08-6A	Summer	Summer	Underground
+240813_8A	SBb1 SB034 right side	b1	Corridor	Indoor	no	metal	29.4	65.3	No		DNA	240813_8A	240813	2408	SB	240813_8A-SBb1 SB034 right side	8A	2408-8A	08-8A	Summer	Summer	Underground
+240813_9A	SBb1 SB038 left side	b1	Corridor	Indoor	yes	plastic	29.5	65	No		DNA	240813_9A	240813	2408	SB	240813_9A-SBb1 SB038 left side	9A	2408-9A	08-9A	Summer	Summer	Underground
